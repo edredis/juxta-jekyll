@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nick &#8211; Juxta</title>
+	<atom:link href="http://www.juxtasoftware.org/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.juxtasoftware.org</link>
+	<description>Collation Software for Scholars</description>
+	<lastBuildDate>Thu, 22 Mar 2018 17:18:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>server hiccups</title>
+		<link>http://www.juxtasoftware.org/technical-problems/</link>
+		<pubDate>Tue, 26 Aug 2008 21:41:28 +0000</pubDate>
+		<dc:creator><![CDATA[nick]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://www.patacriticism.org/juxta/?p=48</guid>
+		<description><![CDATA[For all those who had trouble accessing the site this week, we’re happy to announce it’s up and running again! We apologize for the delay and encourage you to access the manual and software download pages once more.]]></description>
+				<content:encoded><![CDATA[<p>For all those who had trouble accessing the site this week, we’re happy to announce it’s up and running again! We apologize for the delay and encourage you to access the manual and software download pages once more.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Juxta 1.2.2 Released</title>
+		<link>http://www.juxtasoftware.org/juxta-122-released/</link>
+		<pubDate>Mon, 14 Apr 2008 19:26:42 +0000</pubDate>
+		<dc:creator><![CDATA[nick]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://www.patacriticism.org/juxta/?p=36</guid>
+		<description><![CDATA[Juxta 1.2.2 is now available for download. The major new feature in this release is an improved fragment selection mechanism and the ability to easily preview files before collating them. This functionality is accessed via the “Files” tab on the &#8230; <a href="http://www.juxtasoftware.org/juxta-122-released/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Juxta 1.2.2 is now available for download. The major new feature in this release is an improved fragment selection mechanism and the ability to easily preview files before collating them. This functionality is accessed via the “Files” tab on the left hand panel, depicted below.</p>
+<p><img id="image34" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/04/juxta-frag1.jpg" alt="juxta-frag1.jpg" width="248" height="187" /><br />
+Clicking on the “Files” tab brings up a tree of the files in the currently selected base directory. Clicking on the file icon allows the scholar to select a directory from which to select files for collation.</p>
+<p><img id="image35" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/04/juxta-frag2.jpg" alt="juxta-frag2.jpg" width="247" height="185" /><br />
+Double clicking on files with a “txt” or “xml” extension opens them in a preview mode. The scholar can then choose to import the entire file into the collation or to highlight a fragment and pull just the highlighted fragment into the collation. Fragments carry with them the metadata and lineation from the source text, if any. This new functionality replaces the old fragment selection mode with a more integrated solution.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Juxta-dev mailing list</title>
+		<link>http://www.juxtasoftware.org/juxta-dev-mailing-list/</link>
+		<pubDate>Thu, 01 Nov 2007 19:04:06 +0000</pubDate>
+		<dc:creator><![CDATA[nick]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://www.patacriticism.org/juxta/?p=32</guid>
+		<description><![CDATA[A mailing list is now available for following Juxta&#8217;s development and communicating with others who are using Juxta. Please subscribe to the mailing list here.]]></description>
+				<content:encoded><![CDATA[<p>A mailing list is now available for following Juxta&#8217;s development and communicating with others who are using Juxta. Please subscribe to the mailing list <a href="https://list.mail.virginia.edu/mailman/listinfo/juxta-dev">here</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Juxta 1.2.1 Released</title>
+		<link>http://www.juxtasoftware.org/juxta-121-released/</link>
+		<pubDate>Wed, 31 Oct 2007 18:58:05 +0000</pubDate>
+		<dc:creator><![CDATA[nick]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://www.patacriticism.org/juxta/?p=24</guid>
+		<description><![CDATA[It has been a while since we have had an update on this blog, but work has been occurring this year behind the scenes at ARP. Juxta 1.2.1 is now available for download. Last summer, Performant Software Solutions developed a &#8230; <a href="http://www.juxtasoftware.org/juxta-121-released/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>It has been a while since we have had an update on this blog, but work has been occurring this year behind the scenes at ARP. Juxta 1.2.1 is now available for download.</p>
+<p>Last summer, <a href="http://www.performantsoftware.com">Performant Software Solutions</a> developed a new version of Juxta for ARP. This is the version I demoed at COST 32 Workshop in Antwerp, Belgium in September. Below is a summary of the new features and bug fixes found in this release.</p>
+<p><strong>New Features<br />
+</strong><br />
+Passage Collation &#8211; Juxta can now collate texts in which passages appear in different order from one text to the next. A new user interface component, the Passage Panel, guides the user through the process. See the updated <a href="http://www.patacriticism.org/juxta/?page_id=4">user&#8217;s manual</a> for more information.</p>
+<p>Fragment Collation &#8211; Juxta can also collate fragments of texts. This is useful when the target of collation is embedded in a document.</p>
+<p>Free Scrolling in Comparison View &#8211; Documents in the side-by-side comparison view can now be scrolled independent of one another.</p>
+<p>Easier to Find Samples Directory &#8211; A file menu shortcut has been added that takes you straight to the samples directory.</p>
+<p>Improvements to generation of Critical Apparatus &#8211; A dialog box now allows you to specify a title for the critical apparatus. A progress bar is now provided while the critical apparatus is being generated. Some bugs with the generation of lemmas within the apparatus have been fixed.</p>
+<p>Find Works in Either Document &#8211; The Find Dialog can now find text in either document in the side-by-side comparison mode.<br />
+<strong><br />
+Bug Fixes</strong></p>
+<p>Improvements to Collation Algorithm &#8211; Hans Walter Gabler found some problems with the collation output in specific circumstances. We have corrected these errors.</p>
+<p>Margin Box Clipping &#8211; Occasionally, when the window was resized it would cause the margin boxes to be clipped, this has been fixed.</p>
+<p>Scrollbar Positioning Sometimes Incorrect &#8211; When loading a large document the scrollbar would become positioned incorrectly, this has been fixed.</p>
+<p>Image Display Not Updating &#8211; When flipping between documents, sometimes the image associated with the document on screen would not appear, this has been fixed.</p>
+<p>Large Images Cause Scrolling to Be Erratic &#8211; Related to the issue above, scrolling through documents which have images associated with them could be jerky at times as the images loaded. Loading has been adjusted so this no longer occurs.</p>
+<p>Out of Memory Error &#8211; Loading two large, completely unrelated documents could cause a system error. This has been fixed.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>&#8220;new horizons&#8221; demo</title>
+		<link>http://www.juxtasoftware.org/new-horizons-demo/</link>
+		<pubDate>Mon, 21 May 2007 13:03:08 +0000</pubDate>
+		<dc:creator><![CDATA[nick]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://www.patacriticism.org/juxta/?p=19</guid>
+		<description><![CDATA[If you&#8217;re in the Charlottesville area this week and are interested in a hands-on look at Juxta, please join us at the New Horizons in Teaching and Research conference, jointly sponsored by ITC and the University of Virginia Library. Bethany &#8230; <a href="http://www.juxtasoftware.org/new-horizons-demo/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>If you&#8217;re in the Charlottesville area this week and are interested in a hands-on look at Juxta, please join us at the <a href="http://www.itc.virginia.edu/newhorizons/">New Horizons in Teaching and Research</a> conference, jointly sponsored by ITC and the University of Virginia Library.  Bethany Nowviskie will be demonstrating the software and answering questions at 10 AM on Tuesday, May 22nd.  For more details, see the conference program.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>juxta open source</title>
+		<link>http://www.juxtasoftware.org/juxta-open-source/</link>
+		<pubDate>Tue, 09 May 2006 15:47:45 +0000</pubDate>
+		<dc:creator><![CDATA[nick]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://www.patacriticism.org/juxta/2006/05/09/juxta-open-source/</guid>
+		<description><![CDATA[We&#8217;re happy to announce, as promised, a release of the Juxta source code under an Educational Community License. All materials are hosted at SourceForge.]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;re happy to announce, as promised, a release of the Juxta source code under an <a href="http://opensource.org/licenses/ecl1.php">Educational Community License</a>.  All materials are hosted at <a href="http://sourceforge.net/projects/patacriticism/">SourceForge</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Juxta&#8217;s Future Development</title>
+		<link>http://www.juxtasoftware.org/juxtas-future-development/</link>
+		<pubDate>Fri, 05 May 2006 13:10:49 +0000</pubDate>
+		<dc:creator><![CDATA[nick]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://www.patacriticism.org/juxta/2006/05/05/juxtas-future-development/</guid>
+		<description><![CDATA[Juxta is being released under an Educational Community License. We will be making it available in SourceForge very shortly, and we welcome all and any suggestions about its future development. It’s the case that, as currently released, Juxta’s interface has &#8230; <a href="http://www.juxtasoftware.org/juxtas-future-development/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Juxta is being released under an Educational Community License. We will be making it available in SourceForge very shortly, and we welcome all and any suggestions about its future development. It’s the case that, as currently released, Juxta’s interface has a kind of “black-box” appearance. We wanted it to be as user-friendly as possible and in that effort we left developers without easy access to the code. Ron Van den Branden’s comment (on our initial post, below) has spurred us to decide that we should, as soon as possible, release a “developer’s pack” with information about how jxt and source XML files are located and constructed, and maybe with some sample XSLT for TEI-lite. On that matter look for a posting shortly, within a couple of weeks.</p>
+<p>As to the other issue raised by Ron’s feedback: at present Juxta outputs HTML and so doesn’t facilitate XSL transformations for databases and online editions. But the tool was conceived for XML output (it’s built using the Velocity template engine) and this development is planned (in the next release of Juxta, this year).</p>
+<p>Jerry</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

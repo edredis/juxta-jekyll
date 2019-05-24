@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Beth &#8211; Juxta</title>
+	<atom:link href="http://www.juxtasoftware.org/author/beth/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.juxtasoftware.org</link>
+	<description>Collation Software for Scholars</description>
+	<lastBuildDate>Thu, 22 Mar 2018 17:18:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>for dummies?</title>
+		<link>http://www.juxtasoftware.org/for-dummies/</link>
+		<pubDate>Fri, 18 Jan 2008 18:08:44 +0000</pubDate>
+		<dc:creator><![CDATA[Beth]]></dc:creator>
+				<category><![CDATA[Using Juxta]]></category>
+
+		<guid isPermaLink="false">http://www.patacriticism.org/juxta/?p=33</guid>
+		<description><![CDATA[Wesley Raabe, a former colleague at UVA (now CLIR Fellow at the Center for Digital Research in the Humanities) has written a very nice blog post describing his experiences with Juxta. He subtitles it “textual collation for dummies,” which I &#8230; <a href="http://www.juxtasoftware.org/for-dummies/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Wesley Raabe, a former colleague at UVA (now CLIR Fellow at the <a href="http://cdrh.unl.edu/">Center for Digital Research in the Humanities</a>) has written a very nice blog post describing his experiences with Juxta. He subtitles it “<a href="http://wraabe.wordpress.com/2008/01/17/the-digital-archive-and-literary-scholarship-textual-collation-for-dummies/">textual collation for dummies</a>,” which I take as a real compliment, because Juxta was designed to open up this esoteric practice and make it easier for literary scholars to see the utility of analyzing variant texts without having to hunker over a Lindstrand Comparator or dazzle at the flashing lights of an Hinman.</p>
+<p>Wesley also points out that Juxta accepts unmarked, plain-text (.txt) documents as a baseline for comparison. But we want to make it clear that Juxta can work with more than plain text files — and for scholars who are interested in recording even very complex line or other numbering schemes, embedding bibliographic citation information and other notes in the files, Juxta’s particular flavor of XML can be useful. Juxta XML can be constructed by hand or generated via XSLT from other XML formatted files (such as TEI). Its simple format is described beginning on page 17 of our <a href="http://www.patacriticism.org/juxta/?page_id=4">user manual</a>.</p>
+<p>Why bother? Juxta XML is a great choice if you’d like the printable apparatus to be generated complete with bibliographic information and your notes, keyed to line and page or scene or chapter or canto numbers that make sense to scholars studying your particular texts.<a href="https://www.commercial-inflatable.com/Sale-Cheap-Castle-Jumper-2020.html">bouncy castle sales</a></p>
+<p>I haven’t seen anybody do this yet, but Juxta XML would also be a nice choice for the editor of an existing archive of well-proofed XML documents of various editions to provide to end users as a download option. In that case, Juxta — in its most sophisticated form — would be plug-and-play. Even for dummies.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

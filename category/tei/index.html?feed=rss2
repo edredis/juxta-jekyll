@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tei &#8211; Juxta</title>
+	<atom:link href="http://www.juxtasoftware.org/category/tei/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.juxtasoftware.org</link>
+	<description>Collation Software for Scholars</description>
+	<lastBuildDate>Thu, 22 Mar 2018 17:18:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Digital Thoreau and Parallel Segmentation</title>
+		<link>http://www.juxtasoftware.org/digital-thoreau-and-parallel-segmentation/</link>
+		<comments>http://www.juxtasoftware.org/digital-thoreau-and-parallel-segmentation/#respond</comments>
+		<pubDate>Tue, 26 Feb 2013 19:48:49 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[tei]]></category>
+		<category><![CDATA[Using Juxta]]></category>
+		<category><![CDATA[xml]]></category>
+		<category><![CDATA[embed]]></category>
+		<category><![CDATA[thoreau]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=348</guid>
+		<description><![CDATA[[Cross-posted at nines.org.] Every now and then I like to browse the project list at DHCommons.org, just to get an idea of what kind of work is being done in digital scholarship around the world. This really paid off recently, &#8230; <a href="http://www.juxtasoftware.org/digital-thoreau-and-parallel-segmentation/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p><em>[Cross-posted at <a href="http://www.nines.org/news/?p=10115">nines.org</a>.]</em></p>
+<p>Every now and then I like to browse the project list at <a href="http://dhcommons.org/">DHCommons.org</a>, just to get an idea of what kind of work is being done in digital scholarship around the world. This really paid off recently, when I stumbled upon <a href="http://www.digitalthoreau.org/">Digital Thoreau</a>, an engaging and well-structured site created by a group from <a href="http://www.geneseo.edu/">SUNY-Geneseo</a>. This project centers around a TEI-encoded edition of Walden, which will, to quote their mission statement, &#8220;be enriched by annotations links, images, and social tools that will enable users to create conversations around the text.&#8221; I highly recommend that anyone interested in text encoding take a look at their <a href="http://digitalthoreau.org/walden/solitude/text/05_solitude.xml" target="_blank">genetic text demo</a> of &#8220;Solitude,&#8221; visualized using the <a href="http://v-machine.org/" target="_blank">Versioning Machine</a>.</p>
+<p>What really caught my attention, however, is that they freely offer a <a href="https://docs.google.com/document/d/1V6LumIYOdw4dkEAOVJtCLmHspgAQENDSv5N3l7OV9nU/edit" target="_blank">toolkit </a>of materials from their project, including XML documents marked up in TEI. This allowed me to take a closer look at how they encoded the text featured in the demo, and try visualizing it, myself.</p>
+<iframe class='jx-wp-iframe' src='http://juxtacommons.org//shares/2ze98h'></iframe>
+<p>This embed shows the same text featured on the <a href="http://digitalthoreau.org/walden/solitude/text/05_solitude.xml" target="_blank">Digital Thoreau</a> site, now visualized in Juxta Commons. It is possible to import a file encoded in TEI Parallel Segmentation directly into Juxta Commons, and the software will immediately break down the file into its constituent witnesses (<a href="http://juxtacommons.org/shares/azsJ6W" target="_blank">see this example</a> of their base witness from Princeton) and visualize them as a comparison set.</p>
+<div id="attachment_352" style="width: 613px" class="wp-caption aligncenter"><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/upload_par_seg.jpg"><img class=" wp-image-352" title="Uploading Parallel Segmentation" alt="upload screen" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/upload_par_seg.jpg" width="603" height="317" srcset="http://www.juxtasoftware.org/wp-content/uploads/2013/02/upload_par_seg.jpg 1230w, http://www.juxtasoftware.org/wp-content/uploads/2013/02/upload_par_seg-300x157.jpg 300w, http://www.juxtasoftware.org/wp-content/uploads/2013/02/upload_par_seg-1024x538.jpg 1024w, http://www.juxtasoftware.org/wp-content/uploads/2013/02/upload_par_seg-500x263.jpg 500w" sizes="(max-width: 603px) 100vw, 603px" /></a><p class="wp-caption-text">Uploading Parallel Segmentation</p></div>
+<p>&nbsp;</p>
+<div id="attachment_353" style="width: 748px" class="wp-caption aligncenter"><img class=" wp-image-353" title="Parallel Segmentation successfully added" alt="par_seg.loaded" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/par_seg.loaded.jpg" width="738" height="539" srcset="http://www.juxtasoftware.org/wp-content/uploads/2013/02/par_seg.loaded.jpg 1054w, http://www.juxtasoftware.org/wp-content/uploads/2013/02/par_seg.loaded-300x219.jpg 300w, http://www.juxtasoftware.org/wp-content/uploads/2013/02/par_seg.loaded-1024x748.jpg 1024w, http://www.juxtasoftware.org/wp-content/uploads/2013/02/par_seg.loaded-410x300.jpg 410w" sizes="(max-width: 738px) 100vw, 738px" /><p class="wp-caption-text">Parallel Segmentation file added and processed&nbsp;</p>
+<p></p></div>
+<p>&nbsp;</p>
+<p>Once you&#8217;ve successfully added the file to your account, you have access to the heat map visualization (where changes are highlighted blue on the chosen base text), the side-by-side option, and a histogram to give you a global view if the differences between the texts in the set. In this way, the Juxta Commons R&amp;D hope to enable the use of our software in concert with other open-source tools.</p>
+<p>I should also note that Juxta Commons allows the user to <strong>export</strong> any other sets they have created as a parallel-segmented file. This is a great feature for starting an edition of your own, but it no way includes the complexity of markup one would see in files generated by a rigorous project like Digital Thoreau. We like to think of it the Parallel Segmentation and new experimental edition builder export as building blocks for future scholarly editions.</p>
+<p>Many thanks to the team at <a href="http://www.digitalthoreau.org/" target="_blank">Digital Thoreau</a> for allowing us to make use of their scholarship!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/digital-thoreau-and-parallel-segmentation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

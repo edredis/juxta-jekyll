@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Page 2 &#8211; Juxta</title>
+	<atom:link href="http://www.juxtasoftware.org/feed/?paged=2" rel="self" type="application/rss+xml" />
+	<link>http://www.juxtasoftware.org</link>
+	<description>Collation Software for Scholars</description>
+	<lastBuildDate>Thu, 22 Mar 2018 17:18:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Using the Critical Apparatus in Digital Scholarship</title>
+		<link>http://www.juxtasoftware.org/using-the-critical-apparatus-in-digital-scholarship/</link>
+		<comments>http://www.juxtasoftware.org/using-the-critical-apparatus-in-digital-scholarship/#respond</comments>
+		<pubDate>Thu, 18 Oct 2012 15:32:39 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[critical apparatus]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=261</guid>
+		<description><![CDATA[     As the Juxta R&#38;D team has worked to take the desktop version of our collation software to the web, I&#8217;ve found myself thinking a great deal about the critical apparatus and its role when working with digital (digitized?) &#8230; <a href="http://www.juxtasoftware.org/using-the-critical-apparatus-in-digital-scholarship/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: left;"><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/09/ladyofshalott.jpg"><img class="wp-image-51 alignnone" title="Lady of Shalott page image" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/09/ladyofshalott.jpg" alt="" width="73" height="131" /></a>    <a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/09/tennysonapparat.jpg"><img class="alignnone  wp-image-75" title="Critical Apparatus" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/09/tennysonapparat.jpg" alt="" width="180" height="129" /></a></p>
+<p style="text-align: left;">As the Juxta R&amp;D team has worked to take the desktop version of our collation software to the web, I&#8217;ve found myself thinking a great deal about the <a href="http://en.wikipedia.org/wiki/Critical_apparatus">critical apparatus</a> and its role when working with digital (digitized?) texts.</p>
+<p style="text-align: left;">In the thumbnails above, you can see a page image from a traditional print edition (in this case, of Tennyson&#8217;s poetry) on the left, and a screenshot of the old Juxta critical apparatus output on the right. In the original, downloadable, version of Juxta, we allowed users to browse several visualizations of the collation in order to target areas of interest, but we also offered them the ability to export their results in an HTML-encoded apparatus. This was an effort to connect digital scholarship to traditional methods of textual analysis, as well as a way to allow scholars to share their findings with others in a familiar medium.</p>
+<p style="text-align: left;">It has become clear to me, based on the feedback from our users, that this HTML critical apparatus has been quite useful for a number of scholars. Even though our output could seem cryptic without being paired with the text of the base witness (as it is in the Tennyson edition), it was apparent that scholars still needed to translate their work in Juxta into the traditional format.</p>
+<p> In the meantime, scholars working with the <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html">Text Encoding Initiative</a> (TEI) developed Parallel Segmentation, a method of encoding the critical apparatus in XML. In her article,  &#8220;<a href="http://jtei.revues.org/203?lang=en" target="_blank">Knowledge Representation and Digital Scholarly Editions in Theory and Practice</a>,&#8221; Tanya Clement describes the effectiveness of using parallel segmentation to encode her digital edition of the work of the Baroness Elsa von Freytag-Loringhoven.  Using a TEI apparatus along with a visualization tool called the <a href="http://www.v-machine.org/" target="_blank">Versioning Machine</a>, Clement argued that her project &#8220;encourage[d] critical inquiry concerning <em>how</em> a digital scholarly edition represents knowledge differently than a print edition,&#8221; and illustrated the flexibility of working with full texts in tandem. Witnesses, or alternate readings, were not subsumed under a (supposedly static) base text, but living, dynamic representations of the social and cultural networks within which the Baroness lived and wrote.</p>
+<p>Working with digital texts can make generating a critical apparatus difficult. One could encode your apparatus manually, as Clement did, but most users of Juxta wanted us to take their plain text or XML-encoded files and transform them automatically. The traditional apparatus requires exact notations of line numbers and details about the printed page. How does one do that effectively when working with plain text files that bear no pagination and few (if any) hard returns, denoting line breaks? Instead of hurriedly replicating the desktop apparatus online &#8211;knowing it would posses these weaknesses and more &#8212; the R&amp;D team chose to offer TEI Parallel Segmentation output for <a href="http://juxtacommons.org" target="_blank">Juxta Commons</a>.</p>
+<p><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/10/tei_parSeg.jpg"><img class="alignnone  wp-image-262" title="Juxta TEI  Par Seg export" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/10/tei_parSeg-300x174.jpg" alt="Juxta TEI  Parallel Segmentation export" width="240" height="139" srcset="http://www.juxtasoftware.org/wp-content/uploads/2012/10/tei_parSeg-300x174.jpg 300w, http://www.juxtasoftware.org/wp-content/uploads/2012/10/tei_parSeg.jpg 400w" sizes="(max-width: 240px) 100vw, 240px" /></a></p>
+<p>Any user of Juxta Commons can upload a file encoded in TEI Parallel Segmentation, and see their documents represented in Juxta&#8217;s <a href="http://juxtacommons.org/guide#visualizations" target="_blank">heat map, side-by-side, and histogram views</a>. Those working with plain text of XML files can also export the results of their collations as a downloadable TEI Parallel Segmentation file. In short, Juxta Commons and can both read and write TEI Parallel Segmentation.</p>
+<p>However, we&#8217;re not convinced that the traditional apparatus has lost its functionality. We&#8217;d like to ask you, our users, to tell us more about your needs. How do you use the critical apparatus in your studies? What other kind of apparatus could we offer to streamline and enhance your work in Juxta Commons?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/using-the-critical-apparatus-in-digital-scholarship/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Juxta and the THEOT Project</title>
+		<link>http://www.juxtasoftware.org/juxta-and-the-theot-project/</link>
+		<comments>http://www.juxtasoftware.org/juxta-and-the-theot-project/#respond</comments>
+		<pubDate>Sat, 06 Oct 2012 21:17:59 +0000</pubDate>
+		<dc:creator><![CDATA[curtniccum]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=225</guid>
+		<description><![CDATA[The Textual History of the Ethiopic Old Testament Project (THEOT) is an international effort to identify and to trace textual trajectories found in Ethiopian manuscripts that contain books included in the canon of the Hebrew Bible. (The Ethiopian Orthodox church &#8230; <a href="http://www.juxtasoftware.org/juxta-and-the-theot-project/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>The Textual History of the Ethiopic Old Testament Project (THEOT) is an international effort to identify and to trace textual trajectories found in Ethiopian manuscripts that contain books included in the canon of the Hebrew Bible. (The Ethiopian Orthodox church counts a number of other books as part of their canon, but another team is examining those texts.) Although we hope our efforts will eventually lead to full critical editions of each book, the immediate goal is more manageable. By employing profile methods similar to those used in the field of New Testament Textual Criticism we will produce a preliminary textual history based on the collations of 15-70 select readings in 30 carefully chosen manuscripts per book.</p>
+<p>Ted Erho, in consultation with the Primary Investigator (PI) assigned to a particular biblical work, selects the manuscripts based on age and significance. All manuscripts predating the 16<sup>th</sup> century are included by default. A representative sampling of later manuscripts and textual families (when known) populate the remaining number.</p>
+<p>I also work with each PI to determine which passages to collate. We look for places where there is clear and significant variation in the Ethiopian tradition as well as in the sources that may have impacted the development of the text such as the Greek, Hebrew, Syriac, Coptic, and Arabic versions. Collations of the Ethiopic texts will provide data for mapping out internal developments. Alignment of the subsequently isolated traditions with external versional evidence will establish the source of the original translation and perhaps what foreign influences subsequently affected Ethiopia’s transmission of sacred texts.</p>
+<p>Once these elements are set, every selected passage in each manuscript is collated separately by a minimum of two scholars. We then use Juxta to compare the transcriptions. Juxta highlights in blue the areas where the collations disagree, which <a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/10/Juxta-Collation-Window.jpg"><img class="alignright size-medium wp-image-254" title="Juxta Collation Window" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/10/Juxta-Collation-Window-300x42.jpg" alt="" width="300" height="42" srcset="http://www.juxtasoftware.org/wp-content/uploads/2012/10/Juxta-Collation-Window-300x42.jpg 300w, http://www.juxtasoftware.org/wp-content/uploads/2012/10/Juxta-Collation-Window-500x70.jpg 500w, http://www.juxtasoftware.org/wp-content/uploads/2012/10/Juxta-Collation-Window.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /></a>expedites comparison and final editing. The investigators work through the differences aiming for a consensus on every reading. The end result is a transcription 99.9% pure.</p>
+<p>Second, we then collate these “pure” transcriptions of the thirty manuscripts to identify unique readings and family groupings. What once required a tremendous amount of effort is accomplished in mere seconds with Juxta. Relationships between groups of <a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/10/Juxta-Comparison-Set-Window.jpg"><img class="alignright size-full wp-image-253" title="Juxta Comparison Set Window" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/10/Juxta-Comparison-Set-Window.jpg" alt="" width="268" height="170" /></a>manuscripts are much easier to identify with the graded highlighting scheme employed in Juxta’s “Comparison Set” window. Plus the words and phrases highlighted in the collation window facilitate the isolation of distinct variation units of value for mapping out Ethiopia’s textual history.</p>
+<p>(On the off chance that someone will read this who knows Ethiopic, I should note that we create two copies of the final “pure” transcriptions. One version is retained in its original form preserving all of the orthographical variants and scribal idiosyncrasies. These will be used later for publications and further research. The other version is “standardized” through a process that removes a large amount of the numerous orthographic variations, such as the frequent interchange of gutturals, that occur in Ethiopic manuscripts.)</p>
+<p>In addition to providing the data we need for our immediate goals, these units will be compiled into a list that will allow scholars in the future to classify quickly the textual affinity of other manuscripts.</p>
+<p>We are very grateful to the Juxta team for providing the software and quickly responding to the particular needs of the THEOT Project. We eagerly anticipate using this new web version and the further refinements and development sure to come.</p>
+<p>The Textual History of the Ethiopic Old Testament Project</p>
+<p>Co-Directors: Steve Delamarter and Curt Niccum</p>
+<p>Steering Committee: Jeremy Brown, Aaron Butts, Ted Erho, Martin Heide, Ralph Lee</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/juxta-and-the-theot-project/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Preview of Juxta Commons</title>
+		<link>http://www.juxtasoftware.org/a-preview-of-juxta-commons/</link>
+		<comments>http://www.juxtasoftware.org/a-preview-of-juxta-commons/#respond</comments>
+		<pubDate>Mon, 01 Oct 2012 15:51:53 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[juxtabeta]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[testing]]></category>
+		<category><![CDATA[Using Juxta]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=241</guid>
+		<description><![CDATA[The NINES R&#38;D team is happy to announce a new phase of testing for Juxta online: Juxta Commons. We&#8217;re entering our final phase of intensive testing on this new site for using Juxta on the web, which breaks down the processes of &#8230; <a href="http://www.juxtasoftware.org/a-preview-of-juxta-commons/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[
+<a href='http://www.juxtasoftware.org/a-preview-of-juxta-commons/heat_map-sample/'><img width="150" height="150" src="http://www.juxtasoftware.org/wp-content/uploads/2012/10/heat_map.sample-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='http://www.juxtasoftware.org/a-preview-of-juxta-commons/side-by-side-sample/'><img width="150" height="150" src="http://www.juxtasoftware.org/wp-content/uploads/2012/10/side-by-side.sample-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='http://www.juxtasoftware.org/a-preview-of-juxta-commons/filtering_xml/'><img width="150" height="150" src="http://www.juxtasoftware.org/wp-content/uploads/2012/10/filtering_xml-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='http://www.juxtasoftware.org/a-preview-of-juxta-commons/histogram/'><img width="150" height="150" src="http://www.juxtasoftware.org/wp-content/uploads/2012/10/histogram-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>The NINES R&amp;D team is happy to announce a new phase of testing for Juxta online: Juxta Commons. We&#8217;re entering our final phase of intensive testing on this new site for using Juxta on the web, which breaks down the processes of the desktop application so you always have access to your raw source files and your witnesses, in addition to your comparison sets. We&#8217;ve even added more ways to work with XML, as well as an option to import and export files encoded in <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html">TEI Parallel Segmentation</a>.</p>
+<p>We have invited a group of scholars and users to try out Juxta Commons for the next two months, and share their experiences online. They&#8217;ll be exploring new ways to add source files, filter XML content and browse our newly-updated visualizations, previewed in the gallery above.</p>
+<p>If you would like to be a part of this group of testers, please leave a comment below, and we&#8217;ll get in touch with you.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/a-preview-of-juxta-commons/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>On the Juxta Beta release, and taking collation online</title>
+		<link>http://www.juxtasoftware.org/on-the-juxta-beta-release-and-taking-collation-online/</link>
+		<pubDate>Tue, 10 Apr 2012 15:36:50 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[juxtabeta]]></category>
+		<category><![CDATA[testing]]></category>
+		<category><![CDATA[web service]]></category>
+		<category><![CDATA[beta]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=211</guid>
+		<description><![CDATA[In September of 2008, when I first became acquainted with Juxta as a collation tool, I wrote a blog post as a basic demonstration of the software. I hunted down transcriptions of two versions of one of my favorite poems, &#8230; <a href="http://www.juxtasoftware.org/on-the-juxta-beta-release-and-taking-collation-online/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><img class="aligncenter size-medium wp-image-213" title="Heat Map, Lady of Shalott" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/04/tennyson.heatmap-300x240.jpg" alt="" width="300" height="240" srcset="http://www.juxtasoftware.org/wp-content/uploads/2012/04/tennyson.heatmap-300x240.jpg 300w, http://www.juxtasoftware.org/wp-content/uploads/2012/04/tennyson.heatmap-373x300.jpg 373w, http://www.juxtasoftware.org/wp-content/uploads/2012/04/tennyson.heatmap.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>In September of 2008, when I first became acquainted with Juxta as a collation tool, I wrote a <a href="http://dev-juxtasoftware.pantheonsite.io/searching-tennyson/">blog post</a> as a basic demonstration of the software. I hunted down transcriptions of two versions of one of my favorite poems, Tennyson&#8217;s &#8220;The Lady of Shalott,&#8221; and collated them alongside the abbreviated lyrics to the song adapted from work by Loreena McKennitt. <a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/09/tennsysoncomp.jpg">Screenshots</a> were all I had to illustrate the process and its results, however &#8211; anyone interested in exploring the dynamic collation in full would need to first download Juxta, then get the set of files from me. We had a great tool that encouraged discovery and scholarly play, but it didn&#8217;t facilitate collaboration and communication. Now, in 2012, I can finally show you <a href="http://juxta.performantsoftware.com/shares/e0547f83dc8c48ff971ecd706970c02e/view?mode=heatmap ">that set</a> in its entirety.</p>
+<p>The dream of Juxta for the web has been a long time coming, and we couldn&#8217;t have done it without generous funding from the <a href="http://dev-juxtasoftware.pantheonsite.io/juxta-receives-google-digital-humanities-award/">Google Digital Humanities Award</a> and support from European scholars in the <a href="http://www.cost-a32.eu/">COST Action 32 group</a>, TextGrid and the whole team behind <a href="http://collatex.sourceforge.net/">CollateX</a>. As Project Manager, I&#8217;m thrilled to be a part of the open beta release of the <a href="http://juxta.performantsoftware.com/">Juxta web service</a>, accessed through version 1.6.5 of the desktop application.</p>
+<p>I imagine at this point you&#8217;re wondering:  <em>if I want to try out the web service, do I still have to download the desktop application? Why would I do that?</em></p>
+<p>Over the past year, our development team&#8217;s efforts have been directed to breaking down the methods by which Juxta handles texts into &#8216;microservices&#8217; following the <a href="http://www.interedition.eu/wiki/index.php/About_microservices#Gothenburg_Model_and_Implementation">Gothenberg Model</a> for collation. We designed the web service to enable other tools and methods to make use of its output: in <a href="https://wiki.projectbamboo.org/display/BTECH/Corpora+Space">Bamboo CorporaSpace</a>, for example, a text-mining   algorithm could benefit from the tokenization performed by Juxta. We imagined Juxta not just as a standalone tool, but as one that could interact with a suite of other potential tools.</p>
+<p>That part of our development is ready for testing, and the <a href="https://github.com/performant-software/juxta-desktop/wiki/JuxtaWebServiceApi">API documentation</a> is available at GitHub.</p>
+<p>However, the user workflow for Juxta as a destination site for collations on the web, is still being implemented. Hence this new, hybrid beta, which leverages the desktop application&#8217;s interface for adding, subtracting and editing documents while also inviting users to share their curated comparison sets online.</p>
+<p>This is where you come in, beta testers &#8211; we need you to tell us more about how you&#8217;d like to user Juxta online. We know that collation isn&#8217;t just for scholarly documents: we&#8217;ve seen how <a href="http://juxta.performantsoftware.com/shares/ba4a680b3ad341fe8f7561d6d38b1581/view?mode=heatmap&amp;base=451">visualizing versions of Wikipedia pages</a> can tell us something about evolving conversations in Digital Humanities, and we&#8217;ve thought about Juxta&#8217;s potential as a method for authenticating online texts. But as we design a fully online environment for Juxta, we want to get a better sense of what the larger community wants.</p>
+<p>I want to thank everyone who has set up and account and tried out the  newest version. We&#8217;ve seen some really exciting possibilities, and we&#8217;re taking in a lot of valuable feedback. If you&#8217;ve held off so far, I ask that you consider trying it out.</p>
+<p><strong>But I don&#8217;t have any texts to collate!</strong></p>
+<p>No worries! We&#8217;re slowly populating a Collation Gallery of comparison sets shared by other beta testers. You might just find something there that gets your creative juices flowing.</p>
+<p>Explore <a href="http://juxta.performantsoftware.com/">Juxta Beta</a> today!</p>
+<p>** cross-posted on the NINES site **</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Beta-release of Juxta includes online sharing</title>
+		<link>http://www.juxtasoftware.org/beta-release-of-juxta-includes-online-sharing/</link>
+		<pubDate>Mon, 02 Apr 2012 17:10:20 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[Digital Humanities]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=195</guid>
+		<description><![CDATA[Calling all beta testers! Over the past few months, NINES and the developers of Juxta have been busy adapting the application for use on the web. In order to expand our testing capabilities, we&#8217;re releasing a version of the desktop client &#8230; <a href="http://www.juxtasoftware.org/beta-release-of-juxta-includes-online-sharing/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;">
+<p><a href="http://juxta.performantsoftware.com/">Calling all beta testers!</a></p>
+<p>Over the past few months, NINES and the developers of Juxta have been busy adapting the application for use on the web. In order to expand our testing capabilities, we&#8217;re releasing a version of the desktop client that offers users the ability to share comparison sets online.</p>
+<p>If you have any sets of witnesses to a particular work that you would like to collate and share, we invite you to sign up and <a href="http://juxta.performantsoftware.com/">download the beta version</a>  to try out some of our online features. Please keep in mind that this is a trial version of the web-service, and may be subject to changes and updates over the next few months. Joining us now ensures that your feedback will make the full release of the software better than we could manage in-house.</p>
+<p><a href="http://juxta.performantsoftware.com/"> Please help us make Juxta better!</a></p>
+<p style="text-align: center;">
+]]></content:encoded>
+			</item>
+		<item>
+		<title>New Partnership with the Modernist Versions Project</title>
+		<link>http://www.juxtasoftware.org/new-partnership-with-the-modernist-versions-project/</link>
+		<pubDate>Tue, 13 Sep 2011 10:48:01 +0000</pubDate>
+		<dc:creator><![CDATA[kristin]]></dc:creator>
+				<category><![CDATA[Digital Humanities]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=141</guid>
+		<description><![CDATA[Great news! Juxta is at the center of a new partnership agreement between NINES and the Modernist Versions Project (MVP). The agreement provides the MVP with programming support to integrate Juxta with a digital environment for collating and comparing modernist &#8230; <a href="http://www.juxtasoftware.org/new-partnership-with-the-modernist-versions-project/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Great news! Juxta is at the center of a new partnership agreement between <a href="http://www.nines.org">NINES</a> and the Modernist Versions Project (MVP). The agreement provides the MVP with programming support to integrate Juxta with a digital environment for collating and comparing modernist texts that exist in multiple textual variants. The MVP, a project based at the <a href="http://www.uvic.ca/">University of Victoria</a>, will enjoy full access to the Juxta collation software, including the existing <a href="http://dev-juxtasoftware.pantheonsite.io/download.html">stand-alone application</a> and the web service <a href="http://code.google.com/p/juxta/wiki/ProjectRoadmap">now under development</a>. The MVP is expected to provide a robust environment for testing and enhancing both versions of Juxta.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Juxta v1.6 Release</title>
+		<link>http://www.juxtasoftware.org/juxta-v1-6-release/</link>
+		<pubDate>Thu, 11 Aug 2011 12:36:36 +0000</pubDate>
+		<dc:creator><![CDATA[kristin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=137</guid>
+		<description><![CDATA[Juxta v1.6 is now available from the download page! New features: Building on Juxta&#8217;s existing support for &#60;add&#62;, &#60;del&#62;, &#60;addspan&#62;, and &#60;delspan&#62; tags, Juxta v1.6 now allows you to control the collation of revision sites by accepting or rejecting additions &#8230; <a href="http://www.juxtasoftware.org/juxta-v1-6-release/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Juxta v1.6 is now available from the download page!</p>
+<p>New features:</p>
+<ul>
+<li>Building on Juxta&#8217;s existing support for &lt;add&gt;, &lt;del&gt;, &lt;addspan&gt;, and &lt;delspan&gt; tags, Juxta v1.6 now allows you to control the collation of revision sites by accepting or rejecting additions and deletions to the witness text.</li>
+<li>The contents of TEI &lt;note&gt; tags now display in the right column of the Document Panel and are excluded from the text collation.</li>
+<li>Default XML parsing templates are provided for TEI files. As in Juxta v1.4, you can customize these templates or create new ones.</li>
+<li>A new edit window allows you to make changes to a witness text and save the altered version as a new witness.</li>
+</ul>
+<p>This development was made possible by the support of the Carolingian Canon Law project at the University of Kentucky.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Juxta Camp</title>
+		<link>http://www.juxtasoftware.org/juxta-camp/</link>
+		<pubDate>Mon, 01 Aug 2011 16:19:41 +0000</pubDate>
+		<dc:creator><![CDATA[kristin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=127</guid>
+		<description><![CDATA[On July 11-12, 2011, a group of Juxta users and collaborators met at the offices of Performant Software Solutions LLC in downtown Charlottesville, Virginia. The group included Abigail Firey of the Carolingian Canon Law Project at the University of Kentucky; &#8230; <a href="http://www.juxtasoftware.org/juxta-camp/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>On July 11-12, 2011, a group of Juxta users and collaborators met at the offices of Performant Software Solutions LLC in downtown Charlottesville, Virginia. The group included Abigail Firey of the Carolingian Canon Law Project at the University of Kentucky; Gregor Middell of Universit&#228;t W&#252;rzburg; Ronald Dekker from the Huygen Institute; Jim Smith from the Maryland Institute for Technology in the Humanities (MITH); Dana Wheeles and Alex Gil of NINES; and Nick Laiacona and Lou Foster from Performant Software. The group previewed new features available in Juxta 1.6 (including changes to revision site display and TEI note tag support), then worked on planning for Juxta WS 1.0, the Juxta web service now in development.</p>
+<div id="attachment_132" style="width: 394px" class="wp-caption alignnone"><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2011/08/Juxta-camp-photo-smaller.jpg"><img src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2011/08/Juxta-camp-photo-smaller.jpg" alt="Ronald, Gregor, Lou, and Jim (out of sight, with laptop) hacking at Juxta Camp" title="Juxta Camp" width="384" height="512" class="size-full wp-image-132" /></a><p class="wp-caption-text">Ronald, Gregor, Lou, and Jim's Laptop</p></div>
+<p>Abigail Firey and Alex Gil spoke about what the developers of Juxta could learn in general from considering the particular needs of their textual projects. Jim Smith gave a presentation on Corpora Space Architecture. Gregor Middell and Ronald Dekker spoke about their work on CollateX. Gregor talked about using an offset range model of text markup; Ronald spoke about the Gothenburg abstract model for collation. Lou Foster presented the features new to Juxta 1.6. Finally, Gregor, Ronald, Jim, Lou, and Nick put their heads together in hacking sessions to work on offset ranges, the Gothenburg pipeline model, and the Juxta web service.</p>
+<p>You can read <a href="http://code.google.com/p/juxta/wiki/MeetingNotes">notes from Juxta Camp</a> on the Juxta wiki.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>How to write a rock and roll essay</title>
+		<link>http://www.juxtasoftware.org/how-to-write-a-rock-and-roll-essay/</link>
+		<comments>http://www.juxtasoftware.org/how-to-write-a-rock-and-roll-essay/#respond</comments>
+		<pubDate>Tue, 01 Mar 2011 13:37:06 +0000</pubDate>
+		<dc:creator><![CDATA[ams4k]]></dc:creator>
+				<category><![CDATA[events]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=818</guid>
+		<description><![CDATA[How to write a rock and roll essay Rock and roll essays are common to music and literature students though they may be found in other fields. Rock and roll essays specifically focus on a specific genre of music founded &#8230; <a href="http://www.juxtasoftware.org/how-to-write-a-rock-and-roll-essay/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<h2>How to write a rock and roll essay</h2>
+<p dir="ltr">Rock and roll essays are common to music and literature students though they may be found in other fields. Rock and roll essays specifically focus on a specific genre of music founded in the 1950s characterized by heavy beats and simple melodies. The nature of topics addressed under this topic are diverse and therefore students must have an open mind when attempting rock and roll essay topics. This article gives a clear detailed outline to show you how you should approach a rock and roll essay.</p>
+<p dir="ltr">In the first paragraph, the introductory paragraph, describe how the genre was founded. Define the genre clearly and concisely such that your readers understand the subject clearly. If your reader does not understand what is roc and roll then the rest of the essay will not be meaningful and they are not likely to read it. Give a brief but detailed history of the music to show you understand the subject. Describe the iconic people who popularized the music before it found its way into mainstream music industry. Feature a thesis statement to show what the rest of the essay would be talking about at the end of the introductory paragraph. Succinctly, in the first paragraph try to show the position of rock and roll music in the broader music industry through describing its history, notable figures who popularized it and the nature of its rhythm and beats that make it unique.</p>
+<p dir="ltr">The rest of the essay is depended on the topic and the specific issue you address about rock and roll. Thus, the content may vary slightly to support the topic and the thesis you have purposed to use. In the subsequent paragraphs, stick to the structure of having topic sentences and several support sentences. The topic sentence fronts the main point discussed in that paragraph and the support sentences elucidates on each topic sentence. The points addressed in the body paragraphs must be relevant to the nature of the topic and must be clearly argued and cited to assert their credibility. Include examples where necessary but ensure they support your points.</p>
+<p dir="ltr">Conclude by reintroducing the thesis statement. Rewrite the thesis statement and wrap up the main points you have featured in your essay. Remember to proofread your essay and check the citations, punctuation and any grammatical errors. Format and submit your essay. A rock and roll essay is similar to most other descriptive essays and thus the structure is similar, therefore, ensure the content differentiates it.</p>
+<p dir="ltr"><strong>Prepared by <a href="https://writemyessay.ca" target="_blank">writemyessay.ca</a></strong></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/how-to-write-a-rock-and-roll-essay/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Contextualize In an Essay</title>
+		<link>http://www.juxtasoftware.org/how-to-contextualize-in-an-essay/</link>
+		<comments>http://www.juxtasoftware.org/how-to-contextualize-in-an-essay/#respond</comments>
+		<pubDate>Tue, 01 Mar 2011 13:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[ams4k]]></dc:creator>
+				<category><![CDATA[events]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=816</guid>
+		<description><![CDATA[How to Contextualize In an Essay While in college, students are usually used to writing essays. It is often on rare occasions they can be given an already written article and asked to contextualize it. This may pose a challenge &#8230; <a href="http://www.juxtasoftware.org/how-to-contextualize-in-an-essay/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<h2>How to Contextualize In an Essay</h2>
+<p dir="ltr">While in college, students are usually used to writing essays. It is often on rare occasions they can be given an already written article and asked to contextualize it. This may pose a challenge to most of them because they have to read the essay further to know what it is trying to convey. Some might first ask themselves if that word even exists. Additionally, they may begin to wonder what it means. Contextualizing in an essay simple means placing a statement, idea or event within its larger setting or background to enable it to acquire its true or ideal and full meaning. The relevance or importance of contextualizing in an essay is to aid in comprehension or interpretation. This is because somethings might be hard for you to understand hence when placed in a larger setting, you will be able to get it meaning. To learn how to contextualize in an essay, consider the following tips:</p>
+<ul>
+<li>
+<p dir="ltr">Understand what contextualization is. Once you understand what contextualization is, it will be easier for you to know how to go about it in an essay.</p>
+</li>
+<li>
+<p dir="ltr">Identify the purpose of contextualization. Contextualizing in an essay seeks to serve various purposes. Having identified them makes it easier for you to know how to contextualize in an article. For instance, it helps you to comprehend the meaning of the essay, makes it easy for you to interpret what the essay is about as well as enables you to identify the essential information in the article.</p>
+</li>
+<li>
+<p dir="ltr">Know how to capture context from an essay. Capturing context from a text means merely being able to identify the textual categories or sets such as genre, sublanguage, style or sentiment used in the essay. The textual categories tell more about the communicative context in the article. For example, the word surfing can be used in sports or talking about the internet.</p>
+</li>
+</ul>
+<p>Based on <a href="https://essaybasics.com/" target="_blank">https://essaybasics.com/</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/how-to-contextualize-in-an-essay/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

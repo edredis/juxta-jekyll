@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>victorian &#8211; Juxta</title>
+	<atom:link href="http://www.juxtasoftware.org/tag/victorian/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.juxtasoftware.org</link>
+	<description>Collation Software for Scholars</description>
+	<lastBuildDate>Thu, 22 Mar 2018 17:18:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Authenticating Google Books with Juxta Commons</title>
+		<link>http://www.juxtasoftware.org/authenticating-google-books-with-juxta-commons/</link>
+		<comments>http://www.juxtasoftware.org/authenticating-google-books-with-juxta-commons/#respond</comments>
+		<pubDate>Fri, 15 Feb 2013 15:55:32 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[google]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[Using Juxta]]></category>
+		<category><![CDATA[googlebooks]]></category>
+		<category><![CDATA[tennyson]]></category>
+		<category><![CDATA[victorian]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=336</guid>
+		<description><![CDATA[What do you get when you collate as many free Google versions of the same text as you can find? Those familiar with Google Books may suggest that you&#8217;ll quickly discover rampant OCR errors, or perhaps some truly astounding misinformation &#8230; <a href="http://www.juxtasoftware.org/authenticating-google-books-with-juxta-commons/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p><strong>What do you get when you collate as many free Google versions of the same text as you can find?</strong> Those familiar with Google Books may suggest that you&#8217;ll quickly discover rampant OCR errors, or perhaps some truly astounding misinformation in the metadata fields. In my experiment using Juxta Commons to explore the versions of <a href="http://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson" target="_blank">Alfred, Lord Tennyson&#8217;s</a> long poem, The Princess, available online, I encountered my fill of both of these issues. But I also discovered a number of interesting textual variations &#8211; ones that led me to a deeper study of the poem&#8217;s publication history.</p>
+<p>In the process of testing the efficacy of the software, I believe I stumbled upon a useful experiment that may prove helpful in the classroom: a new way to introduce students to textual scholarship, to the value of metadata, and to the modes of inquiry made possible by the digital humanities.</p>
+<iframe class='jx-wp-iframe' src='http://juxtacommons.org//shares/We6fDa'></iframe>
+<p>Many of the editions of Tennyson&#8217;s works offered in Google Books are modern, or modern reprints, and are thus available only in snippet view. Paging through the results, I chose six versions of the Princess that were available in e-book form, and I copied and pasted the text into the <a href="http://juxtacommons.org/guide#add" target="_blank">text editor</a> in Juxta Commons*. Because the poem is relatively long, I chose to focus solely on its Prologue &#8211; not only to expedite the process of collation, but to see if one excerpt could give a more global view of changes to the poem across editions. Another important step was to click on the orange &#8220;i&#8221; button at the upper left of the screen to save original URLs and basic metadata about the object for future reference.</p>
+<p><img class="aligncenter size-full wp-image-341" alt="source info" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/source_info.jpg" width="492" height="521" srcset="http://www.juxtasoftware.org/wp-content/uploads/2013/02/source_info.jpg 492w, http://www.juxtasoftware.org/wp-content/uploads/2013/02/source_info-283x300.jpg 283w" sizes="(max-width: 492px) 100vw, 492px" /></p>
+<p>This step turned out to be invaluable, once I realized that the publication information offered on the title pages of the scanned documents didn&#8217;t always agree with the metadata offered by Google (<a href="http://books.google.com/books?id=fFz1b7cFHVkC&amp;printsec=frontcover&amp;output=text" target="_blank">see this example</a>).</p>
+<p>Once the set was complete, and collated, I noticed right away that there were significant passages that were missing in the 1863 and 1900 editions of the poem.</p>
+<p><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/insertions.jpg"></p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-343" alt="insertions" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/insertions.jpg" width="941" height="736" srcset="http://www.juxtasoftware.org/wp-content/uploads/2013/02/insertions.jpg 941w, http://www.juxtasoftware.org/wp-content/uploads/2013/02/insertions-300x234.jpg 300w, http://www.juxtasoftware.org/wp-content/uploads/2013/02/insertions-383x300.jpg 383w" sizes="(max-width: 941px) 100vw, 941px" /></p>
+<p></a></p>
+<p>Stepping chronologically through the set using the witness visibility feature (the eye icons on the left) showed no apparent timeline for this change (why would it be missing in 1863, present in 1866, 1872, 1875, and excised again in 1900?). The answer could only be found in a robust explanation of the revision and publication history of Tennyson&#8217;s work.</p>
+<p>Without going too deeply into the reasons behind this set of differences (I&#8217;ll refer you to Christopher Ricks&#8217; selected critical edition of Tennyson, if you&#8217;re interested), The Princess happens to be one of the most revised long poems of Tennyson&#8217;s career. The Prologue was expanded in the 5th edition (published in 1853) and it is that version that generally considered the standard reading text today. However, as we have seen from the Google Books on offer, even in 1900, editions were offered that were based on earlier versions of the poem. Could the fact that both versions missing the stanzas are American editions be important?</p>
+<p>I invite Tennyson scholars to help me continue to piece together this puzzle. However, I believe that in this one example we have seen just how powerful Juxta Commons can be for delving into seemingly innocuous editions of one of Tennyson&#8217;s poem and exposing a myriad of possible topics of study. Next time you&#8217;re wondering just *which* version of a text you&#8217;re looking at on Google Books, I hope you&#8217;ll consider Juxta Commons a good place to start.</p>
+<p>* Please note that Juxta Commons can accept some e-book formats, but those offered by Google Books have image information only, and the text cannot be extracted.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/authenticating-google-books-with-juxta-commons/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>features &#8211; Juxta</title>
+	<atom:link href="http://www.juxtasoftware.org/category/features/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.juxtasoftware.org</link>
+	<description>Collation Software for Scholars</description>
+	<lastBuildDate>Thu, 22 Mar 2018 17:18:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Featured Set: Wikipedia Article on Benghazi Attack</title>
+		<link>http://www.juxtasoftware.org/featured-set-wikipedia-article-on-benghazi-attack/</link>
+		<comments>http://www.juxtasoftware.org/featured-set-wikipedia-article-on-benghazi-attack/#respond</comments>
+		<pubDate>Wed, 09 Jan 2013 16:50:10 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[Guest Post]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[wikipedia]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[Libya]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=322</guid>
+		<description><![CDATA[Guest post by NINES Fellow, Emma Schlosser. The full set is embedded at the end of this post. Juxta Commons now offers a platform by which we can study the evolution of the most visited encyclopedia on the web—Wikipedia! The &#8230; <a href="http://www.juxtasoftware.org/featured-set-wikipedia-article-on-benghazi-attack/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p><em>Guest post by NINES Fellow, Emma Schlosser. The full set is embedded at the end of this post.</em></p>
+<p>Juxta Commons now offers a platform by which we can study the evolution of the most visited encyclopedia on the web—Wikipedia! The Wikipedia API feature allows users to easily collate variants that reveal changes made to articles, a useful tool when tracking the development of current events.   In light of President Obama’s recent nomination of Senator John Kerry to be Secretary of State following Susan Rice’s withdrawal of her bid for the position, I decided to trace Wikipedia’s article on the September 11th 2012 attack on the U.S. consulate in Benghazi.  The attack resulted in the tragic deaths of four Americans including Ambassador Christopher Stevens.</p>
+<p>I prepared thirteen witnesses taken from the course of the article’s history on Wikipedia, stemming back to September 14th, 2012. In selecting the variants, I chose to focus on information most pertinent to the role of Rice, who is U.S. Ambassador to the UN.  These witnesses for the most part fall under the article’s “U.S. Government Response” section.  As various editors added more information regarding the attack and its aftereffects, I noted that on September 22nd a section had been added to the article entitled “Criticism of U.S. Government Response.”</p>
+<p><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser1.png"><img class="aligncenter  wp-image-325" title="schlosser1" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser1.png" alt="" width="977" height="104" srcset="http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser1.png 977w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser1-300x31.png 300w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser1-500x53.png 500w" sizes="(max-width: 977px) 100vw, 977px" /></a></p>
+<p>In a September 16<sup>th</sup> version of the article, an editor adds that the U.S. government has begun to doubt whether a low quality and poorly produced film circulated on YouTube entitled <em>Innocence of Muslims</em> was in fact behind the attack.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-326" title="heat map" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser2.png" alt="" width="935" height="407" srcset="http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser2.png 935w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser2-300x130.png 300w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser2-500x217.png 500w" sizes="(max-width: 935px) 100vw, 935px" /></p>
+<p>By September 22<sup>nd</sup>, an entire paragraph had been added to the “U.S. Government Response” section, including quotations from Senator John McCain (R, Arizona) who decried any claim that the attack was spontaneous: “Most people don’t bring rocket-propelled grenades and heavy weapons to demonstrations.  That was an act of terror.”  A September 27<sup>th</sup> version reports that Susan Rice appeared on five separate news shows on the 16<sup>th</sup>, asserting that the attacks were a “spontaneous reaction to a hateful and offensive video widely disseminated throughout the Arab and Muslim world.”  The 27<sup>th</sup> variant also affirms that the Benghazi attack had become a politically fueled issue during the heated presidential race.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-327" title="heat map criticism" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser3.png" alt="" width="977" height="244" srcset="http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser3.png 977w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser3-300x74.png 300w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser3-500x124.png 500w" sizes="(max-width: 977px) 100vw, 977px" /></p>
+<p style="text-align: left;">The October 28<sup>th</sup> variant cites under the “Criticism of U.S. Government Response” section that Senator McCain specifically accused the administration of using Susan Rice to cover the true motives of the attack.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-328" title="heat map significant change" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser4.png" alt="" width="977" height="296" srcset="http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser4.png 977w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser4-300x90.png 300w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/schlosser4-500x151.png 500w" sizes="(max-width: 977px) 100vw, 977px" /></p>
+<p>As the progression of this Wikipedia article shows, the U.S. government response to the Benghazi attack overshadowed, to some degree, the causes and nature of the attack itself.  This, of course, had much to do with the then raging U.S. presidential campaign.  Rice’s tangential role in the response to the Benghazi attack, as evidenced by the paucity of references to her within the article, implicitly reveals the nature of political scapegoating.  Thanks to Juxta’s Wikipedia API feature it was easy for me to trace the evolution of an article on a contemporary controversy, revealing the methods by which we continually modify and interpret our understanding of current events.<br />
+<iframe style="width: 375px; height: 400px; border: 1px solid #ccc;" src="http://www.juxtacommons.org/shares/1D6cgR" width="320" height="240"></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/featured-set-wikipedia-article-on-benghazi-attack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>We have a winner!</title>
+		<link>http://www.juxtasoftware.org/we-have-a-winner/</link>
+		<comments>http://www.juxtasoftware.org/we-have-a-winner/#respond</comments>
+		<pubDate>Thu, 03 Jan 2013 16:42:25 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[Using Juxta]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=312</guid>
+		<description><![CDATA[Congratulations to Tonya Howe, the winner of our Juxta Commons sharing competition, leading up to the MLA Conference in Boston (#MLA13). Be sure to have a look at the side-by-side view of her comparison set, Legend of Good Women, Prologues &#8230; <a href="http://www.juxtasoftware.org/we-have-a-winner/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><img class=" wp-image-313 aligncenter" title="legends of good women" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/legends-300x185.jpg" alt="" width="300" height="185" srcset="http://www.juxtasoftware.org/wp-content/uploads/2013/01/legends-300x185.jpg 300w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/legends-1024x633.jpg 1024w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/legends-485x300.jpg 485w, http://www.juxtasoftware.org/wp-content/uploads/2013/01/legends.jpg 1087w" sizes="(max-width: 300px) 100vw, 300px" />Congratulations to Tonya Howe, the winner of our Juxta Commons sharing competition, leading up to the MLA Conference in Boston (#MLA13). Be sure to have a look at the side-by-side view of her comparison set, <a href="http://www.juxtacommons.org/shares/0Y837u">Legend of Good Women, Prologues A and B</a>.</p>
+<p>We&#8217;ll be featuring the set in the Juxta Commons gallery in the very near future, along with some of the other sets that received lots of interest in the last month.</p>
+<p style="text-align: center;">
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/we-have-a-winner/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Juxta Commons sharing competition</title>
+		<link>http://www.juxtasoftware.org/juxta-commons-sharing-competition/</link>
+		<comments>http://www.juxtasoftware.org/juxta-commons-sharing-competition/#respond</comments>
+		<pubDate>Mon, 03 Dec 2012 19:48:36 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[features]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[swag]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=297</guid>
+		<description><![CDATA[**Updated with more details about the competition** Juxta Commons users &#8211; share your favorite comparison set today, and the set with the most views in the next month wins the user free swag! Create and share a collation set and &#8230; <a href="http://www.juxtasoftware.org/juxta-commons-sharing-competition/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>**Updated with more details about the competition**</p>
+<p><a href="http://juxtacommons.org">Juxta Commons</a> users &#8211; share your favorite comparison set today, and the set with the most views in the next month wins the user free swag!</p>
+<p>Create and share a collation set and get the MOST UNIQUE VIEWS in one month.  You&#8217;ll win a lovely Juxta Commons commuter coffee mug, plus fame and glory.  We will be keeping track via analytics, and we will announce the winner in early January.</p>
+<p><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/12/travel_mug.jpg"><img class="alignnone size-full wp-image-298" title="travel mug" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/12/travel_mug.jpg" alt="" width="300" height="291" /></a></p>
+<p>You can share your visualizations by Twitter, Facebook, Google +, link, email and embed, so there are lots of ways to get the word out.</p>
+<p>Remember that we are still in beta and are particularly interested in load-testing the site, so bear with us if you experience slow-downs.  You can send us feedback and bug reports via our <a href="https://groups.google.com/forum/?hl=en&amp;fromgroups#!forum/juxta-dev">Google Group</a> and you can find information about using the site on our <a href="http://www.juxtacommons.org/guide">User Guide</a>.</p>
+<p>The winner will be announced at our presentation at MLA. Happy collating!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/juxta-commons-sharing-competition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Using the Critical Apparatus in Digital Scholarship</title>
+		<link>http://www.juxtasoftware.org/using-the-critical-apparatus-in-digital-scholarship/</link>
+		<comments>http://www.juxtasoftware.org/using-the-critical-apparatus-in-digital-scholarship/#respond</comments>
+		<pubDate>Thu, 18 Oct 2012 15:32:39 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[critical apparatus]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=261</guid>
+		<description><![CDATA[     As the Juxta R&#38;D team has worked to take the desktop version of our collation software to the web, I&#8217;ve found myself thinking a great deal about the critical apparatus and its role when working with digital (digitized?) &#8230; <a href="http://www.juxtasoftware.org/using-the-critical-apparatus-in-digital-scholarship/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: left;"><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/09/ladyofshalott.jpg"><img class="wp-image-51 alignnone" title="Lady of Shalott page image" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/09/ladyofshalott.jpg" alt="" width="73" height="131" /></a>    <a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/09/tennysonapparat.jpg"><img class="alignnone  wp-image-75" title="Critical Apparatus" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/09/tennysonapparat.jpg" alt="" width="180" height="129" /></a></p>
+<p style="text-align: left;">As the Juxta R&amp;D team has worked to take the desktop version of our collation software to the web, I&#8217;ve found myself thinking a great deal about the <a href="http://en.wikipedia.org/wiki/Critical_apparatus">critical apparatus</a> and its role when working with digital (digitized?) texts.</p>
+<p style="text-align: left;">In the thumbnails above, you can see a page image from a traditional print edition (in this case, of Tennyson&#8217;s poetry) on the left, and a screenshot of the old Juxta critical apparatus output on the right. In the original, downloadable, version of Juxta, we allowed users to browse several visualizations of the collation in order to target areas of interest, but we also offered them the ability to export their results in an HTML-encoded apparatus. This was an effort to connect digital scholarship to traditional methods of textual analysis, as well as a way to allow scholars to share their findings with others in a familiar medium.</p>
+<p style="text-align: left;">It has become clear to me, based on the feedback from our users, that this HTML critical apparatus has been quite useful for a number of scholars. Even though our output could seem cryptic without being paired with the text of the base witness (as it is in the Tennyson edition), it was apparent that scholars still needed to translate their work in Juxta into the traditional format.</p>
+<p> In the meantime, scholars working with the <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html">Text Encoding Initiative</a> (TEI) developed Parallel Segmentation, a method of encoding the critical apparatus in XML. In her article,  &#8220;<a href="http://jtei.revues.org/203?lang=en" target="_blank">Knowledge Representation and Digital Scholarly Editions in Theory and Practice</a>,&#8221; Tanya Clement describes the effectiveness of using parallel segmentation to encode her digital edition of the work of the Baroness Elsa von Freytag-Loringhoven.  Using a TEI apparatus along with a visualization tool called the <a href="http://www.v-machine.org/" target="_blank">Versioning Machine</a>, Clement argued that her project &#8220;encourage[d] critical inquiry concerning <em>how</em> a digital scholarly edition represents knowledge differently than a print edition,&#8221; and illustrated the flexibility of working with full texts in tandem. Witnesses, or alternate readings, were not subsumed under a (supposedly static) base text, but living, dynamic representations of the social and cultural networks within which the Baroness lived and wrote.</p>
+<p>Working with digital texts can make generating a critical apparatus difficult. One could encode your apparatus manually, as Clement did, but most users of Juxta wanted us to take their plain text or XML-encoded files and transform them automatically. The traditional apparatus requires exact notations of line numbers and details about the printed page. How does one do that effectively when working with plain text files that bear no pagination and few (if any) hard returns, denoting line breaks? Instead of hurriedly replicating the desktop apparatus online &#8211;knowing it would posses these weaknesses and more &#8212; the R&amp;D team chose to offer TEI Parallel Segmentation output for <a href="http://juxtacommons.org" target="_blank">Juxta Commons</a>.</p>
+<p><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/10/tei_parSeg.jpg"><img class="alignnone  wp-image-262" title="Juxta TEI  Par Seg export" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/10/tei_parSeg-300x174.jpg" alt="Juxta TEI  Parallel Segmentation export" width="240" height="139" srcset="http://www.juxtasoftware.org/wp-content/uploads/2012/10/tei_parSeg-300x174.jpg 300w, http://www.juxtasoftware.org/wp-content/uploads/2012/10/tei_parSeg.jpg 400w" sizes="(max-width: 240px) 100vw, 240px" /></a></p>
+<p>Any user of Juxta Commons can upload a file encoded in TEI Parallel Segmentation, and see their documents represented in Juxta&#8217;s <a href="http://juxtacommons.org/guide#visualizations" target="_blank">heat map, side-by-side, and histogram views</a>. Those working with plain text of XML files can also export the results of their collations as a downloadable TEI Parallel Segmentation file. In short, Juxta Commons and can both read and write TEI Parallel Segmentation.</p>
+<p>However, we&#8217;re not convinced that the traditional apparatus has lost its functionality. We&#8217;d like to ask you, our users, to tell us more about your needs. How do you use the critical apparatus in your studies? What other kind of apparatus could we offer to streamline and enhance your work in Juxta Commons?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/using-the-critical-apparatus-in-digital-scholarship/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

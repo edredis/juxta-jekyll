@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Juxta | Collation Software for Scholars</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="wp-content/themes/juxta/style.css" />
+<link rel="pingback" href="http://www.juxtasoftware.org/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.juxtasoftware.org/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='index.html' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Juxta &raquo; Feed" href="index.html%3Ffeed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Juxta &raquo; Comments Feed" href="comments/feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.juxtasoftware.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jx-prefix-style-css'  href='wp-content/plugins/juxta/jx.css%3Fver=4.9.8.css' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+	<style type="text/css">
+			#site-title,
+		#site-description {
+			position: absolute !important;
+			clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	</head>
+
+<body class="home blog two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="index.html" title="Juxta" rel="home">Juxta</a></span></h1>
+				<h2 id="site-description">Collation Software for Scholars</h2>
+			</hgroup>
+
+			
+							<div class="only-search">
+					<form method="get" id="searchform" action="index.html">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+				</div>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="index.html#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="index.html#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul>
+<li class="current_page_item"><a href="index.html">Home</a></li><li class="page_item page-item-289"><a href="index.html%3Fp=289.html">Juxta Commons</a></li>
+<li class="page_item page-item-156"><a href="index.html%3Fp=156.html">Screenshots</a></li>
+<li class="page_item page-item-158"><a href="index.html%3Fp=158.html">Download</a></li>
+<li class="page_item page-item-160"><a href="index.html%3Fp=160.html">About</a></li>
+</ul></div>
+				<div class="menu"><ul><li class="page_item page-item-8"><a target="_blank" href="https://github.com/performant-software/juxta-desktop/wiki/UserManual">User Manual</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+			
+						<nav id="nav-above">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="page/2/index.html" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-above -->
+	
+								
+					
+	<article id="post-392" class="post-392 post type-post status-publish format-standard hentry category-guest-post category-juxtacommons">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="index.html%3Fp=392.html" title="Permalink to grinding ] gnashing: Juxta collation of Delany&#8217;s Blake yields insights into the novel&#8217;s uncertain conclusion" rel="bookmark">grinding ] gnashing: Juxta collation of Delany&#8217;s Blake yields insights into the novel&#8217;s uncertain conclusion</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="index.html%3Fp=392.html" title="3:19 pm" rel="bookmark"><time class="entry-date" datetime="2014-01-20T15:19:56+00:00">January 20, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="author/stephanie-kingsley/index.html" title="View all posts by Stephanie Kingsley" rel="author">Stephanie Kingsley</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="index.html%3Fp=392.html#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Martin R. Delany was an African American abolitionist and political activist.  His only novel, <em>Blake, or, the Huts of America</em>, features runaway slave Henry Blake, who travels through the American South disseminating a &#8220;secret&#8221; which implicitly foments a slave rebellion, although such is never explicitly stated.  Although Delany sought to have the novel published as a book, it was never accepted for publication but did appear twice in serial form.  Chapters 1-23 and 29-31 were originally found in the 1859 <em>Anglo-African Magazine.</em> The complete novel was discovered years later in the 1861-62 <em>Anglo-African Weekly.</em>  These issues revealed a new setting of the previously discovered 26 chapters, as well as an additional 44 chapters. Although <a href="http://utc.iath.virginia.edu/africam/blakehp.html">Floyd J. Miller</a> produced an annotated edition of <em>Blake</em> in 1970 for the Beacon Press, publishing all 70 chapters, in preparing his edition he did not collate the two serializations of the first 26 to see if Delany revised between 1859 and 1861.  These chapters lay uncollated until I took them up this past November as a project for Jerome McGann&#8217;s &#8220;American Historiography&#8221; course.</p>
+<p>My materials included the Arno Press reprint of Volume I of the 1859 <em>Anglo-African Magazine</em> and scans of the original 1861-62 <em>Weekly</em> broadsides. I uploaded the texts chapter by chapter into <a href="http://juxtacommons.org">Juxta Commons</a>, collated them, and then used Juxta&#8217;s Edition Starter feature to produce HTML files which I then linked together into a navigable website created through GitHub. For more on the process of using Juxta for this project, see <a href="http://dev-juxtasoftware.pantheonsite.io/work-flows-and-wish-lists-reflections-on-juxta-as-an-editorial-tool/">last week&#8217;s post</a>. The purpose of my post today is to highlight a few of the changes my Juxta collations revealed.</p>
+<p>The collations revealed many variants between the two serializations. Delany made scattered substantive changes to the work, usually changing one or two words or slightly or rearranging a sentence for clarity. The many small changes reflect an author interested in smoothing out and correcting his work but not in altering its original meaning. Delany&#8217;s letter to William Lloyd Garrison on 19 February 1859 supports this impression:</p>
+<blockquote><p>The three chapters published in the first number of the Magazine, were full of errors, in consequence of the hurried manner in which it was got out, and the whole will be carefully revised and corrected as far as published up to the time, should the work be taken up by a publisher. [1]</p></blockquote>
+<p>Delany was at this point inquiring after a publisher to print the novel in book form, but it is likely that in anticipation of the next serialization in 1861, Delany would have wished to make these revisions and corrections.</p>
+<p>Most of these changes serve to clarify Delany&#8217;s meaning or improve the language, but many render the depictions more powerful and striking. In one of the most shocking chapters of the novel, an abused slave boy is forced to perform tricks for his master&#8217;s guests. He is described in 59 as &#8220;the miserable child&#8221; and in 61 as &#8220;the miserable child <strong>of pity</strong>.&#8221; In 59, he is made to caper about on all fours &#8220;like an <strong>animal</strong>,&#8221; but &#8220;like a <strong>brute</strong>&#8221; in 61. The two words technically mean the same, but &#8220;brute&#8221; sounds more abrasive. A peculiar change which Delany makes is in the physical description of the boy: in 59 he has &#8220;protruding <strong>upper</strong> teeth,&#8221; while in 61 he has &#8220;protruding <strong>under </strong>teeth.&#8221; Provided this is not a mere misreading on the part of the compositor, if deliberate I believe the purpose of this is to increase the shock factor of the scene and make it all the more jarring, as an overbite is much more common than an under-bite. Delany does not change anything in the overall meaning of the work, but he does make this instance of abuse more dramatic.</p>
+<p>Another characteristic instance of increasing the power of a scene occurs in Chapter XXIX: when the runaway slaves evade capture, their white pursuers stand &#8220;<strong>grinding</strong> their teeth&#8221; in 59 but &#8220;<strong>gnashing</strong> their teeth&#8221; in 61. The use of the word &#8220;gnashing&#8221; increases the sense of angst as well as lending a Biblical quality to the scene, invoking the image of those in Hell and their &#8220;weeping and gnashing of teeth&#8221; (Matthew 8:12, 13:42, 25:30; Luke 13:28; Acts 7:54—to name a few). I mention this particular revision because it is an example of the Biblical language which pervades the entire novel, and it is also one of several instances where Delany revises in favor of increasing this Biblical quality. In <em>Blake</em>, Henry is frequently depicted as a Christ figure, a Messiah who will come to bring liberation to the slaves. As Henry travels the South, slave families welcome him into their homes, expecting his arrival without having received any warning of his coming. One couple says they knew Henry by a mysterious &#8220;mahk&#8221;[&#8220;mark&#8221;], and descriptions of slaves receiving the &#8220;secret&#8221; are fraught with harvest images, heightening the millenarian impression. Before running away from his master, Henry tells his mother- and father-in-law, Mammy Judy and Daddy Joe, &#8220;<strong>time</strong> with me is precious&#8221; in 59 and &#8220;<strong>the time</strong> with me is precious&#8221; in 61. &#8220;The&#8221; makes Henry&#8217;s statement seem less like a declaration of being in a hurry and more like a hint that his time with Judy and Joe is a transient and preset period of time—much like Jesus&#8217; time on Earth, which he knows will end, first with the Crucifixion, and second, the Ascension.</p>
+<p>The last issue of <em>Blake</em> in the <em>Weekly</em> shows Henry and the Cuban blacks and mulattoes enraged at the murder of poet Placido, and the final sentence of the novel is suggestive of the advent of rebellion: &#8220;Woe be unto those devils of whites, I say!&#8221;  However, the absence of any further issues begs the question: did Delany write an ending featuring an actual rebellion, or did he finish on that final powerful but inconclusive imprecation?  One theory which we discussed in Professor McGann&#8217;s course is that an actual rebellion is never intended, but rather, that the real revolution is to be an intellectual one and will occur through the enlightenment of the slaves.  Throughout the novel, Henry tells his fellow slaves, &#8220;Stand still, and see the salvation,&#8221; and the emphasis on <em>seeing</em> suggests the focus to be enlightenment rather than warfare.</p>
+<p>One of the most intriguing group of changes is that of dialect orthography, and these changes—although far from solving—can inform this question of intellectual versus martial revolution. In <em>Blake</em>, spelling of dialect is used to show the gap between &#8220;intelligent&#8221; and &#8220;unintelligent&#8221; characters, both black and white. Henry&#8217;s speech is perfectly spelt standard English, and it is he who first recognizes his right to freedom, escapes from his bondage, and disseminates the &#8220;secret&#8221; to others, which may well be that same recognition of their own right to freedom. The slaves&#8217; non-standard dialect becomes a marker of their intellectual bondage, and the pattern of revision enforces this idea. In 1861, all slave dialect is re-spelt to be easier to read—the original orthography being at times prohibitive to readers&#8217; comprehension. Below are some examples of words that are consistently revised in the slaves&#8217; dialect:</p>
+<p>Wat a mautteh <strong>59</strong>]What a mahtter <strong>61</strong><br />
+wud <strong>59</strong>] word <strong>61</strong><br />
+fadah <strong>59</strong>] fader <strong>61</strong><br />
+widah <strong>59</strong>] wider <strong>61</strong><br />
+ouah <strong>59</strong>] our <strong>61</strong><br />
+ah <strong>59</strong>] I <strong>61</strong><br />
+nebeh <strong>59</strong>] neber <strong>61</strong><br />
+cah <strong>59</strong>] cant/can&#8217;t/ca n&#8217;t <strong>61</strong></p>
+<p>Without evidence in Delany&#8217;s correspondence with his editor, it is impossible to know who was responsible for these changes. I strongly suspect that, even if prompted by his editor to improve readability, Delany was involved in making these changes, as they ultimately support the trajectory of the novel. Although the orthography is adjusted, other variants reveal the intent to retain the language divide between the educated and uneducated slaves. This is accomplished through the insertion of subject-verb <em>disagreement</em> in dialect which would otherwise sound too standard due to the improved spelling:</p>
+<p>I hate him so! <strong>59</strong>] I hates ~ <strong>61</strong><br />
+while we wuh at de suppeh <strong>59</strong>] ~we was~ <strong>61</strong><br />
+Dat&#8217;s what I like to know <strong>59</strong>] ~I likes~ <strong>61</strong><br />
+yeh keep <strong>59</strong>] yeh keeps <strong>61</strong></p>
+<p>Clearly, those responsible for these revisions wanted <em>Blake</em> to be readable but also wanted to keep the speech gap in tact.</p>
+<p>Further evidence of intentional dialect revision can be found in the language of the poor whites, which, unlike that of the slaves, is frequently altered to make these characters sound more backward and less intelligent. For instance, while in 59, the slave trader Harris calls Henry a &#8220;<strong>fellow</strong>,&#8221; the word &#8220;<strong>feller</strong>&#8221; is consistently substituted in 61. Below are other similar changes:</p>
+<p>might have <strong>59</strong>] might a&#8217; <strong>61</strong><br />
+if <strong>59</strong>] ef <strong>61</strong><br />
+is she <strong>59</strong>] am she <strong>61</strong><br />
+No she ain&#8217;t <strong>59</strong>] ~arn&#8217;t <strong>61</strong><br />
+just <strong>59</strong>] jist <strong>61</strong><br />
+little tired, I spose? <strong>59</strong>] little kind &#8216;o tired, I spose? <strong>61</strong><br />
+Didn&#8217;t come far <strong>59</strong>] ~fur <strong>61</strong></p>
+<p>The orthographical revisions are intriguing to me because they show an increased desire as of 1861 to make it clear in <em>Blake</em> that enlightenment is not racially determined but may be acquired&#8211;or not&#8211;by all, regardless of race. Enlightenment is critical to the slaves&#8217; rebellion, whether this rebellion be a literal uprising or the realization of the slaves&#8217; equality, and the compromising of the whites&#8217; own enlightenment suggests an even greater certainty of the slaves&#8217; eventual success.</p>
+<p>When <em>Blake</em> was serialized in 1859, the Civil War loomed on the horizon. When the <em>Anglo-African Weekly</em> set the first issue of the new serialization (26 Nov. 1861), hostilities had long since begun, and a potential end to the age of slavery was in sight. <em>Blake</em> is full of apocalyptic images, and the revisions revealed in Juxta suggest that when the apocalypse comes, the newly enlightened slaves will be as or better qualified than the whites to assume their new place in society. Given this, actual rebellion becomes a moot point, making it all the more likely that Delany never penned the much anticipated uprising.</p>
+<p>These reflections constitute an initial analysis of the results of collating this fascinating work. I will continue my research and appreciate any comments you may have. Those interested may access the complete results at <a href="http://stephanie-kingsley.github.io/Blakeindex.html"><em>Blake, or, the Huts of America</em>: a collation</a>.</p>
+<p><span style="text-decoration: underline">Notes</span></p>
+<p>1. Letter to William Lloyd Garrison, 19 Feb. 1859, Garrison Papers, Boston P.L./Rare Books Dept, cited in <em>Martin R. Delany: A Documentary Reader</em>, ed Robert S. Levine (Chapel Hill: UNC Press, 2003): 295-96.</p>
+<hr />
+<p>Stephanie Kingsley is a second-year English MA student specializing in 19th-century American literature, textual studies, and digital humanities. She is one of this year’s Praxis Fellows [<a title="Praxis blogs" href="http://www.scholarslab.org/people/stephanie-kingsley/">see Praxis blogs</a>] and Rare Book School Fellows. For more information, visit <a title="Stephanie" href="http://stephanie-kingsley.github.io/">http://stephanie-kingsley.github.io/</a>.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="category/guest-post/index.html" rel="category tag">Guest Post</a>, <a href="category/juxtacommons/index.html" rel="category tag">juxtacommons</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="index.html%3Fp=392.html#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-392 -->
+
+				
+					
+	<article id="post-389" class="post-389 post type-post status-publish format-standard hentry category-development category-digital-humanities category-guest-post category-juxtabeta category-juxtacommons category-using-juxta">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="index.html%3Fp=389.html" title="Permalink to Work Flows and Wish Lists: Reflections on Juxta as an Editorial Tool" rel="bookmark">Work Flows and Wish Lists: Reflections on Juxta as an Editorial Tool</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="index.html%3Fp=389.html" title="6:12 pm" rel="bookmark"><time class="entry-date" datetime="2014-01-17T18:12:48+00:00">January 17, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="author/stephanie-kingsley/index.html" title="View all posts by Stephanie Kingsley" rel="author">Stephanie Kingsley</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="index.html%3Fp=389.html#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I have had the opportunity to use <a title="Juxta Commons" href="http://juxtacommons.org/">Juxta Commons</a> for several editorial projects, and while taking a breath between a Juxta-intensive term project last semester and my Juxta-intensive MA thesis this semester, I would like to offer a few thoughts on Juxta as an editorial tool.</p>
+<p>For my term project for Jerome McGann&#8217;s American Historiography class last semester, I conducted a collation of Martin R. Delany&#8217;s novel, <i>Blake, or, The Huts of America</i>, one of the earliest African American novels published in the United States.Little did I know that my exploration would conduct me into an adventure as much technological as textual, but when Professor McGann recommended I use Juxta for conducting the collation and displaying the results, that is exactly what happened. I input my texts into Juxta Commons, collated them, and produced HTML texts of the individual chapters, each with an apparatus of textual variants, using Juxta&#8217;s Edition Starter. I linked these HTML files together into an easily navigable website to present the results to Professor McGann. I&#8217;ll be posting on the intriguing results themselves next week, but in the meantime, they can also be viewed on the website I constructed, hosted by <a title="GitHub" href="https://github.com/">GitHub</a>: <a title="Blake Project home" href="http://stephanie-kingsley.github.io/Blakeindex.html"><em>Blake </em>Project home</a>.</p>
+<p>Juxta helped me enormously in this project. First, it was incredibly useful in helping me clean up my texts. My collation involved an 1859 serialization of the novel, and another serialization in 1861-62. The first, I was able to digitize using OCR; the second, I had to transcribe myself. Anyone who has done OCR work knows that every minute of scanning leads to (in my case) an average of five or ten minutes of cleaning up OCR errors. I also had my own transcription errors to catch and correct. By checking Juxta&#8217;s highlighted variants, I was able to—relatively quickly—fix the errors and produce reliable texts. Secondly, once collated, I had the results stored in Juxta Commons; I did not have to write down in a collation chart every variant to avoid losing that information, as I would if I were machine- or sight-collating. Juxta&#8217;s heat-map display allows the editor to see variants in-line, as well, which saves an immense amount of time when it comes to analyzing results: you do not have to reference page and line numbers to see the context of the variants. Lastly, Juxta enabled me to organize a large amount of text in individual collation sets—one for each chapter. I was able to jump between chapters and view their variants easily.</p>
+<p>As helpful as Juxta was, however, I caution all those new to digital collation that no tool can perfectly collate or create an apparatus from an imperfect text. In this respect, there is still no replacement for human discretion—which is, ultimately, a good thing. For instance, while the Juxta user can turn off punctuation variants in the display, if the user does want punctuation and the punctuation is not spaced exactly the same in both witnesses, the program highlights this anomalous spacing. Thus, when 59 reads</p>
+<p>&#8216; Henry, wat&#8230;</p>
+<p>and 61 reads</p>
+<p>&#8216;Henry, wat&#8230;</p>
+<p>Juxta will show that punctuation spacing as a variant, while the human editor knows it is the result of typesetting idiosyncrasies rather than a meaningful variant. Such variants can carry over into the Juxta Edition Builder, as well, resulting in meaningless apparatus entries. For these reasons, you must make your texts <i>perfect </i>to get a perfect Juxta heat map and especially before using Edition Starter; otherwise, you&#8217;ll need to fix the spacing in Juxta and output another apparatus, or edit the text or HTML files to remove undesirable entries.</p>
+<p>Spacing issues can also result in disjointed apparatus entries, as occurred in my apparatus for Chapter XI in the case of the contraction <i>needn&#8217;t</i>. Notice how because of the spacing in <i>needn t </i>and <i>need nt</i>, Juxta recognized the two parts of the contraction as two separate variants (lines 130 and 131):</p>
+<p><a href="http://www.nines.org/news/wp-content/uploads/2014/01/spacing-2.jpg"><img class="size-full wp-image-14752 aligncenter" alt="spacing 2" src="http://www.nines.org/news/wp-content/uploads/2014/01/spacing-2.jpg" width="267" height="146" /></a></p>
+<p>This one variant was broken into two apparatus entries because Juxta recognized it as two words. There is really no way of rectifying this problem except by checking and editing the text and HTML apparatuses after the fact<i>. </i></p>
+<p>I mean simply to caution scholars going into this sort of work so that they can better estimate the time required for digital collation. This being my first major digital collation project, I averaged about two hours per chapter (chapters ranging between 1000 and 4000 words each) to transcribe the 61-62 text and then collate both witnesses in Juxta. I then needed an extra one or two hours per chapter to correct OCR and transcription errors.</p>
+<p>While it did take me time to clean up the digital texts so that Juxta could do its job most efficiently, in the end, Juxta certainly saved me time—time I would have spent keeping collation records, constructing an apparatus, and creating the HTML files (as I wanted to do a digital presentation). I would be remiss, however, if I did not recommend a few improvements and future directions.</p>
+<p>As useful as Juxta is, it nevertheless has limitations. One difficulty I had while cleaning my texts was that I could not correct them while viewing the collation sets; I had, rather, to open the witnesses in separate windows.</p>
+<p><a href="http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-windows.jpg"><img class="aligncenter" alt="screenshot windows" src="http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-windows.jpg" width="737" height="413" /></a></p>
+<p>The ability to edit the witnesses in the collation set directly would make correction of digitization errors much easier. This is not a serious impediment, though, and is easily dealt with in the manner I mentioned. The Juxta download does allow this in a limited capacity: the user can open a witness in the &#8220;Source&#8221; field below the collation visualization, then click &#8220;Edit&#8221; to enable editing in that screen. However, while the editing capability is turned on for the &#8220;Source,&#8221; you cannot scroll in the visualization—and so navigate to the next error which may need to be corrected.</p>
+<p>A more important limitation is the fact that the Edition Starter does not allow for the creation of eclectic texts, texts constructed with readings from multiple witnesses; rather, the user can only select one witness as the &#8220;base text,&#8221; and all readings in the edition are from that base text.</p>
+<p><a href="http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-Edition-Starter.jpg"><img class="aligncenter size-full wp-image-14753" alt="screenshot Edition Starter" src="http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-Edition-Starter.jpg" width="497" height="423" /></a></p>
+<p>Most scholarly editors, however, likely will need to adopt readings from different witnesses at some point in the preparation of their editions. Juxta&#8217;s developers need to mastermind a way of selecting which reading to adopt <i>per variant</i>; selected readings would then be adopted in the text in Edition Starter. For the sake of visualizing, I did some screenshot melding in Paint of what this function might look like:</p>
+<p style="text-align: left"><a href="http://www.nines.org/news/wp-content/uploads/2014/01/mockup.jpg"><img class="size-full wp-image-14754 aligncenter" alt="mockup" src="http://www.nines.org/news/wp-content/uploads/2014/01/mockup.jpg" width="809" height="400" /></a></p>
+<p style="text-align: left">Currently, an editor wishing to use the Edition Starter to construct an edition would need to select either the copy-text or the text with the most adopted readings for the base text. The editor would then need to adopt readings from other witnesses by editing the the output DOCX or HTML files. I do not know the intricacies of the code which runs Juxta. I looked at it on GitHub, but, alas! my very elementary coding knowledge was completely inadequate to the task. I intend to delve more as my expertise improves, and in the meantime, I encourage all the truly code-savvy scholars out there to look at the code and consider this problem. In my opinion, this is the one hurdle which, once overcome, would make Juxta the optimal choice as an edition-preparation tool—not just a collation tool. Another feature which would be fantastic to include eventually would be a way of digitally categorizing variants: accidental versus substantive; printer errors, editor corrections, or author revisions; etc. Then, an option to adopt all substantives from text A, for instance, would—perhaps—leave nothing to be desired by the digitally inclined textual editor. I am excited about Juxta. I am amazed by what it can do and exhilarated by what it may yet be capable of, and taking its limitations with its vast benefits, I will continue to use it for all future editorial projects.</p>
+<hr />
+<p>Stephanie Kingsley is a second-year English MA student specializing in 19th-century American literature, textual studies, and digital humanities. She is one of this year&#8217;s Praxis Fellows [<a title="Praxis blogs" href="http://www.scholarslab.org/people/stephanie-kingsley/">see Praxis blogs</a>] and Rare Book School Fellows. For more information, visit <a title="Stephanie" href="http://stephanie-kingsley.github.io/">http://stephanie-kingsley.github.io/</a>, and remember to watch for Ms. Kingsley&#8217;s <a href="http://dev-juxtasoftware.pantheonsite.io/">post next week</a> on the results of her collation of Delany&#8217;s <em>Blake</em>.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="category/development/index.html" rel="category tag">Development</a>, <a href="category/digital-humanities/index.html" rel="category tag">Digital Humanities</a>, <a href="category/guest-post/index.html" rel="category tag">Guest Post</a>, <a href="category/juxtabeta/index.html" rel="category tag">juxtabeta</a>, <a href="category/juxtacommons/index.html" rel="category tag">juxtacommons</a>, <a href="category/using-juxta/index.html" rel="category tag">Using Juxta</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="index.html%3Fp=389.html#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-389 -->
+
+				
+					
+	<article id="post-360" class="post-360 post type-post status-publish format-standard hentry category-digital-humanities category-events category-google category-juxtacommons category-using-juxta category-wikipedia category-xml">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="index.html%3Fp=360.html" title="Permalink to Using Juxta in the Classroom: Scholar&#8217;s Lab Presentation" rel="bookmark">Using Juxta in the Classroom: Scholar&#8217;s Lab Presentation</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="index.html%3Fp=360.html" title="8:22 pm" rel="bookmark"><time class="entry-date" datetime="2013-02-27T20:22:34+00:00">February 27, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="author/dana/index.html" title="View all posts by Dana" rel="author">Dana</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="index.html%3Fp=360.html#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Director of NINES Andrew Stauffer and Project Manager Dana Wheeles will be joining the UVa <a href="http://www2.lib.virginia.edu/scholarslab/">Scholar&#8217;s Lab</a> today to discuss Juxta Commons and possible uses for the software in the classroom.  Below are a list of sets included in the demo to illustrate the numerous ways Juxta could draw students&#8217; attention to textual analysis and digital humanities.</p>
+<p><strong>Traditional Scholarly Sets for Analysis and Research</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li><a href="http://www.juxtacommons.org/shares/GJm4O9" target="_blank">Alice in Wonderland</a></li>
+<li><a href="http://www.juxtacommons.org/shares/FF0x40" target="_blank">D.G. Rossetti, The Stealthy School of Criticism</a></li>
+<li><a href="http://www.juxtacommons.org/shares/0S6Jlx" target="_blank">Inflammatory Reactions</a>, by Andrew Stauffer</li>
+<li>Mary Shelley&#8217;s <a href="http://juxtacommons.org/shares/Nme50n" target="_blank">Frankenstein</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Scholarly Sets for Classroom Engagement</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li><a href="http://juxtacommons.org/shares/rOb8vn" target="_blank">Hamlet, Quarto 4</a> &#8211; Showing variants in spelling, and questioning &#8220;<em>What is a work</em>?&#8221;</li>
+<li><a href="http://juxtacommons.org/shares/yY6Wrj" target="_blank">The Declaration of Independence</a> &#8211; The evolution of a familiar document</li>
+<li><a href="http://juxtacommons.org/shares/ym0F00" target="_blank">Tennyson&#8217;s The Princess</a> &#8211; Authenticating texts on the web</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Beyond traditional scholarship: born-digital texts</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li>Wikipedia: <a href="http://juxtacommons.org/shares/OGR57q" target="_blank">Climate Change</a> &#8211; Seemingly stable documents mask constant debate between contributors and editors</li>
+<li>Current Events: <a href="http://juxtacommons.org/shares/ZHOLOJ" target="_blank">New York Times on Health Care</a> (via Newsdiffs.org)</li>
+<li><a href="http://juxtacommons.org/shares/MItAtV" target="_blank">Instagram Terms of Service</a> &#8211; How contracts evolve</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Our favorites from the user community</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li><a href="http://www.pcfleming.com/2013/02/26/wikipedia-the-oscars-and-juxta/" target="_blank">PC Fleming</a> tracks the <a href="http://juxtacommons.org/shares/AWKXmV" target="_blank">Daniel Day-Lewis</a> wikipedia page during the Oscars</li>
+<li>George H. Williams compares two modern translations of <a href="http://juxtacommons.org/shares/FqQnTH" target="_blank">Sir Gawain and the Green Knight</a></li>
+<li>Tonya Howe compares two versions of a fourteenth-century poem, <a href="http://juxtacommons.org/shares/EsxOZ7" target="_blank">Legend of Good Women</a></li>
+<li>NINES Fellow Emma Schlosser examines the Wikipedia page on the <a href="http://www.juxtacommons.org/shares/3kF7Uc" target="_blank">Benghazi embassy attack</a> in September</li>
+<li>Ryan Cordell tracks the publication history of Hawthorne&#8217;s <a href="http://ryan.cordells.us/crr/comparison-sets-2/" target="_blank">Celestial Railroad</a></li>
+<li>Josh Honn&#8217;s collation of Lady Morgan&#8217;s novel, <a href="http://juxtacommons.org/shares/ecHfuw/sidebyside?docs=538,537&amp;top=0.00000" target="_blank">The Missionary</a></li>
+</ul>
+<p>&nbsp;</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="category/digital-humanities/index.html" rel="category tag">Digital Humanities</a>, <a href="category/events/index.html" rel="category tag">events</a>, <a href="category/google/index.html" rel="category tag">google</a>, <a href="category/juxtacommons/index.html" rel="category tag">juxtacommons</a>, <a href="category/using-juxta/index.html" rel="category tag">Using Juxta</a>, <a href="category/wikipedia/index.html" rel="category tag">wikipedia</a>, <a href="category/xml/index.html" rel="category tag">xml</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="index.html%3Fp=360.html#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-360 -->
+
+				
+					
+	<article id="post-348" class="post-348 post type-post status-publish format-standard hentry category-digital-humanities category-juxtacommons category-tei category-using-juxta category-xml tag-embed tag-tei tag-thoreau">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="index.html%3Fp=348.html" title="Permalink to Digital Thoreau and Parallel Segmentation" rel="bookmark">Digital Thoreau and Parallel Segmentation</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="index.html%3Fp=348.html" title="7:48 pm" rel="bookmark"><time class="entry-date" datetime="2013-02-26T19:48:49+00:00">February 26, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="author/dana/index.html" title="View all posts by Dana" rel="author">Dana</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="index.html%3Fp=348.html#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><em>[Cross-posted at <a href="http://www.nines.org/news/?p=10115">nines.org</a>.]</em></p>
+<p>Every now and then I like to browse the project list at <a href="http://dhcommons.org/">DHCommons.org</a>, just to get an idea of what kind of work is being done in digital scholarship around the world. This really paid off recently, when I stumbled upon <a href="http://www.digitalthoreau.org/">Digital Thoreau</a>, an engaging and well-structured site created by a group from <a href="http://www.geneseo.edu/">SUNY-Geneseo</a>. This project centers around a TEI-encoded edition of Walden, which will, to quote their mission statement, &#8220;be enriched by annotations links, images, and social tools that will enable users to create conversations around the text.&#8221; I highly recommend that anyone interested in text encoding take a look at their <a href="http://digitalthoreau.org/walden/solitude/text/05_solitude.xml" target="_blank">genetic text demo</a> of &#8220;Solitude,&#8221; visualized using the <a href="http://v-machine.org/" target="_blank">Versioning Machine</a>.</p>
+<p>What really caught my attention, however, is that they freely offer a <a href="https://docs.google.com/document/d/1V6LumIYOdw4dkEAOVJtCLmHspgAQENDSv5N3l7OV9nU/edit" target="_blank">toolkit </a>of materials from their project, including XML documents marked up in TEI. This allowed me to take a closer look at how they encoded the text featured in the demo, and try visualizing it, myself.</p>
+<iframe class='jx-wp-iframe' src='http://juxtacommons.org//shares/2ze98h'></iframe>
+<p>This embed shows the same text featured on the <a href="http://digitalthoreau.org/walden/solitude/text/05_solitude.xml" target="_blank">Digital Thoreau</a> site, now visualized in Juxta Commons. It is possible to import a file encoded in TEI Parallel Segmentation directly into Juxta Commons, and the software will immediately break down the file into its constituent witnesses (<a href="http://juxtacommons.org/shares/azsJ6W" target="_blank">see this example</a> of their base witness from Princeton) and visualize them as a comparison set.</p>
+<div id="attachment_352" style="width: 613px" class="wp-caption aligncenter"><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/upload_par_seg.jpg"><img class=" wp-image-352" title="Uploading Parallel Segmentation" alt="upload screen" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/upload_par_seg.jpg" width="603" height="317" srcset="wp-content/uploads/2013/02/upload_par_seg.jpg 1230w, wp-content/uploads/2013/02/upload_par_seg-300x157.jpg 300w, wp-content/uploads/2013/02/upload_par_seg-1024x538.jpg 1024w, wp-content/uploads/2013/02/upload_par_seg-500x263.jpg 500w" sizes="(max-width: 603px) 100vw, 603px" /></a><p class="wp-caption-text">Uploading Parallel Segmentation</p></div>
+<p>&nbsp;</p>
+<div id="attachment_353" style="width: 748px" class="wp-caption aligncenter"><img class=" wp-image-353" title="Parallel Segmentation successfully added" alt="par_seg.loaded" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/par_seg.loaded.jpg" width="738" height="539" srcset="wp-content/uploads/2013/02/par_seg.loaded.jpg 1054w, wp-content/uploads/2013/02/par_seg.loaded-300x219.jpg 300w, wp-content/uploads/2013/02/par_seg.loaded-1024x748.jpg 1024w, wp-content/uploads/2013/02/par_seg.loaded-410x300.jpg 410w" sizes="(max-width: 738px) 100vw, 738px" /><p class="wp-caption-text">Parallel Segmentation file added and processed&nbsp;</p>
+<p></p></div>
+<p>&nbsp;</p>
+<p>Once you&#8217;ve successfully added the file to your account, you have access to the heat map visualization (where changes are highlighted blue on the chosen base text), the side-by-side option, and a histogram to give you a global view if the differences between the texts in the set. In this way, the Juxta Commons R&amp;D hope to enable the use of our software in concert with other open-source tools.</p>
+<p>I should also note that Juxta Commons allows the user to <strong>export</strong> any other sets they have created as a parallel-segmented file. This is a great feature for starting an edition of your own, but it no way includes the complexity of markup one would see in files generated by a rigorous project like Digital Thoreau. We like to think of it the Parallel Segmentation and new experimental edition builder export as building blocks for future scholarly editions.</p>
+<p>Many thanks to the team at <a href="http://www.digitalthoreau.org/" target="_blank">Digital Thoreau</a> for allowing us to make use of their scholarship!</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="category/digital-humanities/index.html" rel="category tag">Digital Humanities</a>, <a href="category/juxtacommons/index.html" rel="category tag">juxtacommons</a>, <a href="category/tei/index.html" rel="category tag">tei</a>, <a href="category/using-juxta/index.html" rel="category tag">Using Juxta</a>, <a href="category/xml/index.html" rel="category tag">xml</a>			</span>
+															<span class="sep"> | </span>
+							<span class="tag-links">
+				<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="tag/embed/index.html" rel="tag">embed</a>, <a href="tag/tei/index.html" rel="tag">tei</a>, <a href="tag/thoreau/index.html" rel="tag">thoreau</a>			</span>
+						
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="index.html%3Fp=348.html#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-348 -->
+
+				
+					
+	<article id="post-336" class="post-336 post type-post status-publish format-standard hentry category-google category-juxtacommons category-using-juxta tag-googlebooks tag-tennyson tag-victorian">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="index.html%3Fp=336.html" title="Permalink to Authenticating Google Books with Juxta Commons" rel="bookmark">Authenticating Google Books with Juxta Commons</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="index.html%3Fp=336.html" title="3:55 pm" rel="bookmark"><time class="entry-date" datetime="2013-02-15T15:55:32+00:00">February 15, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="author/dana/index.html" title="View all posts by Dana" rel="author">Dana</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="index.html%3Fp=336.html#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><strong>What do you get when you collate as many free Google versions of the same text as you can find?</strong> Those familiar with Google Books may suggest that you&#8217;ll quickly discover rampant OCR errors, or perhaps some truly astounding misinformation in the metadata fields. In my experiment using Juxta Commons to explore the versions of <a href="http://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson" target="_blank">Alfred, Lord Tennyson&#8217;s</a> long poem, The Princess, available online, I encountered my fill of both of these issues. But I also discovered a number of interesting textual variations &#8211; ones that led me to a deeper study of the poem&#8217;s publication history.</p>
+<p>In the process of testing the efficacy of the software, I believe I stumbled upon a useful experiment that may prove helpful in the classroom: a new way to introduce students to textual scholarship, to the value of metadata, and to the modes of inquiry made possible by the digital humanities.</p>
+<iframe class='jx-wp-iframe' src='http://juxtacommons.org//shares/We6fDa'></iframe>
+<p>Many of the editions of Tennyson&#8217;s works offered in Google Books are modern, or modern reprints, and are thus available only in snippet view. Paging through the results, I chose six versions of the Princess that were available in e-book form, and I copied and pasted the text into the <a href="http://juxtacommons.org/guide#add" target="_blank">text editor</a> in Juxta Commons*. Because the poem is relatively long, I chose to focus solely on its Prologue &#8211; not only to expedite the process of collation, but to see if one excerpt could give a more global view of changes to the poem across editions. Another important step was to click on the orange &#8220;i&#8221; button at the upper left of the screen to save original URLs and basic metadata about the object for future reference.</p>
+<p><img class="aligncenter size-full wp-image-341" alt="source info" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/source_info.jpg" width="492" height="521" srcset="wp-content/uploads/2013/02/source_info.jpg 492w, wp-content/uploads/2013/02/source_info-283x300.jpg 283w" sizes="(max-width: 492px) 100vw, 492px" /></p>
+<p>This step turned out to be invaluable, once I realized that the publication information offered on the title pages of the scanned documents didn&#8217;t always agree with the metadata offered by Google (<a href="http://books.google.com/books?id=fFz1b7cFHVkC&amp;printsec=frontcover&amp;output=text" target="_blank">see this example</a>).</p>
+<p>Once the set was complete, and collated, I noticed right away that there were significant passages that were missing in the 1863 and 1900 editions of the poem.</p>
+<p><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/insertions.jpg"></p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-343" alt="insertions" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/insertions.jpg" width="941" height="736" srcset="wp-content/uploads/2013/02/insertions.jpg 941w, wp-content/uploads/2013/02/insertions-300x234.jpg 300w, wp-content/uploads/2013/02/insertions-383x300.jpg 383w" sizes="(max-width: 941px) 100vw, 941px" /></p>
+<p></a></p>
+<p>Stepping chronologically through the set using the witness visibility feature (the eye icons on the left) showed no apparent timeline for this change (why would it be missing in 1863, present in 1866, 1872, 1875, and excised again in 1900?). The answer could only be found in a robust explanation of the revision and publication history of Tennyson&#8217;s work.</p>
+<p>Without going too deeply into the reasons behind this set of differences (I&#8217;ll refer you to Christopher Ricks&#8217; selected critical edition of Tennyson, if you&#8217;re interested), The Princess happens to be one of the most revised long poems of Tennyson&#8217;s career. The Prologue was expanded in the 5th edition (published in 1853) and it is that version that generally considered the standard reading text today. However, as we have seen from the Google Books on offer, even in 1900, editions were offered that were based on earlier versions of the poem. Could the fact that both versions missing the stanzas are American editions be important?</p>
+<p>I invite Tennyson scholars to help me continue to piece together this puzzle. However, I believe that in this one example we have seen just how powerful Juxta Commons can be for delving into seemingly innocuous editions of one of Tennyson&#8217;s poem and exposing a myriad of possible topics of study. Next time you&#8217;re wondering just *which* version of a text you&#8217;re looking at on Google Books, I hope you&#8217;ll consider Juxta Commons a good place to start.</p>
+<p>* Please note that Juxta Commons can accept some e-book formats, but those offered by Google Books have image information only, and the text cannot be extracted.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="category/google/index.html" rel="category tag">google</a>, <a href="category/juxtacommons/index.html" rel="category tag">juxtacommons</a>, <a href="category/using-juxta/index.html" rel="category tag">Using Juxta</a>			</span>
+															<span class="sep"> | </span>
+							<span class="tag-links">
+				<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="tag/googlebooks/index.html" rel="tag">googlebooks</a>, <a href="tag/tennyson/index.html" rel="tag">tennyson</a>, <a href="tag/victorian/index.html" rel="tag">victorian</a>			</span>
+						
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="index.html%3Fp=336.html#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-336 -->
+
+				
+					
+	<article id="post-322" class="post-322 post type-post status-publish format-standard hentry category-digital-humanities category-features category-guest-post category-juxtacommons category-wikipedia tag-journalism tag-libya tag-wikipedia">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="index.html%3Fp=322.html" title="Permalink to Featured Set: Wikipedia Article on Benghazi Attack" rel="bookmark">Featured Set: Wikipedia Article on Benghazi Attack</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="index.html%3Fp=322.html" title="4:50 pm" rel="bookmark"><time class="entry-date" datetime="2013-01-09T16:50:10+00:00">January 9, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="author/dana/index.html" title="View all posts by Dana" rel="author">Dana</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="index.html%3Fp=322.html#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><em>Guest post by NINES Fellow, Emma Schlosser. The full set is embedded at the end of this post.</em></p>
+<p>Juxta Commons now offers a platform by which we can study the evolution of the most visited encyclopedia on the web—Wikipedia! The Wikipedia API feature allows users to easily collate variants that reveal changes made to articles, a useful tool when tracking the development of current events.   In light of President Obama’s recent nomination of Senator John Kerry to be Secretary of State following Susan Rice’s withdrawal of her bid for the position, I decided to trace Wikipedia’s article on the September 11th 2012 attack on the U.S. consulate in Benghazi.  The attack resulted in the tragic deaths of four Americans including Ambassador Christopher Stevens.</p>
+<p>I prepared thirteen witnesses taken from the course of the article’s history on Wikipedia, stemming back to September 14th, 2012. In selecting the variants, I chose to focus on information most pertinent to the role of Rice, who is U.S. Ambassador to the UN.  These witnesses for the most part fall under the article’s “U.S. Government Response” section.  As various editors added more information regarding the attack and its aftereffects, I noted that on September 22nd a section had been added to the article entitled “Criticism of U.S. Government Response.”</p>
+<p><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser1.png"><img class="aligncenter  wp-image-325" title="schlosser1" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser1.png" alt="" width="977" height="104" srcset="wp-content/uploads/2013/01/schlosser1.png 977w, wp-content/uploads/2013/01/schlosser1-300x31.png 300w, wp-content/uploads/2013/01/schlosser1-500x53.png 500w" sizes="(max-width: 977px) 100vw, 977px" /></a></p>
+<p>In a September 16<sup>th</sup> version of the article, an editor adds that the U.S. government has begun to doubt whether a low quality and poorly produced film circulated on YouTube entitled <em>Innocence of Muslims</em> was in fact behind the attack.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-326" title="heat map" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser2.png" alt="" width="935" height="407" srcset="wp-content/uploads/2013/01/schlosser2.png 935w, wp-content/uploads/2013/01/schlosser2-300x130.png 300w, wp-content/uploads/2013/01/schlosser2-500x217.png 500w" sizes="(max-width: 935px) 100vw, 935px" /></p>
+<p>By September 22<sup>nd</sup>, an entire paragraph had been added to the “U.S. Government Response” section, including quotations from Senator John McCain (R, Arizona) who decried any claim that the attack was spontaneous: “Most people don’t bring rocket-propelled grenades and heavy weapons to demonstrations.  That was an act of terror.”  A September 27<sup>th</sup> version reports that Susan Rice appeared on five separate news shows on the 16<sup>th</sup>, asserting that the attacks were a “spontaneous reaction to a hateful and offensive video widely disseminated throughout the Arab and Muslim world.”  The 27<sup>th</sup> variant also affirms that the Benghazi attack had become a politically fueled issue during the heated presidential race.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-327" title="heat map criticism" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser3.png" alt="" width="977" height="244" srcset="wp-content/uploads/2013/01/schlosser3.png 977w, wp-content/uploads/2013/01/schlosser3-300x74.png 300w, wp-content/uploads/2013/01/schlosser3-500x124.png 500w" sizes="(max-width: 977px) 100vw, 977px" /></p>
+<p style="text-align: left;">The October 28<sup>th</sup> variant cites under the “Criticism of U.S. Government Response” section that Senator McCain specifically accused the administration of using Susan Rice to cover the true motives of the attack.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-328" title="heat map significant change" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser4.png" alt="" width="977" height="296" srcset="wp-content/uploads/2013/01/schlosser4.png 977w, wp-content/uploads/2013/01/schlosser4-300x90.png 300w, wp-content/uploads/2013/01/schlosser4-500x151.png 500w" sizes="(max-width: 977px) 100vw, 977px" /></p>
+<p>As the progression of this Wikipedia article shows, the U.S. government response to the Benghazi attack overshadowed, to some degree, the causes and nature of the attack itself.  This, of course, had much to do with the then raging U.S. presidential campaign.  Rice’s tangential role in the response to the Benghazi attack, as evidenced by the paucity of references to her within the article, implicitly reveals the nature of political scapegoating.  Thanks to Juxta’s Wikipedia API feature it was easy for me to trace the evolution of an article on a contemporary controversy, revealing the methods by which we continually modify and interpret our understanding of current events.<br />
+<iframe style="width: 375px; height: 400px; border: 1px solid #ccc;" src="http://www.juxtacommons.org/shares/1D6cgR" width="320" height="240"></iframe></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="category/digital-humanities/index.html" rel="category tag">Digital Humanities</a>, <a href="category/features/index.html" rel="category tag">features</a>, <a href="category/guest-post/index.html" rel="category tag">Guest Post</a>, <a href="category/juxtacommons/index.html" rel="category tag">juxtacommons</a>, <a href="category/wikipedia/index.html" rel="category tag">wikipedia</a>			</span>
+															<span class="sep"> | </span>
+							<span class="tag-links">
+				<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="tag/journalism/index.html" rel="tag">journalism</a>, <a href="tag/libya/index.html" rel="tag">Libya</a>, <a href="tag/wikipedia/index.html" rel="tag">wikipedia</a>			</span>
+						
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="index.html%3Fp=322.html#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-322 -->
+
+				
+					
+	<article id="post-317" class="post-317 post type-post status-publish format-standard hentry category-digital-humanities tag-mla13">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="index.html%3Fp=317.html" title="Permalink to MLA 2013 Reception: Saturday 1/5" rel="bookmark">MLA 2013 Reception: Saturday 1/5</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="index.html%3Fp=317.html" title="10:20 pm" rel="bookmark"><time class="entry-date" datetime="2013-01-04T22:20:16+00:00">January 4, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="author/dana/index.html" title="View all posts by Dana" rel="author">Dana</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="index.html%3Fp=317.html#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: center;"><img class="size-full wp-image-319 aligncenter" title="reception" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/reception1.jpg" alt="" width="346" height="465" srcset="wp-content/uploads/2013/01/reception1.jpg 346w, wp-content/uploads/2013/01/reception1-223x300.jpg 223w" sizes="(max-width: 346px) 100vw, 346px" /></p>
+<p style="text-align: left;">For all those attending the Modern Languages Association Conference in Boston this year, please join NINES Directory Andrew Stauffer and Performant Software for a reception in the exhibit hall (Booth 717) on Saturday, January 5. We&#8217;ll be running demos of Juxta Commons and answering your questions about NINES, Juxta and digital humanities software in general.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="category/digital-humanities/index.html" rel="category tag">Digital Humanities</a>			</span>
+															<span class="sep"> | </span>
+							<span class="tag-links">
+				<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="tag/mla13/index.html" rel="tag">mla13</a>			</span>
+						
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="index.html%3Fp=317.html#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-317 -->
+
+				
+					
+	<article id="post-312" class="post-312 post type-post status-publish format-standard hentry category-digital-humanities category-features category-juxtacommons category-using-juxta">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="index.html%3Fp=312.html" title="Permalink to We have a winner!" rel="bookmark">We have a winner!</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="index.html%3Fp=312.html" title="4:42 pm" rel="bookmark"><time class="entry-date" datetime="2013-01-03T16:42:25+00:00">January 3, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="author/dana/index.html" title="View all posts by Dana" rel="author">Dana</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="index.html%3Fp=312.html#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: center;"><img class=" wp-image-313 aligncenter" title="legends of good women" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/legends-300x185.jpg" alt="" width="300" height="185" srcset="wp-content/uploads/2013/01/legends-300x185.jpg 300w, wp-content/uploads/2013/01/legends-1024x633.jpg 1024w, wp-content/uploads/2013/01/legends-485x300.jpg 485w, wp-content/uploads/2013/01/legends.jpg 1087w" sizes="(max-width: 300px) 100vw, 300px" />Congratulations to Tonya Howe, the winner of our Juxta Commons sharing competition, leading up to the MLA Conference in Boston (#MLA13). Be sure to have a look at the side-by-side view of her comparison set, <a href="http://www.juxtacommons.org/shares/0Y837u">Legend of Good Women, Prologues A and B</a>.</p>
+<p>We&#8217;ll be featuring the set in the Juxta Commons gallery in the very near future, along with some of the other sets that received lots of interest in the last month.</p>
+<p style="text-align: center;">
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="category/digital-humanities/index.html" rel="category tag">Digital Humanities</a>, <a href="category/features/index.html" rel="category tag">features</a>, <a href="category/juxtacommons/index.html" rel="category tag">juxtacommons</a>, <a href="category/using-juxta/index.html" rel="category tag">Using Juxta</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="index.html%3Fp=312.html#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-312 -->
+
+				
+					
+	<article id="post-297" class="post-297 post type-post status-publish format-standard hentry category-features category-juxtacommons tag-swag">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="index.html%3Fp=297.html" title="Permalink to Juxta Commons sharing competition" rel="bookmark">Juxta Commons sharing competition</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="index.html%3Fp=297.html" title="7:48 pm" rel="bookmark"><time class="entry-date" datetime="2012-12-03T19:48:36+00:00">December 3, 2012</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="author/dana/index.html" title="View all posts by Dana" rel="author">Dana</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="index.html%3Fp=297.html#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>**Updated with more details about the competition**</p>
+<p><a href="http://juxtacommons.org">Juxta Commons</a> users &#8211; share your favorite comparison set today, and the set with the most views in the next month wins the user free swag!</p>
+<p>Create and share a collation set and get the MOST UNIQUE VIEWS in one month.  You&#8217;ll win a lovely Juxta Commons commuter coffee mug, plus fame and glory.  We will be keeping track via analytics, and we will announce the winner in early January.</p>
+<p><a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/12/travel_mug.jpg"><img class="alignnone size-full wp-image-298" title="travel mug" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/12/travel_mug.jpg" alt="" width="300" height="291" /></a></p>
+<p>You can share your visualizations by Twitter, Facebook, Google +, link, email and embed, so there are lots of ways to get the word out.</p>
+<p>Remember that we are still in beta and are particularly interested in load-testing the site, so bear with us if you experience slow-downs.  You can send us feedback and bug reports via our <a href="https://groups.google.com/forum/?hl=en&amp;fromgroups#!forum/juxta-dev">Google Group</a> and you can find information about using the site on our <a href="http://www.juxtacommons.org/guide">User Guide</a>.</p>
+<p>The winner will be announced at our presentation at MLA. Happy collating!</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="category/features/index.html" rel="category tag">features</a>, <a href="category/juxtacommons/index.html" rel="category tag">juxtacommons</a>			</span>
+															<span class="sep"> | </span>
+							<span class="tag-links">
+				<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="tag/swag/index.html" rel="tag">swag</a>			</span>
+						
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="index.html%3Fp=297.html#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-297 -->
+
+				
+					
+	<article id="post-277" class="post-277 post type-post status-publish format-standard hentry category-development category-juxtacommons category-uncategorized tag-newsdiffs">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="index.html%3Fp=277.html" title="Permalink to Re-visualizing in Juxta: Newsdiffs.org" rel="bookmark">Re-visualizing in Juxta: Newsdiffs.org</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="index.html%3Fp=277.html" title="6:40 pm" rel="bookmark"><time class="entry-date" datetime="2012-11-12T18:40:02+00:00">November 12, 2012</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="author/dana/index.html" title="View all posts by Dana" rel="author">Dana</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="index.html%3Fp=277.html#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>The Juxta R&amp;D team recently did a demo of <a href="http://juxtacommons.org">Juxta Commons</a> at a DH Day conference at NC State University, and one of the attendees brought the site <a href="http://www.newsdiffs.org/">NewsDiffs.org</a> to our attention. It&#8217;s a great resource, <a href="http://www.newsdiffs.org/about/">tracking changes</a> to online, &#8220;published&#8221; articles from some of the largest media outlets out there. But, while NewsDiffs brings together a bunch of different versions of these online articles, their visualizations are only helpful for two versions at a time.</p>
+<p>As an experiment, I took several versions from <a href="http://www.newsdiffs.org/diffview/?url=http://www.nytimes.com/2012/06/29/us/supreme-court-lets-health-law-largely-stand.html&amp;v1=b310c14531be3e77a259c3496e4e32b5a9430899&amp;v2=11648400c245d21851bd1388ad1f01623a546712&amp;pagewanted=all">this example</a> and plugged them into Juxta Commons. When combined in the heat map, the results were truly surprising.</p>
+<p><iframe style="width:310px;height:400px;border:1px solid #ccc" src="http://juxtacommons.org/shares/P3dJhZ"></iframe><br />
+In this example, the newest version (captured on November 6, 2012) is the base witness, with the previous revisions made on the day of the articles release included in the set. Just imagine: readers visiting the New York Times article at 11:15am would have read a very different set of opening paragraphs than those checking in at 11:45am.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="category/development/index.html" rel="category tag">Development</a>, <a href="category/juxtacommons/index.html" rel="category tag">juxtacommons</a>, <a href="category/uncategorized/index.html" rel="category tag">Uncategorized</a>			</span>
+															<span class="sep"> | </span>
+							<span class="tag-links">
+				<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="tag/newsdiffs/index.html" rel="tag">newsdiffs</a>			</span>
+						
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="index.html%3Fp=277.html#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-277 -->
+
+				
+						<nav id="nav-below">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="page/2/index.html" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-above -->
+	
+			
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-3" class="widget widget_text">			<div class="textwidget"><div class="screenshot">
+	<p><a class="rss" href="index.html%3Ffeed=rss2">Subscribe to RSS feed</a></p>
+	<p><a class="mail" href="https://groups.google.com/forum/?hl=en&fromgroups#!forum/juxta-dev">Google Group for developers</a></p>
+ <p><a class="twitter" href="https://twitter.com/JuxtaCommons">Follow us on Twitter</a></p>
+ <p><a class="facebook" href="https://www.facebook.com/pages/Juxta/153875667978744">Like us on Facebook</a></p>
+</div></div>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+											<li>
+					<a href="index.html%3Fp=392.html">grinding ] gnashing: Juxta collation of Delany&#8217;s Blake yields insights into the novel&#8217;s uncertain conclusion</a>
+									</li>
+											<li>
+					<a href="index.html%3Fp=389.html">Work Flows and Wish Lists: Reflections on Juxta as an Editorial Tool</a>
+									</li>
+											<li>
+					<a href="index.html%3Fp=360.html">Using Juxta in the Classroom: Scholar&#8217;s Lab Presentation</a>
+									</li>
+											<li>
+					<a href="index.html%3Fp=348.html">Digital Thoreau and Parallel Segmentation</a>
+									</li>
+											<li>
+					<a href="index.html%3Fp=336.html">Authenticating Google Books with Juxta Commons</a>
+									</li>
+					</ul>
+		</aside>		</div><!-- #secondary .widget-area -->
+
+    </div><!-- #main -->
+
+    <footer id="colophon" role="contentinfo">
+
+            
+
+            <div id="site-generator">
+                <p>This work is licensed by ARP under the Creative Commons. Some rights reserved.</p>
+                <p>
+                More information can be found at
+                <a class="footer-link"  href="http://www.nines.org" rel="generator">http://www.nines.org</a>
+                </p>
+            </div>
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js%3Fver=4.9.8'></script>
+
+</body>
+</html>

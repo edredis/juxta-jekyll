@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>juxtabeta &#8211; Juxta</title>
+	<atom:link href="http://www.juxtasoftware.org/category/juxtabeta/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.juxtasoftware.org</link>
+	<description>Collation Software for Scholars</description>
+	<lastBuildDate>Thu, 22 Mar 2018 17:18:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Work Flows and Wish Lists: Reflections on Juxta as an Editorial Tool</title>
+		<link>http://www.juxtasoftware.org/work-flows-and-wish-lists-reflections-on-juxta-as-an-editorial-tool/</link>
+		<comments>http://www.juxtasoftware.org/work-flows-and-wish-lists-reflections-on-juxta-as-an-editorial-tool/#respond</comments>
+		<pubDate>Fri, 17 Jan 2014 18:12:48 +0000</pubDate>
+		<dc:creator><![CDATA[Stephanie Kingsley]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[Guest Post]]></category>
+		<category><![CDATA[juxtabeta]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[Using Juxta]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=389</guid>
+		<description><![CDATA[I have had the opportunity to use Juxta Commons for several editorial projects, and while taking a breath between a Juxta-intensive term project last semester and my Juxta-intensive MA thesis this semester, I would like to offer a few thoughts &#8230; <a href="http://www.juxtasoftware.org/work-flows-and-wish-lists-reflections-on-juxta-as-an-editorial-tool/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>I have had the opportunity to use <a title="Juxta Commons" href="http://juxtacommons.org/">Juxta Commons</a> for several editorial projects, and while taking a breath between a Juxta-intensive term project last semester and my Juxta-intensive MA thesis this semester, I would like to offer a few thoughts on Juxta as an editorial tool.</p>
+<p>For my term project for Jerome McGann&#8217;s American Historiography class last semester, I conducted a collation of Martin R. Delany&#8217;s novel, <i>Blake, or, The Huts of America</i>, one of the earliest African American novels published in the United States.Little did I know that my exploration would conduct me into an adventure as much technological as textual, but when Professor McGann recommended I use Juxta for conducting the collation and displaying the results, that is exactly what happened. I input my texts into Juxta Commons, collated them, and produced HTML texts of the individual chapters, each with an apparatus of textual variants, using Juxta&#8217;s Edition Starter. I linked these HTML files together into an easily navigable website to present the results to Professor McGann. I&#8217;ll be posting on the intriguing results themselves next week, but in the meantime, they can also be viewed on the website I constructed, hosted by <a title="GitHub" href="https://github.com/">GitHub</a>: <a title="Blake Project home" href="http://stephanie-kingsley.github.io/Blakeindex.html"><em>Blake </em>Project home</a>.</p>
+<p>Juxta helped me enormously in this project. First, it was incredibly useful in helping me clean up my texts. My collation involved an 1859 serialization of the novel, and another serialization in 1861-62. The first, I was able to digitize using OCR; the second, I had to transcribe myself. Anyone who has done OCR work knows that every minute of scanning leads to (in my case) an average of five or ten minutes of cleaning up OCR errors. I also had my own transcription errors to catch and correct. By checking Juxta&#8217;s highlighted variants, I was able to—relatively quickly—fix the errors and produce reliable texts. Secondly, once collated, I had the results stored in Juxta Commons; I did not have to write down in a collation chart every variant to avoid losing that information, as I would if I were machine- or sight-collating. Juxta&#8217;s heat-map display allows the editor to see variants in-line, as well, which saves an immense amount of time when it comes to analyzing results: you do not have to reference page and line numbers to see the context of the variants. Lastly, Juxta enabled me to organize a large amount of text in individual collation sets—one for each chapter. I was able to jump between chapters and view their variants easily.</p>
+<p>As helpful as Juxta was, however, I caution all those new to digital collation that no tool can perfectly collate or create an apparatus from an imperfect text. In this respect, there is still no replacement for human discretion—which is, ultimately, a good thing. For instance, while the Juxta user can turn off punctuation variants in the display, if the user does want punctuation and the punctuation is not spaced exactly the same in both witnesses, the program highlights this anomalous spacing. Thus, when 59 reads</p>
+<p>&#8216; Henry, wat&#8230;</p>
+<p>and 61 reads</p>
+<p>&#8216;Henry, wat&#8230;</p>
+<p>Juxta will show that punctuation spacing as a variant, while the human editor knows it is the result of typesetting idiosyncrasies rather than a meaningful variant. Such variants can carry over into the Juxta Edition Builder, as well, resulting in meaningless apparatus entries. For these reasons, you must make your texts <i>perfect </i>to get a perfect Juxta heat map and especially before using Edition Starter; otherwise, you&#8217;ll need to fix the spacing in Juxta and output another apparatus, or edit the text or HTML files to remove undesirable entries.</p>
+<p>Spacing issues can also result in disjointed apparatus entries, as occurred in my apparatus for Chapter XI in the case of the contraction <i>needn&#8217;t</i>. Notice how because of the spacing in <i>needn t </i>and <i>need nt</i>, Juxta recognized the two parts of the contraction as two separate variants (lines 130 and 131):</p>
+<p><a href="http://www.nines.org/news/wp-content/uploads/2014/01/spacing-2.jpg"><img class="size-full wp-image-14752 aligncenter" alt="spacing 2" src="http://www.nines.org/news/wp-content/uploads/2014/01/spacing-2.jpg" width="267" height="146" /></a></p>
+<p>This one variant was broken into two apparatus entries because Juxta recognized it as two words. There is really no way of rectifying this problem except by checking and editing the text and HTML apparatuses after the fact<i>. </i></p>
+<p>I mean simply to caution scholars going into this sort of work so that they can better estimate the time required for digital collation. This being my first major digital collation project, I averaged about two hours per chapter (chapters ranging between 1000 and 4000 words each) to transcribe the 61-62 text and then collate both witnesses in Juxta. I then needed an extra one or two hours per chapter to correct OCR and transcription errors.</p>
+<p>While it did take me time to clean up the digital texts so that Juxta could do its job most efficiently, in the end, Juxta certainly saved me time—time I would have spent keeping collation records, constructing an apparatus, and creating the HTML files (as I wanted to do a digital presentation). I would be remiss, however, if I did not recommend a few improvements and future directions.</p>
+<p>As useful as Juxta is, it nevertheless has limitations. One difficulty I had while cleaning my texts was that I could not correct them while viewing the collation sets; I had, rather, to open the witnesses in separate windows.</p>
+<p><a href="http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-windows.jpg"><img class="aligncenter" alt="screenshot windows" src="http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-windows.jpg" width="737" height="413" /></a></p>
+<p>The ability to edit the witnesses in the collation set directly would make correction of digitization errors much easier. This is not a serious impediment, though, and is easily dealt with in the manner I mentioned. The Juxta download does allow this in a limited capacity: the user can open a witness in the &#8220;Source&#8221; field below the collation visualization, then click &#8220;Edit&#8221; to enable editing in that screen. However, while the editing capability is turned on for the &#8220;Source,&#8221; you cannot scroll in the visualization—and so navigate to the next error which may need to be corrected.</p>
+<p>A more important limitation is the fact that the Edition Starter does not allow for the creation of eclectic texts, texts constructed with readings from multiple witnesses; rather, the user can only select one witness as the &#8220;base text,&#8221; and all readings in the edition are from that base text.</p>
+<p><a href="http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-Edition-Starter.jpg"><img class="aligncenter size-full wp-image-14753" alt="screenshot Edition Starter" src="http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-Edition-Starter.jpg" width="497" height="423" /></a></p>
+<p>Most scholarly editors, however, likely will need to adopt readings from different witnesses at some point in the preparation of their editions. Juxta&#8217;s developers need to mastermind a way of selecting which reading to adopt <i>per variant</i>; selected readings would then be adopted in the text in Edition Starter. For the sake of visualizing, I did some screenshot melding in Paint of what this function might look like:</p>
+<p style="text-align: left"><a href="http://www.nines.org/news/wp-content/uploads/2014/01/mockup.jpg"><img class="size-full wp-image-14754 aligncenter" alt="mockup" src="http://www.nines.org/news/wp-content/uploads/2014/01/mockup.jpg" width="809" height="400" /></a></p>
+<p style="text-align: left">Currently, an editor wishing to use the Edition Starter to construct an edition would need to select either the copy-text or the text with the most adopted readings for the base text. The editor would then need to adopt readings from other witnesses by editing the the output DOCX or HTML files. I do not know the intricacies of the code which runs Juxta. I looked at it on GitHub, but, alas! my very elementary coding knowledge was completely inadequate to the task. I intend to delve more as my expertise improves, and in the meantime, I encourage all the truly code-savvy scholars out there to look at the code and consider this problem. In my opinion, this is the one hurdle which, once overcome, would make Juxta the optimal choice as an edition-preparation tool—not just a collation tool. Another feature which would be fantastic to include eventually would be a way of digitally categorizing variants: accidental versus substantive; printer errors, editor corrections, or author revisions; etc. Then, an option to adopt all substantives from text A, for instance, would—perhaps—leave nothing to be desired by the digitally inclined textual editor. I am excited about Juxta. I am amazed by what it can do and exhilarated by what it may yet be capable of, and taking its limitations with its vast benefits, I will continue to use it for all future editorial projects.</p>
+<hr />
+<p>Stephanie Kingsley is a second-year English MA student specializing in 19th-century American literature, textual studies, and digital humanities. She is one of this year&#8217;s Praxis Fellows [<a title="Praxis blogs" href="http://www.scholarslab.org/people/stephanie-kingsley/">see Praxis blogs</a>] and Rare Book School Fellows. For more information, visit <a title="Stephanie" href="http://stephanie-kingsley.github.io/">http://stephanie-kingsley.github.io/</a>, and remember to watch for Ms. Kingsley&#8217;s <a href="http://dev-juxtasoftware.pantheonsite.io/">post next week</a> on the results of her collation of Delany&#8217;s <em>Blake</em>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/work-flows-and-wish-lists-reflections-on-juxta-as-an-editorial-tool/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Preview of Juxta Commons</title>
+		<link>http://www.juxtasoftware.org/a-preview-of-juxta-commons/</link>
+		<comments>http://www.juxtasoftware.org/a-preview-of-juxta-commons/#respond</comments>
+		<pubDate>Mon, 01 Oct 2012 15:51:53 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[juxtabeta]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[testing]]></category>
+		<category><![CDATA[Using Juxta]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=241</guid>
+		<description><![CDATA[The NINES R&#38;D team is happy to announce a new phase of testing for Juxta online: Juxta Commons. We&#8217;re entering our final phase of intensive testing on this new site for using Juxta on the web, which breaks down the processes of &#8230; <a href="http://www.juxtasoftware.org/a-preview-of-juxta-commons/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[
+<a href='http://www.juxtasoftware.org/a-preview-of-juxta-commons/heat_map-sample/'><img width="150" height="150" src="http://www.juxtasoftware.org/wp-content/uploads/2012/10/heat_map.sample-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='http://www.juxtasoftware.org/a-preview-of-juxta-commons/side-by-side-sample/'><img width="150" height="150" src="http://www.juxtasoftware.org/wp-content/uploads/2012/10/side-by-side.sample-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='http://www.juxtasoftware.org/a-preview-of-juxta-commons/filtering_xml/'><img width="150" height="150" src="http://www.juxtasoftware.org/wp-content/uploads/2012/10/filtering_xml-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='http://www.juxtasoftware.org/a-preview-of-juxta-commons/histogram/'><img width="150" height="150" src="http://www.juxtasoftware.org/wp-content/uploads/2012/10/histogram-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>The NINES R&amp;D team is happy to announce a new phase of testing for Juxta online: Juxta Commons. We&#8217;re entering our final phase of intensive testing on this new site for using Juxta on the web, which breaks down the processes of the desktop application so you always have access to your raw source files and your witnesses, in addition to your comparison sets. We&#8217;ve even added more ways to work with XML, as well as an option to import and export files encoded in <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html">TEI Parallel Segmentation</a>.</p>
+<p>We have invited a group of scholars and users to try out Juxta Commons for the next two months, and share their experiences online. They&#8217;ll be exploring new ways to add source files, filter XML content and browse our newly-updated visualizations, previewed in the gallery above.</p>
+<p>If you would like to be a part of this group of testers, please leave a comment below, and we&#8217;ll get in touch with you.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/a-preview-of-juxta-commons/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>On the Juxta Beta release, and taking collation online</title>
+		<link>http://www.juxtasoftware.org/on-the-juxta-beta-release-and-taking-collation-online/</link>
+		<pubDate>Tue, 10 Apr 2012 15:36:50 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[juxtabeta]]></category>
+		<category><![CDATA[testing]]></category>
+		<category><![CDATA[web service]]></category>
+		<category><![CDATA[beta]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=211</guid>
+		<description><![CDATA[In September of 2008, when I first became acquainted with Juxta as a collation tool, I wrote a blog post as a basic demonstration of the software. I hunted down transcriptions of two versions of one of my favorite poems, &#8230; <a href="http://www.juxtasoftware.org/on-the-juxta-beta-release-and-taking-collation-online/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><img class="aligncenter size-medium wp-image-213" title="Heat Map, Lady of Shalott" src="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2012/04/tennyson.heatmap-300x240.jpg" alt="" width="300" height="240" srcset="http://www.juxtasoftware.org/wp-content/uploads/2012/04/tennyson.heatmap-300x240.jpg 300w, http://www.juxtasoftware.org/wp-content/uploads/2012/04/tennyson.heatmap-373x300.jpg 373w, http://www.juxtasoftware.org/wp-content/uploads/2012/04/tennyson.heatmap.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>In September of 2008, when I first became acquainted with Juxta as a collation tool, I wrote a <a href="http://dev-juxtasoftware.pantheonsite.io/searching-tennyson/">blog post</a> as a basic demonstration of the software. I hunted down transcriptions of two versions of one of my favorite poems, Tennyson&#8217;s &#8220;The Lady of Shalott,&#8221; and collated them alongside the abbreviated lyrics to the song adapted from work by Loreena McKennitt. <a href="http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2008/09/tennsysoncomp.jpg">Screenshots</a> were all I had to illustrate the process and its results, however &#8211; anyone interested in exploring the dynamic collation in full would need to first download Juxta, then get the set of files from me. We had a great tool that encouraged discovery and scholarly play, but it didn&#8217;t facilitate collaboration and communication. Now, in 2012, I can finally show you <a href="http://juxta.performantsoftware.com/shares/e0547f83dc8c48ff971ecd706970c02e/view?mode=heatmap ">that set</a> in its entirety.</p>
+<p>The dream of Juxta for the web has been a long time coming, and we couldn&#8217;t have done it without generous funding from the <a href="http://dev-juxtasoftware.pantheonsite.io/juxta-receives-google-digital-humanities-award/">Google Digital Humanities Award</a> and support from European scholars in the <a href="http://www.cost-a32.eu/">COST Action 32 group</a>, TextGrid and the whole team behind <a href="http://collatex.sourceforge.net/">CollateX</a>. As Project Manager, I&#8217;m thrilled to be a part of the open beta release of the <a href="http://juxta.performantsoftware.com/">Juxta web service</a>, accessed through version 1.6.5 of the desktop application.</p>
+<p>I imagine at this point you&#8217;re wondering:  <em>if I want to try out the web service, do I still have to download the desktop application? Why would I do that?</em></p>
+<p>Over the past year, our development team&#8217;s efforts have been directed to breaking down the methods by which Juxta handles texts into &#8216;microservices&#8217; following the <a href="http://www.interedition.eu/wiki/index.php/About_microservices#Gothenburg_Model_and_Implementation">Gothenberg Model</a> for collation. We designed the web service to enable other tools and methods to make use of its output: in <a href="https://wiki.projectbamboo.org/display/BTECH/Corpora+Space">Bamboo CorporaSpace</a>, for example, a text-mining   algorithm could benefit from the tokenization performed by Juxta. We imagined Juxta not just as a standalone tool, but as one that could interact with a suite of other potential tools.</p>
+<p>That part of our development is ready for testing, and the <a href="https://github.com/performant-software/juxta-desktop/wiki/JuxtaWebServiceApi">API documentation</a> is available at GitHub.</p>
+<p>However, the user workflow for Juxta as a destination site for collations on the web, is still being implemented. Hence this new, hybrid beta, which leverages the desktop application&#8217;s interface for adding, subtracting and editing documents while also inviting users to share their curated comparison sets online.</p>
+<p>This is where you come in, beta testers &#8211; we need you to tell us more about how you&#8217;d like to user Juxta online. We know that collation isn&#8217;t just for scholarly documents: we&#8217;ve seen how <a href="http://juxta.performantsoftware.com/shares/ba4a680b3ad341fe8f7561d6d38b1581/view?mode=heatmap&amp;base=451">visualizing versions of Wikipedia pages</a> can tell us something about evolving conversations in Digital Humanities, and we&#8217;ve thought about Juxta&#8217;s potential as a method for authenticating online texts. But as we design a fully online environment for Juxta, we want to get a better sense of what the larger community wants.</p>
+<p>I want to thank everyone who has set up and account and tried out the  newest version. We&#8217;ve seen some really exciting possibilities, and we&#8217;re taking in a lot of valuable feedback. If you&#8217;ve held off so far, I ask that you consider trying it out.</p>
+<p><strong>But I don&#8217;t have any texts to collate!</strong></p>
+<p>No worries! We&#8217;re slowly populating a Collation Gallery of comparison sets shared by other beta testers. You might just find something there that gets your creative juices flowing.</p>
+<p>Explore <a href="http://juxta.performantsoftware.com/">Juxta Beta</a> today!</p>
+<p>** cross-posted on the NINES site **</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

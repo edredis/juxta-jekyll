@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>events &#8211; Juxta</title>
+	<atom:link href="http://www.juxtasoftware.org/category/events/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.juxtasoftware.org</link>
+	<description>Collation Software for Scholars</description>
+	<lastBuildDate>Thu, 22 Mar 2018 17:18:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Using Juxta in the Classroom: Scholar&#8217;s Lab Presentation</title>
+		<link>http://www.juxtasoftware.org/using-juxta-in-the-classroom-scholars-lab-presentation/</link>
+		<comments>http://www.juxtasoftware.org/using-juxta-in-the-classroom-scholars-lab-presentation/#respond</comments>
+		<pubDate>Wed, 27 Feb 2013 20:22:34 +0000</pubDate>
+		<dc:creator><![CDATA[Dana]]></dc:creator>
+				<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[juxtacommons]]></category>
+		<category><![CDATA[Using Juxta]]></category>
+		<category><![CDATA[wikipedia]]></category>
+		<category><![CDATA[xml]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=360</guid>
+		<description><![CDATA[Director of NINES Andrew Stauffer and Project Manager Dana Wheeles will be joining the UVa Scholar&#8217;s Lab today to discuss Juxta Commons and possible uses for the software in the classroom.  Below are a list of sets included in the &#8230; <a href="http://www.juxtasoftware.org/using-juxta-in-the-classroom-scholars-lab-presentation/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Director of NINES Andrew Stauffer and Project Manager Dana Wheeles will be joining the UVa <a href="http://www2.lib.virginia.edu/scholarslab/">Scholar&#8217;s Lab</a> today to discuss Juxta Commons and possible uses for the software in the classroom.  Below are a list of sets included in the demo to illustrate the numerous ways Juxta could draw students&#8217; attention to textual analysis and digital humanities.</p>
+<p><strong>Traditional Scholarly Sets for Analysis and Research</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li><a href="http://www.juxtacommons.org/shares/GJm4O9" target="_blank">Alice in Wonderland</a></li>
+<li><a href="http://www.juxtacommons.org/shares/FF0x40" target="_blank">D.G. Rossetti, The Stealthy School of Criticism</a></li>
+<li><a href="http://www.juxtacommons.org/shares/0S6Jlx" target="_blank">Inflammatory Reactions</a>, by Andrew Stauffer</li>
+<li>Mary Shelley&#8217;s <a href="http://juxtacommons.org/shares/Nme50n" target="_blank">Frankenstein</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Scholarly Sets for Classroom Engagement</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li><a href="http://juxtacommons.org/shares/rOb8vn" target="_blank">Hamlet, Quarto 4</a> &#8211; Showing variants in spelling, and questioning &#8220;<em>What is a work</em>?&#8221;</li>
+<li><a href="http://juxtacommons.org/shares/yY6Wrj" target="_blank">The Declaration of Independence</a> &#8211; The evolution of a familiar document</li>
+<li><a href="http://juxtacommons.org/shares/ym0F00" target="_blank">Tennyson&#8217;s The Princess</a> &#8211; Authenticating texts on the web</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Beyond traditional scholarship: born-digital texts</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li>Wikipedia: <a href="http://juxtacommons.org/shares/OGR57q" target="_blank">Climate Change</a> &#8211; Seemingly stable documents mask constant debate between contributors and editors</li>
+<li>Current Events: <a href="http://juxtacommons.org/shares/ZHOLOJ" target="_blank">New York Times on Health Care</a> (via Newsdiffs.org)</li>
+<li><a href="http://juxtacommons.org/shares/MItAtV" target="_blank">Instagram Terms of Service</a> &#8211; How contracts evolve</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Our favorites from the user community</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li><a href="http://www.pcfleming.com/2013/02/26/wikipedia-the-oscars-and-juxta/" target="_blank">PC Fleming</a> tracks the <a href="http://juxtacommons.org/shares/AWKXmV" target="_blank">Daniel Day-Lewis</a> wikipedia page during the Oscars</li>
+<li>George H. Williams compares two modern translations of <a href="http://juxtacommons.org/shares/FqQnTH" target="_blank">Sir Gawain and the Green Knight</a></li>
+<li>Tonya Howe compares two versions of a fourteenth-century poem, <a href="http://juxtacommons.org/shares/EsxOZ7" target="_blank">Legend of Good Women</a></li>
+<li>NINES Fellow Emma Schlosser examines the Wikipedia page on the <a href="http://www.juxtacommons.org/shares/3kF7Uc" target="_blank">Benghazi embassy attack</a> in September</li>
+<li>Ryan Cordell tracks the publication history of Hawthorne&#8217;s <a href="http://ryan.cordells.us/crr/comparison-sets-2/" target="_blank">Celestial Railroad</a></li>
+<li>Josh Honn&#8217;s collation of Lady Morgan&#8217;s novel, <a href="http://juxtacommons.org/shares/ecHfuw/sidebyside?docs=538,537&amp;top=0.00000" target="_blank">The Missionary</a></li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/using-juxta-in-the-classroom-scholars-lab-presentation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to write a rock and roll essay</title>
+		<link>http://www.juxtasoftware.org/how-to-write-a-rock-and-roll-essay/</link>
+		<comments>http://www.juxtasoftware.org/how-to-write-a-rock-and-roll-essay/#respond</comments>
+		<pubDate>Tue, 01 Mar 2011 13:37:06 +0000</pubDate>
+		<dc:creator><![CDATA[ams4k]]></dc:creator>
+				<category><![CDATA[events]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=818</guid>
+		<description><![CDATA[How to write a rock and roll essay Rock and roll essays are common to music and literature students though they may be found in other fields. Rock and roll essays specifically focus on a specific genre of music founded &#8230; <a href="http://www.juxtasoftware.org/how-to-write-a-rock-and-roll-essay/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<h2>How to write a rock and roll essay</h2>
+<p dir="ltr">Rock and roll essays are common to music and literature students though they may be found in other fields. Rock and roll essays specifically focus on a specific genre of music founded in the 1950s characterized by heavy beats and simple melodies. The nature of topics addressed under this topic are diverse and therefore students must have an open mind when attempting rock and roll essay topics. This article gives a clear detailed outline to show you how you should approach a rock and roll essay.</p>
+<p dir="ltr">In the first paragraph, the introductory paragraph, describe how the genre was founded. Define the genre clearly and concisely such that your readers understand the subject clearly. If your reader does not understand what is roc and roll then the rest of the essay will not be meaningful and they are not likely to read it. Give a brief but detailed history of the music to show you understand the subject. Describe the iconic people who popularized the music before it found its way into mainstream music industry. Feature a thesis statement to show what the rest of the essay would be talking about at the end of the introductory paragraph. Succinctly, in the first paragraph try to show the position of rock and roll music in the broader music industry through describing its history, notable figures who popularized it and the nature of its rhythm and beats that make it unique.</p>
+<p dir="ltr">The rest of the essay is depended on the topic and the specific issue you address about rock and roll. Thus, the content may vary slightly to support the topic and the thesis you have purposed to use. In the subsequent paragraphs, stick to the structure of having topic sentences and several support sentences. The topic sentence fronts the main point discussed in that paragraph and the support sentences elucidates on each topic sentence. The points addressed in the body paragraphs must be relevant to the nature of the topic and must be clearly argued and cited to assert their credibility. Include examples where necessary but ensure they support your points.</p>
+<p dir="ltr">Conclude by reintroducing the thesis statement. Rewrite the thesis statement and wrap up the main points you have featured in your essay. Remember to proofread your essay and check the citations, punctuation and any grammatical errors. Format and submit your essay. A rock and roll essay is similar to most other descriptive essays and thus the structure is similar, therefore, ensure the content differentiates it.</p>
+<p dir="ltr"><strong>Prepared by <a href="https://writemyessay.ca" target="_blank">writemyessay.ca</a></strong></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/how-to-write-a-rock-and-roll-essay/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Contextualize In an Essay</title>
+		<link>http://www.juxtasoftware.org/how-to-contextualize-in-an-essay/</link>
+		<comments>http://www.juxtasoftware.org/how-to-contextualize-in-an-essay/#respond</comments>
+		<pubDate>Tue, 01 Mar 2011 13:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[ams4k]]></dc:creator>
+				<category><![CDATA[events]]></category>
+
+		<guid isPermaLink="false">http://dev-juxtasoftware.pantheonsite.io/?p=816</guid>
+		<description><![CDATA[How to Contextualize In an Essay While in college, students are usually used to writing essays. It is often on rare occasions they can be given an already written article and asked to contextualize it. This may pose a challenge &#8230; <a href="http://www.juxtasoftware.org/how-to-contextualize-in-an-essay/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<h2>How to Contextualize In an Essay</h2>
+<p dir="ltr">While in college, students are usually used to writing essays. It is often on rare occasions they can be given an already written article and asked to contextualize it. This may pose a challenge to most of them because they have to read the essay further to know what it is trying to convey. Some might first ask themselves if that word even exists. Additionally, they may begin to wonder what it means. Contextualizing in an essay simple means placing a statement, idea or event within its larger setting or background to enable it to acquire its true or ideal and full meaning. The relevance or importance of contextualizing in an essay is to aid in comprehension or interpretation. This is because somethings might be hard for you to understand hence when placed in a larger setting, you will be able to get it meaning. To learn how to contextualize in an essay, consider the following tips:</p>
+<ul>
+<li>
+<p dir="ltr">Understand what contextualization is. Once you understand what contextualization is, it will be easier for you to know how to go about it in an essay.</p>
+</li>
+<li>
+<p dir="ltr">Identify the purpose of contextualization. Contextualizing in an essay seeks to serve various purposes. Having identified them makes it easier for you to know how to contextualize in an article. For instance, it helps you to comprehend the meaning of the essay, makes it easy for you to interpret what the essay is about as well as enables you to identify the essential information in the article.</p>
+</li>
+<li>
+<p dir="ltr">Know how to capture context from an essay. Capturing context from a text means merely being able to identify the textual categories or sets such as genre, sublanguage, style or sentiment used in the essay. The textual categories tell more about the communicative context in the article. For example, the word surfing can be used in sports or talking about the internet.</p>
+</li>
+</ul>
+<p>Based on <a href="https://essaybasics.com/" target="_blank">https://essaybasics.com/</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.juxtasoftware.org/how-to-contextualize-in-an-essay/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
