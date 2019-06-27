@@ -2,7 +2,7 @@
 layout: post
 title: Juxta 1.3 Released
 date: 2019-06-05 04:00:00 +0000
-categories: s
+categories: ''
 permalink: juxta-1-3-released
 
 ---
