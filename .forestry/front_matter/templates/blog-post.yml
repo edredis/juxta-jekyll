@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: content
   description: paste content here
+pages:
+- _md/rerer.md
