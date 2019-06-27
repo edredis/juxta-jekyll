@@ -5,5 +5,3 @@ fields:
 - type: text
   name: layout
   label: layout
-pages:
-- _md/ees.md
