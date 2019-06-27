@@ -20,3 +20,5 @@ fields:
     required: false
   label: Permalink
   description: Permalink
+pages:
+- _posts/juxta-1-3-released.md
