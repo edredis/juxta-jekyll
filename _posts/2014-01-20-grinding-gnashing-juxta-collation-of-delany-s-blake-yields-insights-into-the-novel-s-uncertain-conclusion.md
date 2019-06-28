@@ -9,8 +9,6 @@ permalink: "/grinding-gnashing-juxta-collation "
 ---
 # grinding \] gnashing: Juxta collation of Delany’s Blake yields insights into the novel’s uncertain conclusion
 
-Posted on [January 20, 2014](http://juxta.cristyanc.com/index.html%3Fp=392.html "3:19 pm") by [Stephanie Kingsley](http://juxta.cristyanc.com/author/stephanie-kingsley/index.html "View all posts by Stephanie Kingsley")
-
 Martin R. Delany was an African American abolitionist and political activist. His only novel, _Blake, or, the Huts of America_, features runaway slave Henry Blake, who travels through the American South disseminating a “secret” which implicitly foments a slave rebellion, although such is never explicitly stated. Although Delany sought to have the novel published as a book, it was never accepted for publication but did appear twice in serial form. Chapters 1-23 and 29-31 were originally found in the 1859 _Anglo-African Magazine._The complete novel was discovered years later in the 1861-62 _Anglo-African Weekly._ These issues revealed a new setting of the previously discovered 26 chapters, as well as an additional 44 chapters. Although [Floyd J. Miller](http://utc.iath.virginia.edu/africam/blakehp.html) produced an annotated edition of _Blake_ in 1970 for the Beacon Press, publishing all 70 chapters, in preparing his edition he did not collate the two serializations of the first 26 to see if Delany revised between 1859 and 1861. These chapters lay uncollated until I took them up this past November as a project for Jerome McGann’s “American Historiography” course.
 
 My materials included the Arno Press reprint of Volume I of the 1859 _Anglo-African Magazine_ and scans of the original 1861-62 _Weekly_ broadsides. I uploaded the texts chapter by chapter into [Juxta Commons](http://juxtacommons.org/), collated them, and then used Juxta’s Edition Starter feature to produce HTML files which I then linked together into a navigable website created through GitHub. For more on the process of using Juxta for this project, see [last week’s post](http://dev-juxtasoftware.pantheonsite.io/work-flows-and-wish-lists-reflections-on-juxta-as-an-editorial-tool/). The purpose of my post today is to highlight a few of the changes my Juxta collations revealed.
@@ -66,7 +64,3 @@ These reflections constitute an initial analysis of the results of collating thi
 Notes
 
 1. Letter to William Lloyd Garrison, 19 Feb. 1859, Garrison Papers, Boston P.L./Rare Books Dept, cited in _Martin R. Delany: A Documentary Reader_, ed Robert S. Levine (Chapel Hill: UNC Press, 2003): 295-96.
-
-***
-
-Stephanie Kingsley is a second-year English MA student specializing in 19th-century American literature, textual studies, and digital humanities. She is one of this year’s Praxis Fellows \[[see Praxis blogs](http://www.scholarslab.org/people/stephanie-kingsley/ "Praxis blogs")\] and Rare Book School Fellows. For more information, visit [http://stephanie-kingsley.github.io/](http://stephanie-kingsley.github.io/ "http://stephanie-kingsley.github.io/").
