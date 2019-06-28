@@ -18,7 +18,7 @@ I prepared thirteen witnesses taken from the course of the article’s history o
 
 In a September 16th version of the article, an editor adds that the U.S. government has begun to doubt whether a low quality and poorly produced film circulated on YouTube entitled _Innocence of Muslims_ was in fact behind the attack.
 
-![](http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/01/schlosser2.png "heat map")
+![](/wp-content/uploads/2013/01/schlosser2.png "heat map")
 
 By September 22nd, an entire paragraph had been added to the “U.S. Government Response” section, including quotations from Senator John McCain (R, Arizona) who decried any claim that the attack was spontaneous: “Most people don’t bring rocket-propelled grenades and heavy weapons to demonstrations. That was an act of terror.” A September 27th version reports that Susan Rice appeared on five separate news shows on the 16th, asserting that the attacks were a “spontaneous reaction to a hateful and offensive video widely disseminated throughout the Arab and Muslim world.” The 27th variant also affirms that the Benghazi attack had become a politically fueled issue during the heated presidential race.
 
