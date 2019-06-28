@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/how-to-contextualize-in-an-essay.md
 - _posts/how-to-write-a-rock-and-roll-essay.md
 - _posts/juxta-camp.md
 - _posts/juxta-v1-6-release.md
