@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/digital-thoreau-and-parallel-segmentation.md
 - _posts/using-juxta-in-the-classroom-scholar-s-lab-presentation.md
 - _posts/work-flows-and-wish-lists-reflections-on-juxta-as-an-editorial-tool.md
 - _posts/grinding-gnashing-juxta-collation-of-delany-s-blake-yields-insights-into-the-novel-s-uncertain-conclusion.md
