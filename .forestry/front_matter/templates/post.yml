@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/juxta-s-future-development.md
 - _posts/juxta-open-source.md
 - _posts/new-horizons-demo.md
 - _posts/the-difference-algorithm.md
