@@ -21,4 +21,5 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/juxta-commons.md
 - _posts/2019-06-05-juxta-1-3-released.md
