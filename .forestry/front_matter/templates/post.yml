@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/beta-release-of-juxta-includes-online-sharing.md
 - _posts/on-the-juxta-beta-release-and-taking-collation-online.md
 - _posts/a-preview-of-juxta-commons.md
 - _posts/juxta-and-the-theot-project.md
