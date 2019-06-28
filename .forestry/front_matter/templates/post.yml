@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/a-preview-of-juxta-commons.md
 - _posts/juxta-and-the-theot-project.md
 - _posts/using-the-critical-apparatus-in-digital-scholarship.md
 - _posts/re-visualizing-in-juxta.md
