@@ -3,7 +3,7 @@ layout: post
 title: Juxta Commons
 date: 
 categories: ''
-permalink: juxta-commons
+permalink: "/juxta-commons"
 
 ---
 # Juxta Commons
