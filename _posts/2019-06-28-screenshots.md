@@ -3,7 +3,7 @@ layout: post
 title: Screenshots
 date: 
 categories: ''
-permalink: screenshots
+permalink: "/screenshots"
 
 ---
 # Screenshots
