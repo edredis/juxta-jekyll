@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/server-hiccups.md
 - _posts/working-with-non-roman-alphabets-in-juxta.md
 - _posts/using-juxta-in-the-digital-variorum-edition-of-ezra-pound-s-cantos.md
 - _posts/juxta-and-excess-the-case-of-aimé-césaire.md
