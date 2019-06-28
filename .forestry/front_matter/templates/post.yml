@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/using-the-critical-apparatus-in-digital-scholarship.md
 - _posts/re-visualizing-in-juxta.md
 - _posts/juxta-commons-sharing-competition.md
 - _posts/we-have-a-winner.md
