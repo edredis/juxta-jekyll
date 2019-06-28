@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/juxta-camp.md
 - _posts/juxta-v1-6-release.md
 - _posts/new-partnership-with-the-modernist-versions-project.md
 - _posts/beta-release-of-juxta-includes-online-sharing.md
