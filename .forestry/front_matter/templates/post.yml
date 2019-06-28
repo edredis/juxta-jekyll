@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/the-difference-algorithm.md
 - _posts/for-dummies.md
 - _posts/juxta-v1-4-release.md
 - _posts/searching-tennyson.md
