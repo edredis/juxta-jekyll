@@ -1,0 +1,19 @@
+---
+layout: post
+title: About
+date: 
+categories: ''
+permalink: "/about"
+
+---
+# About
+
+Juxta is an open-source tool for comparing and collating multiple witnesses to a single textual work. Originally designed to aid scholars and editors examine the history of a text from manuscript to print versions, Juxta offers a number of possibilities for humanities computing and textual scholarship.
+
+As a [standalone desktop application](http://dev-juxtasoftware.pantheonsite.io/download/), Juxta allows users to complete many of the necessary operations of [textual criticism](http://en.wikipedia.org/wiki/Textual_criticism#Process) on digital texts (TXT and XML). With this software, you can add or remove witnesses to a comparison set, switch the base text at will. Once you’ve collated a comparison, Juxta also offers several kinds of analytic visualizations. By default, it displays a heat map of all textual variants and allows the user to locate — at the level of any textual unit — all witness variations from the base text. Users can switch to a side by side collation view, which gives a split frame comparison of a base text with a witness text. A histogram of Juxta collations is particularly useful for long documents; this visualization displays the density of all variation from the base text and serves as a useful finding aid for specific variants.
+
+The desktop version of Juxta also allows users to annotate Juxta-revealed comparisons and save the results, and can output a lemmatized schedule (in HTML format) of the textual variants in any set of comparisons. It can run on any modern Macintosh, Windows, or Unix computer with Java 1.5 installed.
+
+Juxta has also been developed as a web service with a limited set of the features available in the desktop application. This web service can be integrated into a host site and controlled via a [well-documented API](https://github.com/performant-software/juxta-service/wiki/API-Documentation). This web-service powers [Juxta Commons](http://juxtacommons.org/), the destination site for using Juxta on the web. No download is necessary: simply upload or link to your sources and start collating! [Screencasts](http://vimeo.com/user13781825) and a [user guide](http://www.juxtacommons.org/guide) are available, and the R&D team would appreciate your [feedback](https://groups.google.com/forum/?hl=en&fromgroups#!forum/juxta-dev)during this beta release.
+
+The source code for Juxta is distributed under the Apache License and available on[GitHub](https://github.com/). There are separate public repositories for the [desktop](https://github.com/performant-software/juxta-desktop) and [web service](https://github.com/performant-software/juxta-service)versions of Juxta. There is a [Google Groups](https://groups.google.com/forum/?hl=en&fromgroups#!forum/juxta-dev) forum for developers.
