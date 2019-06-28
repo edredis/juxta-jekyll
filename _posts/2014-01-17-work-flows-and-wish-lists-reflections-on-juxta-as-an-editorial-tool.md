@@ -26,7 +26,7 @@ Juxta will show that punctuation spacing as a variant, while the human editor kn
 
 Spacing issues can also result in disjointed apparatus entries, as occurred in my apparatus for Chapter XI in the case of the contraction _needn’t_. Notice how because of the spacing in _needn t_ and _need nt_, Juxta recognized the two parts of the contraction as two separate variants (lines 130 and 131):
 
-[![spacing 2](http://www.nines.org/news/wp-content/uploads/2014/01/spacing-2.jpg)](http://www.nines.org/news/wp-content/uploads/2014/01/spacing-2.jpg)
+[![spacing 2](/wp-content/uploads/2014/01/spacing-2.jpg)](http://www.nines.org/news/wp-content/uploads/2014/01/spacing-2.jpg)
 
 This one variant was broken into two apparatus entries because Juxta recognized it as two words. There is really no way of rectifying this problem except by checking and editing the text and HTML apparatuses after the fact_._
 
@@ -36,16 +36,16 @@ While it did take me time to clean up the digital texts so that Juxta could do i
 
 As useful as Juxta is, it nevertheless has limitations. One difficulty I had while cleaning my texts was that I could not correct them while viewing the collation sets; I had, rather, to open the witnesses in separate windows.
 
-[![screenshot windows](http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-windows.jpg)](http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-windows.jpg)
+[![screenshot windows](/wp-content/uploads/2014/01/screenshot-windows.jpg)](http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-windows.jpg)
 
 The ability to edit the witnesses in the collation set directly would make correction of digitization errors much easier. This is not a serious impediment, though, and is easily dealt with in the manner I mentioned. The Juxta download does allow this in a limited capacity: the user can open a witness in the “Source” field below the collation visualization, then click “Edit” to enable editing in that screen. However, while the editing capability is turned on for the “Source,” you cannot scroll in the visualization—and so navigate to the next error which may need to be corrected.
 
 A more important limitation is the fact that the Edition Starter does not allow for the creation of eclectic texts, texts constructed with readings from multiple witnesses; rather, the user can only select one witness as the “base text,” and all readings in the edition are from that base text.
 
-[![screenshot Edition Starter](http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-Edition-Starter.jpg)](http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-Edition-Starter.jpg)
+[![screenshot Edition Starter]wp-content/uploads/2014/01/screenshot-Edition-Starter.jpg)](http://www.nines.org/news/wp-content/uploads/2014/01/screenshot-Edition-Starter.jpg)
 
 Most scholarly editors, however, likely will need to adopt readings from different witnesses at some point in the preparation of their editions. Juxta’s developers need to mastermind a way of selecting which reading to adopt _per variant_; selected readings would then be adopted in the text in Edition Starter. For the sake of visualizing, I did some screenshot melding in Paint of what this function might look like:
 
-[![mockup](http://www.nines.org/news/wp-content/uploads/2014/01/mockup.jpg)](http://www.nines.org/news/wp-content/uploads/2014/01/mockup.jpg)
+[![mockup](/wp-content/uploads/2014/01/mockup.jpg)](http://www.nines.org/news/wp-content/uploads/2014/01/mockup.jpg)
 
 Currently, an editor wishing to use the Edition Starter to construct an edition would need to select either the copy-text or the text with the most adopted readings for the base text. The editor would then need to adopt readings from other witnesses by editing the the output DOCX or HTML files. I do not know the intricacies of the code which runs Juxta. I looked at it on GitHub, but, alas! my very elementary coding knowledge was completely inadequate to the task. I intend to delve more as my expertise improves, and in the meantime, I encourage all the truly code-savvy scholars out there to look at the code and consider this problem. In my opinion, this is the one hurdle which, once overcome, would make Juxta the optimal choice as an edition-preparation tool—not just a collation tool. Another feature which would be fantastic to include eventually would be a way of digitally categorizing variants: accidental versus substantive; printer errors, editor corrections, or author revisions; etc. Then, an option to adopt all substantives from text A, for instance, would—perhaps—leave nothing to be desired by the digitally inclined textual editor. I am excited about Juxta. I am amazed by what it can do and exhilarated by what it may yet be capable of, and taking its limitations with its vast benefits, I will continue to use it for all future editorial projects.
