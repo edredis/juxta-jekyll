@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/mla-2013-reception-saturday-1-5.md
 - _posts/featured-set-wikipedia-article-on-benghazi-attack.md
 - _posts/authenticating-google-books-with-juxta-commons.md
 - _posts/digital-thoreau-and-parallel-segmentation.md
