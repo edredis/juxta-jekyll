@@ -21,6 +21,7 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/juxta-1-2-2-released.md
 - _posts/juxta-1-3-released.md
 - _posts/server-hiccups.md
 - _posts/working-with-non-roman-alphabets-in-juxta.md
