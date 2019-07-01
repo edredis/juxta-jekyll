@@ -21,12 +21,12 @@ fields:
   label: Permalink
   description: Permalink
 pages:
+- _posts/juxta-v1-4-release.md
 - _posts/juxta-s-future-development.md
 - _posts/juxta-open-source.md
 - _posts/new-horizons-demo.md
 - _posts/the-difference-algorithm.md
 - _posts/for-dummies.md
-- _posts/juxta-v1-4-release.md
 - _posts/searching-tennyson.md
 - _posts/juxta-1-2-1-released.md
 - _posts/juxta-dev-mailing-list.md
