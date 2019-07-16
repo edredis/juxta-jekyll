@@ -6,7 +6,7 @@ categories: ''
 permalink: "/digital-thoreau"
 
 ---
-# Digital Thoreau and Parallel Segmentation
+# Digital Thoreau and Parallel Segmentation @@@@9
 
 _\[Cross-posted at_ [_nines.org_](http://www.nines.org/news/?p=10115)_.\]_
 
@@ -16,7 +16,7 @@ What really caught my attention, however, is that they freely offer a [toolkit](
 
 This embed shows the same text featured on the [Digital Thoreau](http://digitalthoreau.org/walden/solitude/text/05_solitude.xml) site, now visualized in Juxta Commons. It is possible to import a file encoded in TEI Parallel Segmentation directly into Juxta Commons, and the software will immediately break down the file into its constituent witnesses ([see this example](http://juxtacommons.org/shares/azsJ6W) of their base witness from Princeton) and visualize them as a comparison set.
 
-[![upload screen](/wp-content/uploads/2013/02/upload_par_seg.jpg "Uploading Parallel Segmentation")](http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/upload_par_seg.jpg)
+[![upload screen](/wp-content/uploads/2013/02/upload_par_seg.jpg "Uploading Parallel Segmentation")](http://dev-juxtasoftware.pantheonsite.io/wp-content/uploads/2013/02/upload_par_seg.jpg){:class="pull-right-md-3 col-xs-2"} 
 
 Uploading Parallel Segmentation
 

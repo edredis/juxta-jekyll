@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Juxta Commons
-date: 
+date: 2019-06-05 04:00:00 +0000
 categories: ''
 permalink: "/juxta-commons"
 
