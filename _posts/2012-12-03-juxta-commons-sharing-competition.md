@@ -3,11 +3,10 @@ layout: post
 title: Juxta Commons sharing competition
 date: 2012-12-03 18:00:00 +0000
 categories: ''
-permalink: "/juxta-commons-sharing "
+permalink: "/juxta-commons-sharing"
 
 ---
-# Juxta Commons sharing competition
-
+ 
 **Updated with more details about the competition**
 
 [Juxta Commons](http://juxtacommons.org/) users – share your favorite comparison set today, and the set with the most views in the next month wins the user free swag!

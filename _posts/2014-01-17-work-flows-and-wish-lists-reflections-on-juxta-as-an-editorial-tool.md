@@ -6,8 +6,7 @@ categories: ''
 permalink: "/work-flows-wish-lists"
 
 ---
-# Work Flows and Wish Lists: Reflections on Juxta as an Editorial Tool
-
+ 
 I have had the opportunity to use [Juxta Commons](http://juxtacommons.org/ "Juxta Commons") for several editorial projects, and while taking a breath between a Juxta-intensive term project last semester and my Juxta-intensive MA thesis this semester, I would like to offer a few thoughts on Juxta as an editorial tool.
 
 For my term project for Jerome McGann’s American Historiography class last semester, I conducted a collation of Martin R. Delany’s novel, _Blake, or, The Huts of America_, one of the earliest African American novels published in the United States.Little did I know that my exploration would conduct me into an adventure as much technological as textual, but when Professor McGann recommended I use Juxta for conducting the collation and displaying the results, that is exactly what happened. I input my texts into Juxta Commons, collated them, and produced HTML texts of the individual chapters, each with an apparatus of textual variants, using Juxta’s Edition Starter. I linked these HTML files together into an easily navigable website to present the results to Professor McGann. I’ll be posting on the intriguing results themselves next week, but in the meantime, they can also be viewed on the website I constructed, hosted by [GitHub](https://github.com/ "GitHub"): [_Blake_ Project home](http://stephanie-kingsley.github.io/Blakeindex.html "Blake Project home").

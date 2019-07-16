@@ -6,7 +6,7 @@ categories: ''
 permalink: "/screenshots"
 
 ---
-# Screenshots
+ 
 
 Juxta comes with several kinds of analytic visualizations. The primary collation gives a split frame comparison of a base text with a witness text, along with a display of the digital images from which the base text is derived. Click on a screenshot below to see samples:
 

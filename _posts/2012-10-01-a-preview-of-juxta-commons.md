@@ -6,8 +6,7 @@ categories: ''
 permalink: "/preview-of-juxta"
 
 ---
-# A Preview of Juxta Commons
-
+ 
 [![](/wp-content/uploads/2012/10/heat_map.sample-150x150.jpg)](http://juxta.cristyanc.com/wp-content/uploads/2012/10/heat_map.sample.jpg)
 
 [![](/wp-content/uploads/2012/10/side-by-side.sample-150x150.jpg)](http://juxta.cristyanc.com/wp-content/uploads/2012/10/side-by-side.sample.jpg)

@@ -6,7 +6,6 @@ categories: ''
 permalink: "/using-the-critical"
 
 ---
-# Using the Critical Apparatus in Digital Scholarship
 
 [![](/wp-content/uploads/2008/09/ladyofshalott.jpg "Lady of Shalott page image")](/wp-content/uploads/2008/09/ladyofshalott.jpg) [![](/wp-content/uploads/2008/09/tennysonapparat.jpg "Critical Apparatus")](/wp-content/uploads/2008/09/tennysonapparat.jpg)
 

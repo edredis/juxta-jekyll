@@ -6,7 +6,7 @@ categories: ''
 permalink: "/juxta-1-2-2"
 
 ---
-# Juxta 1.2.2 Released
+
 
 Juxta 1.2.2 is now available for download. The major new feature in this release is an improved fragment selection mechanism and the ability to easily preview files before collating them. This functionality is accessed via the “Files” tab on the left hand panel, depicted below.
 

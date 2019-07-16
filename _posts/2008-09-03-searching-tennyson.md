@@ -6,7 +6,7 @@ categories: ''
 permalink: "/searching-tennyson"
 
 ---
-# Searching Tennyson
+
 
 Below is a representative page from Christopher Ricks’s critical edition of the poems of _Alfred, Lord Tennyson_.
 

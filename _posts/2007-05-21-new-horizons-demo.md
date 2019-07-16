@@ -6,6 +6,6 @@ categories: ''
 permalink: "/new-horizons-demo"
 
 ---
-# “new horizons” demo
+
 
 If you’re in the Charlottesville area this week and are interested in a hands-on look at Juxta, please join us at the [New Horizons in Teaching and Research](http://www.itc.virginia.edu/newhorizons/) conference, jointly sponsored by ITC and the University of Virginia Library. Bethany Nowviskie will be demonstrating the software and answering questions at 10 AM on Tuesday, May 22nd. For more details, see the conference program.

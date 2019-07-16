@@ -6,8 +6,7 @@ categories: ''
 permalink: "/using-the-critical"
 
 ---
-# Using the Critical Apparatus in Digital Scholarship
-
+ 
 [![](/wp-content/uploads/2008/09/ladyofshalott.jpg "Lady of Shalott page image")](/wp-content/uploads/2008/09/ladyofshalott.jpg) [![](/wp-content/uploads/2008/09/tennysonapparat.jpg "Critical Apparatus")](/wp-content/uploads/2008/09/tennysonapparat.jpg)
 
 As the Juxta R&D team has worked to take the desktop version of our collation software to the web, I’ve found myself thinking a great deal about the [critical apparatus](http://en.wikipedia.org/wiki/Critical_apparatus)and its role when working with digital (digitized?) texts.

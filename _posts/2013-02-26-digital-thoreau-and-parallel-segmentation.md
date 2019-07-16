@@ -6,8 +6,7 @@ categories: ''
 permalink: "/digital-thoreau"
 
 ---
-# Digital Thoreau and Parallel Segmentation @@@@9
-
+ 
 _\[Cross-posted at_ [_nines.org_](http://www.nines.org/news/?p=10115)_.\]_
 
 Every now and then I like to browse the project list at [DHCommons.org](http://dhcommons.org/), just to get an idea of what kind of work is being done in digital scholarship around the world. This really paid off recently, when I stumbled upon [Digital Thoreau](http://www.digitalthoreau.org/), an engaging and well-structured site created by a group from [SUNY-Geneseo](http://www.geneseo.edu/). This project centers around a TEI-encoded edition of Walden, which will, to quote their mission statement, “be enriched by annotations links, images, and social tools that will enable users to create conversations around the text.” I highly recommend that anyone interested in text encoding take a look at their [genetic text demo](http://digitalthoreau.org/walden/solitude/text/05_solitude.xml) of “Solitude,” visualized using the [Versioning Machine](http://v-machine.org/).

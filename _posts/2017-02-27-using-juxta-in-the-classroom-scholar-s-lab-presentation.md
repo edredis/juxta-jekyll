@@ -6,8 +6,7 @@ categories: ''
 permalink: "/using-juxta-inthe-classroom"
 
 ---
-# Using Juxta in the Classroom: Scholar’s Lab Presentation
-
+ 
 Director of NINES Andrew Stauffer and Project Manager Dana Wheeles will be joining the UVa [Scholar’s Lab](http://www2.lib.virginia.edu/scholarslab/) today to discuss Juxta Commons and possible uses for the software in the classroom. Below are a list of sets included in the demo to illustrate the numerous ways Juxta could draw students’ attention to textual analysis and digital humanities.
 
 **Traditional Scholarly Sets for Analysis and Research**

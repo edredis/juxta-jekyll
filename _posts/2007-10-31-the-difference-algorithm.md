@@ -6,7 +6,7 @@ categories: ''
 permalink: "/difference-algorithm"
 
 ---
-# The Difference Algorithm
+
 
 _The following is an excerpt from a talk I gave in September at the COST 32 meeting in Antwerp, Belgium. It explains at a high level the workings of Juxta’s collation procedure._
 

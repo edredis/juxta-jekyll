@@ -6,8 +6,7 @@ categories: ''
 permalink: "/juxta v1.6"
 
 ---
-# Juxta v1.6 Release
-
+ 
 Juxta v1.6 is now available from the download page!
 
 New features:

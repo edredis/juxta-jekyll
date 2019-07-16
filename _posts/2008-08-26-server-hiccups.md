@@ -6,6 +6,6 @@ categories: ''
 permalink: "/server-hiccups"
 
 ---
-# server hiccups
+
 
 For all those who had trouble accessing the site this week, we’re happy to announce it’s up and running again! We apologize for the delay and encourage you to access the manual and software download pages once more.

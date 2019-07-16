@@ -6,8 +6,7 @@ categories: ''
 permalink: "/featured-set-wiki"
 
 ---
-# Featured Set: Wikipedia Article on Benghazi Attack
-
+ 
 _Guest post by NINES Fellow, Emma Schlosser. The full set is embedded at the end of this post._
 
 Juxta Commons now offers a platform by which we can study the evolution of the most visited encyclopedia on the web—Wikipedia! The Wikipedia API feature allows users to easily collate variants that reveal changes made to articles, a useful tool when tracking the development of current events. In light of President Obama’s recent nomination of Senator John Kerry to be Secretary of State following Susan Rice’s withdrawal of her bid for the position, I decided to trace Wikipedia’s article on the September 11th 2012 attack on the U.S. consulate in Benghazi. The attack resulted in the tragic deaths of four Americans including Ambassador Christopher Stevens.

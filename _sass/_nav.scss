@@ -5,15 +5,12 @@
 }
 
 .centered-navigation-v2 {
-  background-color: #efe8e4;
-  background-image: url(/images/pattern@2x.png);
-  background-position:  top left;
-  background-size: auto 100%;
-  background-repeat: repeat-x;
-  min-height: 40px;
+  background-color:transparent;
+
+  min-height: 50px;
   width: 100%;
   z-index: 9999;
-  border-bottom: 30pt #54242e solid;
+ 
   
   .mobile-logo {
     display: inline;
@@ -67,7 +64,7 @@
       }
     }
     li.nav-link {
-      background: #54242e !important;
+      background: transparent !important;
       display: block;
       line-height: 40px;
       overflow: hidden;
@@ -200,12 +197,7 @@
   }
 }
 
-
-@media screen and (max-width: 80em) {
-  .centered-navigation-v2 {
-    border-bottom: 3pt #54242e solid;
-  }
-}
+ 
 
 @media screen and (min-width: 80em) {
   .centered-navigation-v2 .mobile-logo {
@@ -222,7 +214,7 @@
 @media screen and (min-width: 80em) {
   .centered-navigation-v2 ul.centered-navigation-menu {
     display: block;
-    text-align: center;
+    text-align: left;
   }
 }
 
@@ -298,8 +290,7 @@
       border-top-right-radius: 3px;
     }
     &:last-child > a {
-      border-bottom-left-radius: 3px;
-      border-bottom-right-radius: 3px;
+      
       padding-bottom: 0.7em;
     }
   }

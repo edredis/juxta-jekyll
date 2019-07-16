@@ -6,8 +6,7 @@ categories: ''
 permalink: "/authenticating-google"
 
 ---
-# Authenticating Google Books with Juxta Commons
-
+ 
 **What do you get when you collate as many free Google versions of the same text as you can find?** Those familiar with Google Books may suggest that you’ll quickly discover rampant OCR errors, or perhaps some truly astounding misinformation in the metadata fields. In my experiment using Juxta Commons to explore the versions of [Alfred, Lord Tennyson’s](http://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson) long poem, The Princess, available online, I encountered my fill of both of these issues. But I also discovered a number of interesting textual variations – ones that led me to a deeper study of the poem’s publication history.
 
 In the process of testing the efficacy of the software, I believe I stumbled upon a useful experiment that may prove helpful in the classroom: a new way to introduce students to textual scholarship, to the value of metadata, and to the modes of inquiry made possible by the digital humanities.

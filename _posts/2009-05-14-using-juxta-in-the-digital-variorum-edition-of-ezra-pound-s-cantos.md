@@ -6,8 +6,7 @@ categories: ''
 permalink: "/using-juxta"
 
 ---
-# Using Juxta in the Digital Variorum Edition of Ezra Pound’s Cantos
-
+ 
 (_Guest post by Mark Byron, University of Sydney, Australia_)
 
 I am currently assembling the digital variorum edition of Ezra Pound’s Cantos with Richard Taylor. This edition aims to collate all published versions of every canto, including page proofs and setting copy, where available, and to integrate digital reproductions of illustrated capitals in deluxe editions, audio and video recordings of Pound reading his poetry, and a very large cache of annals material pertaining to the production of his epic poem over the course of sixty years.

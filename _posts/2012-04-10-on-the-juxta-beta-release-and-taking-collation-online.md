@@ -6,8 +6,7 @@ categories: ''
 permalink: "/on-the-juxta-beta"
 
 ---
-# On the Juxta Beta release, and taking collation online
-
+ 
 ![](/wp-content/uploads/2012/04/tennyson.heatmap-300x240.jpg "Heat Map, Lady of Shalott")
 
 In September of 2008, when I first became acquainted with Juxta as a collation tool, I wrote a [blog post](http://dev-juxtasoftware.pantheonsite.io/searching-tennyson/) as a basic demonstration of the software. I hunted down transcriptions of two versions of one of my favorite poems, Tennyson’s “The Lady of Shalott,” and collated them alongside the abbreviated lyrics to the song adapted from work by Loreena McKennitt. [Screenshots](/wp-content/uploads/2008/09/tennsysoncomp.jpg) were all I had to illustrate the process and its results, however – anyone interested in exploring the dynamic collation in full would need to first download Juxta, then get the set of files from me. We had a great tool that encouraged discovery and scholarly play, but it didn’t facilitate collaboration and communication. Now, in 2012, I can finally show you[that set](http://juxta.performantsoftware.com/shares/e0547f83dc8c48ff971ecd706970c02e/view?mode=heatmap) in its entirety.

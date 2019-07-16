@@ -6,8 +6,7 @@ categories: ''
 permalink: "/beta-release"
 
 ---
-# Beta-release of Juxta includes online sharing
-
+ 
 [Calling all beta testers!](http://juxta.performantsoftware.com/)
 
 Over the past few months, NINES and the developers of Juxta have been busy adapting the application for use on the web. In order to expand our testing capabilities, we’re releasing a version of the desktop client that offers users the ability to share comparison sets online.

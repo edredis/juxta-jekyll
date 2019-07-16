@@ -6,7 +6,6 @@ categories: ''
 permalink: "/juxta-1-3"
 
 ---
-# Juxta 1.3 Released
 
 Juxta 1.3 is now available for download [here](http://dev-juxtasoftware.pantheonsite.io/?page_id=31). It has the following new features:
 

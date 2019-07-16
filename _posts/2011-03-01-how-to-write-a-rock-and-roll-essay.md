@@ -6,8 +6,7 @@ categories: ''
 permalink: "/how-to-write"
 
 ---
-# How to write a rock and roll essay
-
+ 
 Rock and roll essays are common to music and literature students though they may be found in other fields. Rock and roll essays specifically focus on a specific genre of music founded in the 1950s characterized by heavy beats and simple melodies. The nature of topics addressed under this topic are diverse and therefore students must have an open mind when attempting rock and roll essay topics. This article gives a clear detailed outline to show you how you should approach a rock and roll essay.
 
 In the first paragraph, the introductory paragraph, describe how the genre was founded. Define the genre clearly and concisely such that your readers understand the subject clearly. If your reader does not understand what is roc and roll then the rest of the essay will not be meaningful and they are not likely to read it. Give a brief but detailed history of the music to show you understand the subject. Describe the iconic people who popularized the music before it found its way into mainstream music industry. Feature a thesis statement to show what the rest of the essay would be talking about at the end of the introductory paragraph. Succinctly, in the first paragraph try to show the position of rock and roll music in the broader music industry through describing its history, notable figures who popularized it and the nature of its rhythm and beats that make it unique.

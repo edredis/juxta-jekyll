@@ -6,7 +6,7 @@ categories: ''
 permalink: "/dummies"
 
 ---
-# for dummies?
+
 
 Wesley Raabe, a former colleague at UVA (now CLIR Fellow at the [Center for Digital Research in the Humanities](http://cdrh.unl.edu/)) has written a very nice blog post describing his experiences with Juxta. He subtitles it “[textual collation for dummies](http://wraabe.wordpress.com/2008/01/17/the-digital-archive-and-literary-scholarship-textual-collation-for-dummies/),” which I take as a real compliment, because Juxta was designed to open up this esoteric practice and make it easier for literary scholars to see the utility of analyzing variant texts without having to hunker over a Lindstrand Comparator or dazzle at the flashing lights of an Hinman.
 

@@ -6,7 +6,4 @@ categories: ''
 permalink: "/juxta-dev"
 
 ---
-#   
-Juxta-dev mailing list
-
 A mailing list is now available for following Juxta’s development and communicating with others who are using Juxta. Please subscribe to the mailing list [here](https://list.mail.virginia.edu/mailman/listinfo/juxta-dev).

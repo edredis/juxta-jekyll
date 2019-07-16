@@ -6,8 +6,7 @@ categories: ''
 permalink: "/juxta-and-the-theot"
 
 ---
-# Juxta and the THEOT Project
-
+ 
 The Textual History of the Ethiopic Old Testament Project (THEOT) is an international effort to identify and to trace textual trajectories found in Ethiopian manuscripts that contain books included in the canon of the Hebrew Bible. (The Ethiopian Orthodox church counts a number of other books as part of their canon, but another team is examining those texts.) Although we hope our efforts will eventually lead to full critical editions of each book, the immediate goal is more manageable. By employing profile methods similar to those used in the field of New Testament Textual Criticism we will produce a preliminary textual history based on the collations of 15-70 select readings in 30 carefully chosen manuscripts per book.
 
 Ted Erho, in consultation with the Primary Investigator (PI) assigned to a particular biblical work, selects the manuscripts based on age and significance. All manuscripts predating the 16th century are included by default. A representative sampling of later manuscripts and textual families (when known) populate the remaining number.

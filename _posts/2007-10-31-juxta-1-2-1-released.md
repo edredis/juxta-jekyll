@@ -6,7 +6,7 @@ categories: ''
 permalink: "/juxta-1-2-1"
 
 ---
-# Juxta 1.2.1 Released
+
 
 It has been a while since we have had an update on this blog, but work has been occurring this year behind the scenes at ARP. Juxta 1.2.1 is now available for download.
 

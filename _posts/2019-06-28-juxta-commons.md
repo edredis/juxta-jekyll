@@ -6,8 +6,7 @@ categories: ''
 permalink: "/juxta-commons"
 
 ---
-# Juxta Commons
-
+ 
 **Juxta Commons is the newly-released destination site for using Juxta on the web.**
 
 [![](/wp-content/uploads/2012/11/juxta_commons_home.11_2012-300x291.jpg "juxta_commons_home.11_2012")](http://www.juxtacommons.org/)

@@ -6,8 +6,7 @@ categories: ''
 permalink: "/juxta-and-excess"
 
 ---
-# Juxta and excess: The case of Aimé Césaire
-
+ 
 (Guest post by Alex Gil – read full entry at [NINES](http://www.nines.org/news/?p=452))
 
 I’m a PhD candidate in the English Department at the University of Virginia currently working on a digital edition of Aimé Césaire’s early works under the sponsorship of l’Agence Universitaire de la Francophonie and ITEM. Some of this work also moonlights as my rather schizoid dissertation (read French poet/English Department) and I consider it part of my long-term goal of generating and sustaining enthusiasm for reliable digital editions of neo-canonical Caribbean literary texts. I am rather new to this blog, but not to Juxta. I started working with Juxta around the time when I started working with Aimé Césaire’s signature poem _Cahier d’un retour au pays natal,_ roughly 2 years ago. At the time, Juxta saved me enormous amounts of time proofreading my retooled OCRs and generating an apparatus. It was later, when I started working with _Et les chiens se taisaient,_ a longer text with substantially more variants and transpositions, that Juxta revealed to me both its current shortcomings and its ultimate promise.
