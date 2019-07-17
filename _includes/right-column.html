@@ -1,0 +1,17 @@
+<!-- ========== RIGHT - COLUMN ========== -->
+<div id="secondary" class="widget-area col" role="complementary">
+        <aside id="recent-posts-2" class="widget widget_recent_entries">
+            <h3 class="widget-title">Recent Posts</h3>
+             
+            <ul>
+                {% for post in site.posts limit:10 %}
+                <li>
+                    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"
+                        rel="bookmark">{{ post.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+
+        </aside>
+    </div>
+<!-- ========== END RIGHT - COLUMN ========== -->

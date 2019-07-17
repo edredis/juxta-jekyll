@@ -1,17 +1,15 @@
 .swan {
-
-    margin-bottom:50px;
-
+  margin-bottom: 50px;
 }
 
 .centered-navigation-v2 {
-  background-color:transparent;
+  background-color: transparent;
 
-  min-height: 50px;
+  height: calc(100vh * 0.15) !important;
+
   width: 100%;
   z-index: 9999;
- 
-  
+
   .mobile-logo {
     display: inline;
     float: left;
@@ -197,8 +195,6 @@
   }
 }
 
- 
-
 @media screen and (min-width: 80em) {
   .centered-navigation-v2 .mobile-logo {
     display: none;
@@ -290,7 +286,6 @@
       border-top-right-radius: 3px;
     }
     &:last-child > a {
-      
       padding-bottom: 0.7em;
     }
   }
