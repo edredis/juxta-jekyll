@@ -11,3 +11,5 @@ permalink: list-of-illustrations
 **Ugo da Carpi, after Parmigianino  _Diogenes. ca. 1527–30._** Chiaroscuro woodcut printed from four blocks in grey-green ink, 47.5 x 34.6 cm. Metropolitan Museum. Purchase, Joseph Pulitzer Bequest, 1917. Accession Number:17.50.1. (Image source: Metropolitan Museum) **II, 12**
 
 **Albrecht Dürer, _Draughtsman Making a Perspective Drawing of a Reclining Woman_. ca. 1600.** Woodcut, 7.7 x 21.4 cm. Metropolitan Museum. Gift of Henry Walters, 1917, 17.37.314. **II, 12**
+
+***
