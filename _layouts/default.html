@@ -22,8 +22,23 @@
 								{{ content }}
 							</main>
 						</div>
-						<div class="col">
-							{% include right-column.html %}
+						<div id="secondary" class="widget-area col" role="complementary">
+							<aside id="recent-posts-2" class="widget widget_recent_entries">
+								<h3 class="widget-title">Recent Posts</h3>
+								<ul>
+									{% for post in site.posts %}
+
+									<li>
+										<a href="{{ post.url }}">
+											{{ post.title }}
+										</a>
+									</li>
+
+
+
+									{% endfor %}
+								</ul>
+							</aside>
 						</div>
 					</div>
 
