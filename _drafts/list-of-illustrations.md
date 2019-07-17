@@ -1,7 +1,7 @@
 ---
 layout: post
 title: List of Illustrations
-date: 2019-07-17 04:00:00 +0000
+date: 2019-07-17T04:00:00.000+00:00
 categories: ''
 permalink: list-of-illustrations
 
@@ -12,4 +12,5 @@ permalink: list-of-illustrations
 
 **Albrecht Dürer, _Draughtsman Making a Perspective Drawing of a Reclining Woman_. ca. 1600.** Woodcut, 7.7 x 21.4 cm. Metropolitan Museum. Gift of Henry Walters, 1917, 17.37.314. **II, 12**
 
-***
+**Cornelis Cort, after Joannes Stradanus. _The Practice of the Visual Arts._** 1578 Engraving, sheet 42.8 x 28.6 cm. New York, Metropolitan Museum. Harris Brisbane Dick Fund, 1953, 53.600.509. (Image source: Metropolitan Museum). **II, 18**
+
