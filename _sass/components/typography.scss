@@ -3,7 +3,7 @@
 //
 // Headings
 //
-$headings-font-family: "Garamond", serif;
+$headings-font-family: "Verdana", Arial, Helvetica, sans-serif;
 
 body,
 h1,
@@ -19,7 +19,8 @@ h6,
 .h5,
 .h6 {
   margin-bottom: $headings-margin-bottom;
-  font-family: $headings-font-family;
+  //font-family: $headings-font-family;
+  font-family: "Georgia", sans-serif;
   font-weight: $headings-font-weight;
   line-height: $headings-line-height;
   color: $headings-color;
@@ -28,6 +29,10 @@ h6,
 h1,
 .h1 {
   font-size: $h1-font-size;
+  font-family: "Georgia", sans-serif;
+  font-size: 2em;
+  font-weight: 200;
+  font-style: italic !important;
 }
 h2,
 .h2 {
@@ -51,10 +56,10 @@ h6,
 }
 
 p {
-  color: $gray-900;
-  font-size: 14px;
-  line-height: 22px;
-  font-weight: 100;
+  font: 12px/18px Verdana, Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+  padding: 0 20px 10px 25px;
+  text-align: left;
 }
 a.cta-links {
   font-size: 16px;

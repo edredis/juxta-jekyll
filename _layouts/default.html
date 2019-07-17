@@ -7,18 +7,31 @@
 <body class="index">
 	<div class="bg-books container-fluid">
 		{% include header.html %}
-	<div class="container">
-		
-		<!-- ========== MAIN ========== -->
-		<div class="page-content">
-			<main id="content" role="main">
-				{{ content }}
-			</main>
+		<div class="container">
+
+			<!-- ========== MAIN ========== -->
+			<div class="page-content">
+
+				<div class="container">
+					<div class="row">
+						<div class="col">
+							{% include left-column.html %}
+						</div>
+						<div class="col-7">
+							<main id="content" role="main">
+								{{ content }}
+							</main>
+						</div>
+						<div class="col">
+							{% include right-column.html %}
+						</div>
+					</div>
+
+				</div>
+				<!-- ========== END MAIN ========== -->
+				{% include footer.html %}
+			</div>
 		</div>
-		<!-- ========== END MAIN ========== -->
-		{% include footer.html %}
-	</div>
-	</div>
 </body>
 {% include scripts.html %}
 
