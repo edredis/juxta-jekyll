@@ -24,3 +24,4 @@ permalink: list-of-illustrations
 **Michelangelo Buonarroti. _Victory._** 1532-4, Marble, 261 cm. Rome, Palazzo Vecchio. (Image source: Photo ©Sailko, via Wikimedia Commons) **IV, 12**
 
 
+Giovanni da Bologna	Venus	1573, Marble. Florence, Boboli Gardens, Grotto Buontalenti Photo ©Sailko, via Wikimedia Commons	**IV, 12**
