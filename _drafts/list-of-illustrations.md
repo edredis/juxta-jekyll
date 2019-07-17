@@ -14,11 +14,13 @@ permalink: list-of-illustrations
 
 **Cornelis Cort, after Joannes Stradanus. _The Practice of the Visual Arts._** 1578 Engraving, sheet 42.8 x 28.6 cm. New York, Metropolitan Museum. Harris Brisbane Dick Fund, 1953, 53.600.509. (Image source: Metropolitan Museum). **II, 18**
 
-**Leonardo da Vinci. _Virtuvian Man._** Leonardo da Vinci Year c. 1490 Pen and ink with wash over metalpoint on paper 34.6 × 25.5 cm. Venice, Gallerie dell'Accademia Wikimedia Commons **III, 7**
+**Leonardo da Vinci. _Virtuvian Man._** Leonardo da Vinci Year c. 1490 Pen and ink with wash over metalpoint on paper 34.6 × 25.5 cm. Venice, Gallerie dell'Accademia. (Image source: Wikimedia Commons) **III, 7**
 
 **Albrecht Dürer. _Illustration of human proportions._** Hierin sind begriffen vier Bücher von menschlicher Proportion, Nuremberg: Hieronymus Formscheyder, 1528, page 11.	(Image source: National Library of Medicine National Library of Medicine https://www.nlm.nih.gov/exhibition/historicalanatomies/Images/1200_pixels/durer_pg-11.jpg)	**III, 9**
 
-**Hendrik Goltzius, after Raphael The Triumph of Galatea** 1592.Engraving on laid paper sheet: 55.9 × 41.8 cm. New Hollstein, no. 334, State i/ii. Washington DC: National Gallery. The Ahmanson Foundation
+**Hendrik Goltzius, after Raphael. _The Triumph of Galatea._** 1592.Engraving on laid paper sheet: 55.9 × 41.8 cm. New Hollstein, no. 334, State i/ii. Washington DC: National Gallery. The Ahmanson Foundation
 2015.9.1. (Image source: National Gallery) **IV, 12**
 
-Michelangelo Buonarroti Victory	1532-4, Marble, 261 cm. Rome, Palazzo Vecchio Photo ©Sailko, via Wikimedia Commons IV, 12
+**Michelangelo Buonarroti. _Victory._** 1532-4, Marble, 261 cm. Rome, Palazzo Vecchio. (Image source: Photo ©Sailko, via Wikimedia Commons) **IV, 12**
+
+
