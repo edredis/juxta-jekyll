@@ -20,3 +20,5 @@ permalink: list-of-illustrations
 
 **Hendrik Goltzius, after Raphael The Triumph of Galatea** 1592.Engraving on laid paper sheet: 55.9 × 41.8 cm. New Hollstein, no. 334, State i/ii. Washington DC: National Gallery. The Ahmanson Foundation
 2015.9.1. (Image source: National Gallery) **IV, 12**
+
+Michelangelo Buonarroti Victory	1532-4, Marble, 261 cm. Rome, Palazzo Vecchio Photo ©Sailko, via Wikimedia Commons IV, 12
