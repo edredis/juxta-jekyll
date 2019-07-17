@@ -25,4 +25,4 @@ permalink: list-of-illustrations
 
 **Giovanni da Bologna. _Venus._** 1573, Marble. Florence, Boboli Gardens, Grotto Buontalenti. (Image source: Photo ©Sailko, via Wikimedia Commons) **IV, 12**
 
-**Roman, after Apollonios. _Belvedere Torso._**	1st century BCE. Marble, h 1.59m.  Copy of bronze original c. 2nd century BCE. Rome, Vatican Museums (Image source: Photo ©Sailko, via Wikimedia Commons) **IV,18**
+**Roman, after Apollonios. _Belvedere Torso._**	1st century BCE. Marble, h 1.59m.  Copy of bronze original c. 2nd century BCE. Rome, Vatican Museums (Image source: Photo ©Sailko, via Wikimedia Commons) **IV, 18**
