@@ -29,4 +29,3 @@ permalink: list-of-illustrations
 
 **Roman. _Laocoön and his sons, also known as the Laocoön Group._**	early 1st century BCE. Marble, copy after an Hellenistic original from ca. 200 BC. h 2.4 m. Rome, Vatican Museums. (Image source: Photo © Marie-Lan Nguyen via Wikimedia Commons) **IV, 18**
 
-
