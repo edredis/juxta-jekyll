@@ -19,4 +19,4 @@ permalink: list-of-illustrations
 **Albrecht Dürer. _Illustration of human proportions._** Hierin sind begriffen vier Bücher von menschlicher Proportion, Nuremberg: Hieronymus Formscheyder, 1528, page 11.	(Image source: National Library of Medicine National Library of Medicine https://www.nlm.nih.gov/exhibition/historicalanatomies/Images/1200_pixels/durer_pg-11.jpg)	**III, 9**
 
 **Hendrik Goltzius, after Raphael The Triumph of Galatea** 1592.Engraving on laid paper sheet: 55.9 × 41.8 cm. New Hollstein, no. 334, State i/ii. Washington DC: National Gallery. The Ahmanson Foundation
-2015.9.1. (Image source: National Gallery)	IV	12
+2015.9.1. (Image source: National Gallery) **IV, 12**
