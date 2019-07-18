@@ -110,3 +110,13 @@ permalink: list-of-illustrations
 
 **Roman. _Horses, with Castor and Pollux._** Roman copies of Greek originals,Marble, height of figures 5.6 m Rome, Piazza del Quirinale. (Image source: Wikimedia Commons). **IX, 27**
 
+**Roman. _Equestrian statue of Marcus Aurelius._**	161-180 AD, Bronze, cm.424. Rome, Capitoline Museums. (Image source: Wikimedia Commons). **IX, 26**
+
+**Roman. _Horses of San Marco._**  2nd-3rd century, copper. Venice, Basilica of San Marco. (Image source: Wikimedia Commons). **IX, 26**
+
+**_Farnese Bull._** Marble, Roman copy of a Greek original, with modern restoriations. Naples, Archaeological Museum, Farnese Collection. (Image source: Wikimedia Commons). **IX, 40**
+
+Lucas van Leyden	The Apostle Peter	Engraving. 11.4 × 6.9 cm. 	Amsterdam, Rijksmuseum	Rijksmuseum	X	7
+
+
+
