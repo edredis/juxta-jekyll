@@ -132,6 +132,7 @@ permalink: list-of-illustrations
 
 **Jan Gossaert. _Madonna and Child._**	oil on panel  51.4 x 41.9 cm	Washington, National Gallery of Art. Gift of Grace Vogel Aldworth in memory of her grandparents Ralph and Mary Booth 1981.87.1. (Image source: National Gallery). **X, 6**
 
+**Heinrich Aldegrever. _Lascivia._** 1549 engraving on paper 70 x 44 mm. 1853,0709.182 London, British Museum. (Image source: British Museum). **X, 13**
 
 
 
