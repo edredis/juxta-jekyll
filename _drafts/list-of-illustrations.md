@@ -66,4 +66,4 @@ permalink: list-of-illustrations
 
 **Raphael and workshop. _Isaac and Rebecca Spied on by Abimelech._** 1518-19 Fresco Loggia on the second floor, Palazzi Pontifici, Vatican Rome, Vatican Museums. (Image source: Wikimedia Commons). **VII, 56**
 
-Gillis Coignet Judith shows Holofernes's head to the inhabitants of Bethulia panel, 62,5 x 149 cm Location unknown RKD **VII, 44**
+Gillis Coignet Judith shows Holofernes's head to the inhabitants of Bethulia panel, 62,5 x 1,49 cm Location unknown RKD **VII, 44**
