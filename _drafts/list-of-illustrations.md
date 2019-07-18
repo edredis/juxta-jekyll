@@ -84,3 +84,11 @@ permalink: list-of-illustrations
 
 **Niccolò dell'Abate. _Landscape with a Wild Boar Hunt._** c. 1550 oil on canvas 151 x 183 cm Rome, Galleria Spada. (Image source: ARTStor). **VIII, 19**
 
+**Pieter Bruegel. _Hunters in the Snow._**	1565, oil on wood, 118 x 161 cm Vienna, Kunsthistorischesmuseum. (Image source: ARTStor). **VIII, 19**
+
+**Paul Bril. _Stag Hunt._** 1590-1595 oil on canvas 105 x 137 cm Paris, Louvre. (Image source: Wikimedia Commons). **VIII, 24**
+
+**Tintoretto. _The Miracle of the Brazen Serpent._** 1575-76 Venice, Scuola di San Rocco, Sala Grande oil on canvas 8.4m x 5.2m Venice, Scuola di San Rocco. (Image source: Wikimedia Commons). **VIII, 24**
+
+**Niccoló Boldrini after Titian. _Landscape with a Milkmaid._** 1530s Woodcut Courtesy National Gallery of Art, Washington National Gallery of Art, Washington D.C. Washington, National Gallery. (Image source: DC, National Gallery). **VIII, 24**
+
