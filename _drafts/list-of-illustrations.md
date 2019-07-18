@@ -34,3 +34,5 @@ permalink: list-of-illustrations
 **Titian. _Christ Carrying the Cross._** c. 1565 oil on canvas 67 × 77 cm. Madrid, Museo del Prado. (Image source: Prado). **V, 29**
 
 **Bartholomeus Spranger. _Adoration of the Kings._** c. 1595 Oil on canvas, 200 x 144 cm. London, National Gallery. (Image source: British Museum). **V, 23**
+
+**Tintoretto. _The Miracle of the Loaves and Fishes._** ca. 1545-50 Oil on canvas 154.9 x 407.7 cm. New York, Metropolitan Museum. Francis L. Leland Fund, 1913 (13.75). (Image source: Photographed by Schecter Lee ©The Metropolitan Museum of Art). **V, 16**
