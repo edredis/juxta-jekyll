@@ -19,7 +19,7 @@ permalink: list-of-illustrations
 **Albrecht Dürer. _Illustration of human proportions._** Hierin sind begriffen vier Bücher von menschlicher Proportion, Nuremberg: Hieronymus Formscheyder, 1528, page 11.	(Image source: National Library of Medicine National Library of Medicine https://www.nlm.nih.gov/exhibition/historicalanatomies/Images/1200_pixels/durer_pg-11.jpg)	**III, 9**
 
 **Hendrik Goltzius, after Raphael. _The Triumph of Galatea._** 1592.Engraving on laid paper sheet: 55.9 × 41.8 cm. New Hollstein, no. 334, State i/ii. Washington DC: National Gallery. The Ahmanson Foundation
-2015.9.1. (Image source: National Gallery) **IV, 12**
+2015\.9.1. (Image source: National Gallery) **IV, 12**
 
 **Michelangelo Buonarroti. _Victory._** 1532-4, Marble, 261 cm. Rome, Palazzo Vecchio. (Image source: Photo ©Sailko, via Wikimedia Commons) **IV, 12**
 
@@ -28,4 +28,8 @@ permalink: list-of-illustrations
 **Roman, after Apollonios. _Belvedere Torso._**	1st century BCE. Marble, h 1.59m.  Copy of bronze original c. 2nd century BCE. Rome, Vatican Museums (Image source: Photo ©Sailko, via Wikimedia Commons) **IV, 18**
 
 **Roman. _Laocoön and his sons, also known as the Laocoön Group._**	early 1st century BCE. Marble, copy after an Hellenistic original from ca. 200 BC. h 2.4 m. Rome, Vatican Museums. (Image source: Photo © Marie-Lan Nguyen via Wikimedia Commons) **IV, 18**
+
+**Roman, after Leochares. _Apollo Belvedere._** 120–140 BCE; marble copy of bronze original of ca. 350–325 BCE; h  2.24 cm. Rome, Vatican Museums (Image source: Wikimedia Commons) **IV, 28-9**
+
+**Titian. _Christ Carrying the Cross._** c. 1565 oil on canvas 67 × 77 cm. Madrid, Museo del Prado (Image source: Prado) **V, 29**
 
