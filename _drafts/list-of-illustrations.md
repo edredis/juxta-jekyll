@@ -134,5 +134,4 @@ permalink: list-of-illustrations
 
 **Heinrich Aldegrever. _Lascivia._** 1549 engraving on paper 70 x 44 mm. 1853,0709.182 London, British Museum. (Image source: British Museum). **X, 13**
 
-
-
+**Lucas van Leyden. _The Dance of the Magdalene._** 1519 Engraving Sheet: 29 × 39.7 cm New York, Metropolitan Museum of Art. Gift of Felix M. Warburg and his family, 1941 41.1.30. (Image source: Metropolitan Museum of Art). **X, 16**
