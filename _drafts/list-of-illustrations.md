@@ -66,4 +66,10 @@ permalink: list-of-illustrations
 
 **Raphael and workshop. _Isaac and Rebecca Spied on by Abimelech._** 1518-19 Fresco Loggia on the second floor, Palazzi Pontifici, Vatican Rome, Vatican Museums. (Image source: Wikimedia Commons). **VII, 56**
 
-Gillis Coignet Judith shows Holofernes's head to the inhabitants of Bethulia panel, 62,5 x 1,49 cm Location unknown RKD **VII, 44**
+**Gillis Coignet. _Judith shows Holofernes's head to the inhabitants of Bethulia._** panel, 62,5 x 1,49 cm Location unknown. (Image source: RKD). **VII, 44**
+
+**Gillis Coignet. _Lottery in front of the Dolhuis at the Rusland._** 1593, panel, 113 x 203,5 cm, Amsterdam, Amsterdam Museum. (Image source: Amsterdam Museum). **VII, 44*
+
+**Albrecht Dürer. _St. Jerome in his Study._** 1514 Engraving Dimensions: 24.6 x 18.9 cm.trimmed on plate line. New York, Metropolitan Museum of Art. Fletcher Fund, 1919 19.73.68. (Image source: Metropolitan Museum). **VII, 56**
+
+
