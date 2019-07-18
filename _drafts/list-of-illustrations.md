@@ -116,7 +116,7 @@ permalink: list-of-illustrations
 
 **_Farnese Bull._** Marble, Roman copy of a Greek original, with modern restoriations. Naples, Archaeological Museum, Farnese Collection. (Image source: Wikimedia Commons). **IX, 40**
 
-Lucas van Leyden	The Apostle Peter	Engraving. 11.4 × 6.9 cm. 	Amsterdam, Rijksmuseum	Rijksmuseum	X	7
+**Lucas van Leyden. _The Apostle Peter._** Engraving. 11.4 × 6.9 cm. Amsterdam, Rijksmuseum. (Image source: Rijksmuseum).	**X, 7**
 
 
 
