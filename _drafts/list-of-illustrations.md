@@ -44,3 +44,13 @@ permalink: list-of-illustrations
 
 **Cornelis Cort after Federico Zuccaro. _Annunciation._** Raphaël Sadeler I After Cornelis Cort After Federico Zuccaro 1580 Engraving And Etching 30.4 x 44.7 cm. San Francisco, Fine Arts Museum. Achenbach Foundation 1993.63.76 Mr. and Mrs. Marcus Sopher Collection. (Image source: San Francisco Fine Arts Museum). **V, 67**
 
+**Polidoro da Caravaggio. _Christ Carrying the Cross._** 1533 Oil on panel Naples,Museo Capodimonte (Image source: Wikimedia Commons). **V, 23**
+
+**Bartholomeus Spranger. _Martyrdom of St John the Evangelist._** 1574 Oil on canvas, 150 x 120 cm.	Rome, S. Giovanni a Laterano. (Image source: Metzler, S.Bartholomeus Spranger: Splendor and Eroticism in Imperial Prague. The Complete Works New York: Metropolitan Museum of Art, 2014, pl 14). **V, 23**
+
+**Roman. _River Nile._** Rome, Vatican Museums. **V, 72**
+
+**Roman. _River Tiber._** Early second century AD Pentelic marble Rome, Piazza di Campidolgio. (Image source: Wikimedia Commons). **V, 81-2**
+
+**Michelangelo Buonarroti. _Last Judgment._** 1534-41 fresco 14.6 x 13.41 m Rome, Sistine Chapel (Image source: Wikimedia Commons). **V, 16, XII, 12	V, 16, XII, 12**
+
