@@ -126,5 +126,12 @@ permalink: list-of-illustrations
 
 **Paolo Veronese. _Saint Catherine of Alexandria in Prison._** ca. 1580–85 Oil on canvas 116.2 x 83.8 cm New York, Metropolitan Museum. Anonymous Gift, 1999. (Image source: Metropolitan Museum). **X, 18**
 
+**Raphael. _Disputà._** 1509–1510 Fresco 500 cm.× 770 cm Rome, Vatican (Image source: Wikimedia Commons). **X, 24**
+
+**Albrecht Dürer. _Madonna with the Child in swaddling clothes._** c. 1520-25 141 x 96 mm Engraving Amsterdam, Rijksmuseum. (Image source: Rijksmuseum). **X, 14**
+
+**Jan Gossaert. _Madonna and Child._**	oil on panel  51.4 x 41.9 cm	Washington, National Gallery of Art. Gift of Grace Vogel Aldworth in memory of her grandparents Ralph and Mary Booth 1981.87.1. (Image source: National Gallery). **X, 6**
+
+
 
 
