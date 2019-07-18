@@ -74,7 +74,10 @@ permalink: list-of-illustrations
 
 **Pieter Aertsen. _Butcher's Stall._** 1551.Oil on panel, 1.23 x 1.67 cm Uppsala, Museum Gustavianum Uppsala. (Image source: Museum Gustavianum). **VII, 54**
 
+**Leandro Bassano, after Bassano. _The Element of Earth._**	c. 1580. Oil on canvas 148 x 234.2 cm Baltimore, Walters Art Gallery. (Image source: Wikimedia Commons). **VII, 40**
 
+**Bassano. _The Flight into Egypt._** 1544-4.5 Oil on canvas 123.2 x 196.2 cm Pasadena, Norton Simon Museum. (Image source: Norton Simon). **VII, 40**
 
+**Jan Saenredam after Cornelis Cornelisz. _The Cave of Plato._** Engraving, 32.9  × 45.2 cm. Amsterdam, Rijksprentenkabinet. (Image source: Rikjsmuseum). **VII, 45**
 
 
