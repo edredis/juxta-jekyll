@@ -138,4 +138,16 @@ permalink: list-of-illustrations
 
 **Lucas van Leyden. _The Temptation of Christ._** 1518 Engraving sheet: 17.7 x 13.6 cm Princeton Art Museum. Laura P. Hall Memorial Collection, bequest of Professor Clifton R. Hall x1946-285. (Image source: Princeton Art Museum). **X, 16**
 
+**Michelangelo. _Moses, Tomb of Pope Julius II._**	ca. 1513-15. Marble. Rome, S. Pietro in Vincoli. (Image source: Photo ©Byron T., via Wikimedia Commons). **X, 25**
+
+**Roman. _Farnese Flora._**	2nd century CE. Marble.	Naples, Archeological Museum, Farnese Collection. (Image source: Photo ©ho visto nina, via Wikimedia CommonsWikimedia Commons). **X, 28-29**
+
+**Roman. _Maenad._** Roman copy made in the time of Severus, in white marble and "bigio antico", from an Ancient Greek original dating from the 2nd century BCE. Palermo, Regional Archaeological Museum. (Image source: Photo ©Giovanni D'Allorto via Wikimedia Commons). **X, 28**
+
+**Roman. _Sleeping Ariadne._** Roman copy of Greek original, 2nd century BCE Rome, Vatican Museums. (Image source: Photo © Wknight94, via Wikimedia Commons). **X, 27**
+
+
+
+
+
 
