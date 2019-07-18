@@ -102,5 +102,8 @@ permalink: list-of-illustrations
 
 **Gillis van Coninxloo. _Landscape with Venus and Adonis._** oil on copper. 48.26 x  64.45 x 6.98 cm. Cleveland Museum of Art.  Mr. and Mrs. William H. Marlatt Fund 1962.293. (Image source: Cleveland Museum). **VIII, 26-42**
 
-**Hendrik Goltzius, after Stradanus. _Equus Liber et Incompositus from Equile Ioannis Austriaci Caroli V Imp. F…._** c. 1579 Engraving, 21.5 cm.x 27 cm. 1910, 0409.35 British Museum. (Image source:London, British Museum). **IX, 15**
+**Hendrik Goltzius, after Stradanus. _Equus Liber et Incompositus from Equile Ioannis Austriaci Caroli V Imp. F…._** c. 1579 Engraving, 21.5 cm.x 27 cm. 1910, 0409.35 British Museum. (Image source: London, British Museum). **IX, 15**
+
+**Bassano. _Entry of the Animals into Noah's Ark._** 1563-1568 oil on canvas 207 x 265 cm Madrid,  Museo del Prado. (Image source: Prado). **IX, 36**
+
 
