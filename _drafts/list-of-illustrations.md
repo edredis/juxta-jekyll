@@ -124,6 +124,7 @@ permalink: list-of-illustrations
 
 **Lucas van Leyden. _The Triumph of Mordecai._** 1515 Engraving; first state 21.1 x 29.4 cm New York, Metropolitan Museum. The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951 51.623.6. (Image source: Metropolitan Museum). **X, 16**
 
-Paolo Veronese	Saint Catherine of Alexandria in Prison	"ca. 1580–85
-Oil on canvas 116.2 x 83.8 cm"	New York, Metropolitan Museum. Anonymous Gift, 1999 (1999.225)	Metropolitan Museum	X	18
+**Paolo Veronese. _Saint Catherine of Alexandria in Prison._** ca. 1580–85 Oil on canvas 116.2 x 83.8 cm New York, Metropolitan Museum. Anonymous Gift, 1999. (Image source: Metropolitan Museum). **X, 18**
+
+
 
