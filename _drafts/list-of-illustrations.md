@@ -148,3 +148,16 @@ permalink: list-of-illustrations
 
 **Karel van Mander. _The Dance Around the Golden Calf._** 1602 Oil on canvas 98 x 213.5 cm Haarlem, Frans Hals Museum. (Image source: Haarlem, Frans Hals Museum). **X, 29**
 
+**Raffaelino da Reggio. _Tobias and the Angel._** 1570s oil on panel 107 x 69 cm Rome, Borghese. (Image source: Wikimedia Commons). **XI, 12**
+
+**Raphael. _Transfiguration of Christ._** c. 1516-20 oil on panel 405 x 278 cm	Rome, Vatican Museums. (Image source: Wikimedia Commons). **XII, 39**
+
+**Pieter Paul Rubens, after Leonardo da Vinci. _Copy of Battle of Anghiari, copied from a cartoon or possibly the original painting._** 1603 Brown ink, black stone, brush and pen, heightened with gouache and lead white 45.1 x 64 cm Paris, Louvre. (Image source: Wikimedia Commons). **XII, 9**
+
+**Titian. _Adoration of the Magi._** Oil on canvas  134.5 x 217 cm.	Cleveland Museum of Art. Mr. and Mrs. William H. Marlatt Fund 1957.150. (Image source: Cleveland Museum of Art). **XII, 34**
+
+**Albrecht Dürer. _Heller Altarpiece._** 1615, Copy after lost original, 1508-9 Tempera and oil on wood center panel 189 x 138 cm Frankfurt, Städel Museum. (Image source: Frankfurt, Städel Museum). **XII, 19**
+
+
+
+
