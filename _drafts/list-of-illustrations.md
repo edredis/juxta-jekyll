@@ -116,7 +116,12 @@ permalink: list-of-illustrations
 
 **_Farnese Bull._** Marble, Roman copy of a Greek original, with modern restoriations. Naples, Archaeological Museum, Farnese Collection. (Image source: Wikimedia Commons). **IX, 40**
 
-**Lucas van Leyden. _The Apostle Peter._** Engraving. 11.4 × 6.9 cm. Amsterdam, Rijksmuseum. (Image source: Rijksmuseum).	**X, 7**
+**Lucas van Leyden. _The Apostle Peter._** Engraving. 11.4 × 6.9 cm. Amsterdam, Rijksmuseum. (Image source: Rijksmuseum). **X, 7**
+
+**Andrea Andreani, after Titian. _The Triumph of Christ, after Titian; section._** 1590-1600 Woodcut  39 cm.x 258 cm Cambridge, Harvard Art Museums. (Image source: Harvard Art Museums). **X, 25**
+
+
+
 
 
 
