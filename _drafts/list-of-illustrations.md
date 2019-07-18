@@ -120,8 +120,10 @@ permalink: list-of-illustrations
 
 **Andrea Andreani, after Titian. _The Triumph of Christ, after Titian; section._** 1590-1600 Woodcut  39 cm.x 258 cm Cambridge, Harvard Art Museums. (Image source: Harvard Art Museums). **X, 25**
 
+**Albrecht Dürer. _The Sudarium Displayed by Two Angels._** 1513 Engraving  10.3 × 4.3 cm New York, Metropolitan Museum. Bequest of Ida Kammerer in memory of Frederic Kammerer, MD, 1933 Accession Number: 33.79.4. (Image source: Metropolitan Museum). **X, 6**
 
+**Lucas van Leyden. _The Triumph of Mordecai._** 1515 Engraving; first state 21.1 x 29.4 cm New York, Metropolitan Museum. The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951 51.623.6. (Image source: Metropolitan Museum). **X, 16**
 
-
-
+Paolo Veronese	Saint Catherine of Alexandria in Prison	"ca. 1580–85
+Oil on canvas 116.2 x 83.8 cm"	New York, Metropolitan Museum. Anonymous Gift, 1999 (1999.225)	Metropolitan Museum	X	18
 
