@@ -106,4 +106,7 @@ permalink: list-of-illustrations
 
 **Bassano. _Entry of the Animals into Noah's Ark._** 1563-1568 oil on canvas 207 x 265 cm Madrid,  Museo del Prado. (Image source: Prado). **IX, 36**
 
+**Roman. _Cow._** Roman copy of  Greek bronze original by Myron  (460-440 BCE). Pentelic marble. Rome, Capitoline Museums. (Image source: Photo ©Mary Harrsch, via Wikimedia Commons). **IX, 42**
+
+**Roman. _Horses, with Castor and Pollux._** Roman copies of Greek originals,Marble, height of figures 5.6 m Rome, Piazza del Quirinale. (Image source: Wikimedia Commons). **IX, 27**
 
