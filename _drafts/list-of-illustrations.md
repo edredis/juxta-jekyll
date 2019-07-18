@@ -60,6 +60,8 @@ permalink: list-of-illustrations
 
 **Giotto. _"Navicella"._** 1305-13; copy by Francesco Berretta, 1628 Oil on canvas, 740 x 990 cm Fabbrica di San Pietro, Rome. (Image source: Wikimedia Commons). **VI, 63**
 
+**Hendrik Goltzius. _Sine Cerere et Baccho Friget Venus._** 1593 Ink on parchment 62.9 x  49 cm London, British Museum. (Image source: British Museum). **VII, 48**
 
+**Raphael. _The Deliverance of Peter from Prison._** 1514 Fresco, width at base 660 cm Rome, Vatican Museums. (Image source: Wikimedia Commons). **VII, 37**
 
-
+**Raphael and workshop. _Isaac and Rebecca Spied on by Abimelech._** 1518-19 Fresco Loggia on the second floor, Palazzi Pontifici, Vatican Rome, Vatican Museums. (Image source: Wikimedia Commons). **VII, 56**
