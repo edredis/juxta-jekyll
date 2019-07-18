@@ -54,7 +54,7 @@ permalink: list-of-illustrations
 
 **Michelangelo Buonarroti. _Last Judgment._** 1534-41 fresco 14.6 x 13.41 m Rome, Sistine Chapel (Image source: Wikimedia Commons). **V, 16, XII, 12	V, 16, XII, 12**
 
-**Copy after Pieter Bruegel. _The Massacre of the Innocents._**	1560's oil on wood 116x160cm Vienna, Kunsthistorischesmuseum. (Image source: Kunsthistorisches Museum). **VI, 54**
+**Copy after Pieter Bruegel. _The Massacre of the Innocents._**	1560's oil on wood 116 x 160 cm Vienna, Kunsthistorischesmuseum. (Image source: Kunsthistorisches Museum). **VI, 54**
 
 **Lucas van Leyden. _David Playing the Harp before Saul._** 1508 Engraving 25.2 x 18.2 cm. New York, Metropolitan Museum of Art. Bequest of Ruth Haas Lilienthal 1975.1.89. (Image source: Metropolitan Museum). **VI, 62**
 
@@ -66,10 +66,15 @@ permalink: list-of-illustrations
 
 **Raphael and workshop. _Isaac and Rebecca Spied on by Abimelech._** 1518-19 Fresco Loggia on the second floor, Palazzi Pontifici, Vatican Rome, Vatican Museums. (Image source: Wikimedia Commons). **VII, 56**
 
-**Gillis Coignet. _Judith shows Holofernes's head to the inhabitants of Bethulia._** panel, 62,5 x 1,49 cm Location unknown. (Image source: RKD). **VII, 44**
+**Gillis Coignet. _Judith shows Holofernes's head to the inhabitants of Bethulia._** panel, 62.5 x 149 cm Location unknown. (Image source: RKD). **VII, 44**
 
-**Gillis Coignet. _Lottery in front of the Dolhuis at the Rusland._** 1593, panel, 113 x 203,5 cm, Amsterdam, Amsterdam Museum. (Image source: Amsterdam Museum). **VII, 44*
+**Gillis Coignet. _Lottery in front of the Dolhuis at the Rusland._** 1593, panel, 113 x 203.5 cm, Amsterdam, Amsterdam Museum. (Image source: Amsterdam Museum). **VII, 44*
 
 **Albrecht Dürer. _St. Jerome in his Study._** 1514 Engraving Dimensions: 24.6 x 18.9 cm.trimmed on plate line. New York, Metropolitan Museum of Art. Fletcher Fund, 1919 19.73.68. (Image source: Metropolitan Museum). **VII, 56**
+
+**Pieter Aertsen. _Butcher's Stall._** 1551.Oil on panel, 1.23 x 1.67 cm Uppsala, Museum Gustavianum Uppsala. (Image source: Museum Gustavianum). **VII, 54**
+
+
+
 
 
