@@ -32,4 +32,3 @@ permalink: list-of-illustrations
 **Roman, after Leochares. _Apollo Belvedere._** 120–140 BCE; marble copy of bronze original of ca. 350–325 BCE; h  2.24 cm. Rome, Vatican Museums (Image source: Wikimedia Commons) **IV, 28-9**
 
 **Titian. _Christ Carrying the Cross._** c. 1565 oil on canvas 67 × 77 cm. Madrid, Museo del Prado (Image source: Prado) **V, 29**
-
