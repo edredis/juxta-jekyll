@@ -36,3 +36,11 @@ permalink: list-of-illustrations
 **Bartholomeus Spranger. _Adoration of the Kings._** c. 1595 Oil on canvas, 200 x 144 cm. London, National Gallery. (Image source: British Museum). **V, 23**
 
 **Tintoretto. _The Miracle of the Loaves and Fishes._** ca. 1545-50 Oil on canvas 154.9 x 407.7 cm. New York, Metropolitan Museum. Francis L. Leland Fund, 1913 (13.75). (Image source: Photographed by Schecter Lee ©The Metropolitan Museum of Art). **V, 16**
+
+**Hendrick Goltzius, after Bartholomeus Spranger. _The Feast of the Gods at the Marriage of Cupid and Psyche._** 1587, Engraving, printed from three plates on three attached sheets; second state of four. Overall 16 7/8 x 33 5/8 in. (43 x 85.4 cm).	New York, Metropolitan Museum. Purchase, The Elisha Whittelsey Collection, The Elisha Whittelsy Fund, Martha Feltenstein Gift, and A. Hyatt Mayor Purchase Fund, Marjorie Phelps Starr Bequest, 2000 (2000.113). (Image source: Metropolitan Museum). **V, 12**
+
+**Raphael. _Expulsion of Heliodorus from the Temple._** c. 1512 fresco
+746 cm.wide. Rome,Vatican Museums. (Image source: Wikimedia Commons). **V, 35**
+
+**Cornelis Cort after Federico Zuccaro. _Annunciation._** Raphaël Sadeler I After Cornelis Cort After Federico Zuccaro 1580 Engraving And Etching 30.4 x 44.7 cm. San Francisco, Fine Arts Museum. Achenbach Foundation 1993.63.76 Mr. and Mrs. Marcus Sopher Collection. (Image source: San Francisco Fine Arts Museum). **V, 67**
+
