@@ -94,4 +94,13 @@ permalink: list-of-illustrations
 
 **Joachim Patinir. _Landscape with the Rest on the Flight into Egypt._** c. 1524 oil on panel 51 x 96 cm. St Petersburg, Hermitage Museum. (Image source: Hermitage). **VIII, 24**
 
+**Girolamo Muziano. _View of the Villa d'Este and the Gardens According to the Original Plans._** fresco,  1565. Tivoli, Salotto, Villa D'Este. (Image source: Wikimedia Commons). **VIII, 24**
+
+**Pieter Bruegel. _Parable of the Sower, 1557._** Oil on panel, 73.7 x 102.9 cm	San Diego, Timken Museum. (Image source:Timken Museum). **VIII, 25**
+
+**Joannes and Lucas van Doetecum, after Pieter Bruegel. _Large Alpine landscape._**	Etching and engraving, c.1555-7	Cambridge, Fitzwilliam Museum. Bequeathed by Dr W. M. Keynes 2010. (Image source: Fitzwilliam Museum). **VIII, 25**
+
+**Gillis van Coninxloo. _Landscape with Venus and Adonis._** oil on copper. 48.26 x  64.45 x 6.98 cm. Cleveland Museum of Art.  Mr. and Mrs. William H. Marlatt Fund 1962.293. (Image source: Cleveland Museum). **VIII, 26-42**
+
+**Hendrik Goltzius, after Stradanus. _Equus Liber et Incompositus from Equile Ioannis Austriaci Caroli V Imp. F…._** c. 1579 Engraving, 21.5 cm.x 27 cm. 1910, 0409.35 British Museum. (Image source:London, British Museum). **IX, 15**
 
