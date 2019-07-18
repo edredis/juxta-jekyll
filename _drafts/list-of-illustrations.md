@@ -157,7 +157,3 @@ permalink: list-of-illustrations
 **Titian. _Adoration of the Magi._** Oil on canvas  134.5 x 217 cm.	Cleveland Museum of Art. Mr. and Mrs. William H. Marlatt Fund 1957.150. (Image source: Cleveland Museum of Art). **XII, 34**
 
 **Albrecht Dürer. _Heller Altarpiece._** 1615, Copy after lost original, 1508-9 Tempera and oil on wood center panel 189 x 138 cm Frankfurt, Städel Museum. (Image source: Frankfurt, Städel Museum). **XII, 19**
-
-
-
-
