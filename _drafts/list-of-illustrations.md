@@ -65,3 +65,5 @@ permalink: list-of-illustrations
 **Raphael. _The Deliverance of Peter from Prison._** 1514 Fresco, width at base 660 cm Rome, Vatican Museums. (Image source: Wikimedia Commons). **VII, 37**
 
 **Raphael and workshop. _Isaac and Rebecca Spied on by Abimelech._** 1518-19 Fresco Loggia on the second floor, Palazzi Pontifici, Vatican Rome, Vatican Museums. (Image source: Wikimedia Commons). **VII, 56**
+
+Gillis Coignet Judith shows Holofernes's head to the inhabitants of Bethulia panel, 62,5 x 149 cm Location unknown RKD **VII, 44**
