@@ -54,3 +54,12 @@ permalink: list-of-illustrations
 
 **Michelangelo Buonarroti. _Last Judgment._** 1534-41 fresco 14.6 x 13.41 m Rome, Sistine Chapel (Image source: Wikimedia Commons). **V, 16, XII, 12	V, 16, XII, 12**
 
+**Copy after Pieter Bruegel. _The Massacre of the Innocents._**	1560's oil on wood 116x160cm Vienna, Kunsthistorischesmuseum. (Image source: Kunsthistorisches Museum). **VI, 54**
+
+**Lucas van Leyden. _David Playing the Harp before Saul._** 1508 Engraving 25.2 x 18.2 cm. New York, Metropolitan Museum of Art. Bequest of Ruth Haas Lilienthal 1975.1.89. (Image source: Metropolitan Museum). **VI, 62**
+
+**Giotto. _"Navicella"._** 1305-13; copy by Francesco Berretta, 1628 Oil on canvas, 740 x 990 cm Fabbrica di San Pietro, Rome. (Image source: Wikimedia Commons). **VI, 63**
+
+
+
+
