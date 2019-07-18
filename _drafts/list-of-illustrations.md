@@ -80,4 +80,7 @@ permalink: list-of-illustrations
 
 **Jan Saenredam after Cornelis Cornelisz. _The Cave of Plato._** Engraving, 32.9  × 45.2 cm. Amsterdam, Rijksprentenkabinet. (Image source: Rikjsmuseum). **VII, 45**
 
+**Italian School, after Titian.	_Saint Jerome in the Wilderness._** Woodcut, c. 1525-30. 38.5 x 52.5 cm	New York, Metropolitan Museum. Rogers Fund, 1922. (Image source: Metropolitan Museum). **VIII, 24**
+
+**Niccolò dell'Abate. _Landscape with a Wild Boar Hunt._** c. 1550 oil on canvas 151 x 183 cm Rome, Galleria Spada. (Image source: ARTStor). **VIII, 19**
 
