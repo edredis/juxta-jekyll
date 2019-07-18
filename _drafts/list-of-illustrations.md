@@ -146,8 +146,5 @@ permalink: list-of-illustrations
 
 **Roman. _Sleeping Ariadne._** Roman copy of Greek original, 2nd century BCE Rome, Vatican Museums. (Image source: Photo © Wknight94, via Wikimedia Commons). **X, 27**
 
-
-
-
-
+**Karel van Mander. _The Dance Around the Golden Calf._** 1602 Oil on canvas 98 x 213.5 cm Haarlem, Frans Hals Museum. (Image source: Haarlem, Frans Hals Museum). **X, 29**
 
